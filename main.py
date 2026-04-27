@@ -8,6 +8,7 @@ from datetime import datetime, timedelta
 from sklearn.feature_extraction.text import TfidfVectorizer
 import matplotlib.pyplot as plt
 from collections import Counter
+from urllib.parse import quote
 
 # ======================
 # 配置
