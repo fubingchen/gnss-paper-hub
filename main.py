@@ -126,7 +126,17 @@ def fetch_arxiv(days=7):
 # ======================
 
 def plot_trend(papers):
-    years = [p["year"] for p in papers if p["year"]]
+    years = []
+
+    for p in papers:
+        y = p.get("year")
+
+        try:
+            y = int(y)
+            years.append(y)
+        except:
+            continue
+
     counter = Counter(years)
 
     x = sorted(counter.keys())
