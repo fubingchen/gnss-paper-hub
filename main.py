@@ -100,20 +100,22 @@ def fetch_crossref(days=7):
     return papers
 
 def fetch_arxiv(days=7):
-    query = "gnss OR gps OR beidou OR galileo"
+    query = quote("gnss gps beidou galileo ppp rtk")
+
     url = f"http://export.arxiv.org/api/query?search_query={query}&max_results=50"
 
     feed = feedparser.parse(url)
+
     papers = []
 
-    for entry in feed.entries:
+    for e in feed.entries:
         papers.append({
-            "title": entry.title,
-            "authors": ", ".join([a.name for a in entry.authors]),
-            "year": entry.published[:4],
+            "title": e.title,
+            "authors": ", ".join([a.name for a in e.authors]) if hasattr(e, "authors") else "",
+            "year": e.published[:4],
             "journal": "arXiv",
-            "url": entry.link,
-            "abstract": entry.summary
+            "url": e.link,
+            "abstract": e.summary
         })
 
     return papers
