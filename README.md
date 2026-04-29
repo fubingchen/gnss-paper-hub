@@ -113,19 +113,19 @@ Automatically updated GNSS papers.
 - **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
 - [Link](https://arxiv.org/abs/2506.02877v1)
 
-### PARFAIT: GNSS-R coastal altimetry
-- M. Caparrini, L. Ruffini, G. Ruffini (2003)
-- *arXiv*
-- **Keywords:** coherent, gnss, altimetry, component, gps
-- **Abstract:** GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coheren...
-- [Link](https://arxiv.org/abs/physics/0311052v1)
-
 ### The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft
 - G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira (2003)
 - *arXiv*
 - **Keywords:** gnss, gps, surface, aircraft, altimetric
 - **Abstract:** We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10...
 - [Link](https://arxiv.org/abs/physics/0310092v1)
+
+### PARFAIT: GNSS-R coastal altimetry
+- M. Caparrini, L. Ruffini, G. Ruffini (2003)
+- *arXiv*
+- **Keywords:** coherent, gnss, altimetry, component, gps
+- **Abstract:** GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coheren...
+- [Link](https://arxiv.org/abs/physics/0311052v1)
 
 ### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
 - J. -F. Pascual-Sánchez (2004)

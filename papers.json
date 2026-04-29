@@ -277,24 +277,6 @@
     ]
   },
   {
-    "title": "PARFAIT: GNSS-R coastal altimetry",
-    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
-    "year": "2003",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/physics/0311052v1",
-    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
-    "keywords": [
-      "coherent",
-      "gnss",
-      "altimetry",
-      "component",
-      "gps"
-    ],
-    "tags": [
-      "Ionosphere"
-    ]
-  },
-  {
     "title": "The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft",
     "authors": "G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira",
     "year": "2003",
@@ -310,6 +292,24 @@
     ],
     "tags": [
       "Other"
+    ]
+  },
+  {
+    "title": "PARFAIT: GNSS-R coastal altimetry",
+    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
+    "year": "2003",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0311052v1",
+    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
+    "keywords": [
+      "coherent",
+      "gnss",
+      "altimetry",
+      "component",
+      "gps"
+    ],
+    "tags": [
+      "Ionosphere"
     ]
   },
   {
@@ -712,24 +712,6 @@
     ]
   },
   {
-    "title": "Few-Shot Learning with Uncertainty-based Quadruplet Selection for Interference Classification in GNSS Data",
-    "authors": "Felix Ott, Lucas Heublein, Nisha Lakshmana Raichur, Tobias Feigl, Jonathan Hansen, Alexander R\u00fcgamer, Christopher Mutschler",
-    "year": "2024",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2402.09466v2",
-    "abstract": "Jamming devices pose a significant threat by disrupting signals from the global navigation satellite system (GNSS), compromising the robustness of accurate positioning. Detecting anomalies in frequency snapshots is crucial to counteract these interferences effectively. The ability to adapt to diverse, unseen interference characteristics is essential for ensuring the reliability of GNSS in real-world applications. In this paper, we propose a few-shot learning (FSL) approach to adapt to new interference classes. Our method employs quadruplet selection for the model to learn representations using various positive and negative interference classes. Furthermore, our quadruplet variant selects pairs based on the aleatoric and epistemic uncertainty to differentiate between similar classes. We recorded a dataset at a motorway with eight interference classes on which our FSL method with quadruplet loss outperforms other FSL techniques in jammer classification accuracy with 97.66%. Dataset available at: https://gitlab.cc-asp.fraunhofer.de/darcy_gnss/FIOT_highway",
-    "keywords": [
-      "interference",
-      "classes",
-      "quadruplet",
-      "fsl",
-      "gnss"
-    ],
-    "tags": [
-      "Ionosphere"
-    ]
-  },
-  {
     "title": "Galileo satellite constellation and extensions to General Relativity",
     "authors": "J. Paramos, O. Bertolami",
     "year": "2007",
@@ -746,6 +728,24 @@
     "tags": [
       "LEO",
       "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Few-Shot Learning with Uncertainty-based Quadruplet Selection for Interference Classification in GNSS Data",
+    "authors": "Felix Ott, Lucas Heublein, Nisha Lakshmana Raichur, Tobias Feigl, Jonathan Hansen, Alexander R\u00fcgamer, Christopher Mutschler",
+    "year": "2024",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2402.09466v2",
+    "abstract": "Jamming devices pose a significant threat by disrupting signals from the global navigation satellite system (GNSS), compromising the robustness of accurate positioning. Detecting anomalies in frequency snapshots is crucial to counteract these interferences effectively. The ability to adapt to diverse, unseen interference characteristics is essential for ensuring the reliability of GNSS in real-world applications. In this paper, we propose a few-shot learning (FSL) approach to adapt to new interference classes. Our method employs quadruplet selection for the model to learn representations using various positive and negative interference classes. Furthermore, our quadruplet variant selects pairs based on the aleatoric and epistemic uncertainty to differentiate between similar classes. We recorded a dataset at a motorway with eight interference classes on which our FSL method with quadruplet loss outperforms other FSL techniques in jammer classification accuracy with 97.66%. Dataset available at: https://gitlab.cc-asp.fraunhofer.de/darcy_gnss/FIOT_highway",
+    "keywords": [
+      "interference",
+      "classes",
+      "quadruplet",
+      "fsl",
+      "gnss"
+    ],
+    "tags": [
+      "Ionosphere"
     ]
   },
   {
