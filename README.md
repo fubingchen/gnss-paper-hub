@@ -8,19 +8,12 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
-### A transformer-based stochastic model and application to robust Doppler velocity estimation on smartphones in complex environments
-- Liu, Jiang, Wang, Ding, Gao (2026)
+### Global geodetic parameter estimation based on the combination of GPS, Galileo and LEO satellites
+- Zhao, Zhang, Li, Fu, Yuan, Zheng (2026)
 - *GPS Solutions*
-- **Keywords:** application, based, complex, doppler, environments
+- **Keywords:** based, combination, estimation, galileo, geodetic
 - **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02082-0)
-
-### Real-time tropospheric delay modeling over large areas by integrating GFS forecasts and GNSS-derived ZWD for enhanced PPP-AR positioning
-- Cui, Du, Li, Huang, Wang, Zhang (2026)
-- *GPS Solutions*
-- **Keywords:** ar, areas, delay, derived, enhanced
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02081-1)
+- [Link](https://doi.org/10.1007/s10291-026-02085-x)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -217,4 +210,11 @@ Automatically updated GNSS papers.
 - **Keywords:** gnss, pseudo, range, stage, odometer
 - **Abstract:** Reliable GNSS positioning in complex environments remains a critical challenge due to non-line-of-sight (NLOS) propagation, multipath effects, and frequent signal blockages. These effects can easily introduce large outliers into the raw pseudo-range measurements, which significantly degrade the perf...
 - [Link](https://arxiv.org/abs/2510.00524v1)
+
+### Efficacy of Asynchronous GPS Spoofing Against High Volume Consumer GNSS Receivers
+- M. Surendra Kumar, Gaurav S. Kasbekar, Arnab Maity (2022)
+- *arXiv*
+- **Keywords:** gps, spoofing, asynchronous, gnss, attack
+- **Abstract:** The vulnerability of the Global Positioning System (GPS) against spoofing is known for quite some time. Also, the positioning and navigation of most semi-autonomous and autonomous drones are dependent on Global Navigation Satellite System (GNSS) signals. In prior work, simplistic or asynchronous GPS...
+- [Link](https://arxiv.org/abs/2206.09133v1)
 

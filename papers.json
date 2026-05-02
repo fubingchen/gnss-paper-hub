@@ -1,38 +1,21 @@
 [
   {
-    "title": "A transformer-based stochastic model and application to robust Doppler velocity estimation on smartphones in complex environments",
-    "authors": "Liu, Jiang, Wang, Ding, Gao",
+    "title": "Global geodetic parameter estimation based on the combination of GPS, Galileo and LEO satellites",
+    "authors": "Zhao, Zhang, Li, Fu, Yuan, Zheng",
     "year": 2026,
     "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02082-0",
+    "url": "https://doi.org/10.1007/s10291-026-02085-x",
     "abstract": "",
     "keywords": [
-      "application",
       "based",
-      "complex",
-      "doppler",
-      "environments"
+      "combination",
+      "estimation",
+      "galileo",
+      "geodetic"
     ],
     "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Real-time tropospheric delay modeling over large areas by integrating GFS forecasts and GNSS-derived ZWD for enhanced PPP-AR positioning",
-    "authors": "Cui, Du, Li, Huang, Wang, Zhang",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02081-1",
-    "abstract": "",
-    "keywords": [
-      "ar",
-      "areas",
-      "delay",
-      "derived",
-      "enhanced"
-    ],
-    "tags": [
-      "PPP"
+      "LEO",
+      "Multi-GNSS"
     ]
   },
   {
