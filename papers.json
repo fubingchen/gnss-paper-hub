@@ -1,5 +1,41 @@
 [
   {
+    "title": "Weak GPS signal tracking using block coherent integration based on NN discriminator",
+    "authors": "Gong, Lin, Liu, Ou",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02083-z",
+    "abstract": "",
+    "keywords": [
+      "based",
+      "block",
+      "coherent",
+      "discriminator",
+      "gps"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "An XAI-based framework for GNSS observation data anomaly detection in constrained observation environments",
+    "authors": "Li, Du, Huang, Zhang",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02075-z",
+    "abstract": "",
+    "keywords": [
+      "observation",
+      "anomaly",
+      "based",
+      "constrained",
+      "data"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "Global geodetic parameter estimation based on the combination of GPS, Galileo and LEO satellites",
     "authors": "Zhao, Zhang, Li, Fu, Yuan, Zheng",
     "year": 2026,
@@ -714,24 +750,6 @@
     ]
   },
   {
-    "title": "Few-Shot Learning with Uncertainty-based Quadruplet Selection for Interference Classification in GNSS Data",
-    "authors": "Felix Ott, Lucas Heublein, Nisha Lakshmana Raichur, Tobias Feigl, Jonathan Hansen, Alexander R\u00fcgamer, Christopher Mutschler",
-    "year": "2024",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2402.09466v2",
-    "abstract": "Jamming devices pose a significant threat by disrupting signals from the global navigation satellite system (GNSS), compromising the robustness of accurate positioning. Detecting anomalies in frequency snapshots is crucial to counteract these interferences effectively. The ability to adapt to diverse, unseen interference characteristics is essential for ensuring the reliability of GNSS in real-world applications. In this paper, we propose a few-shot learning (FSL) approach to adapt to new interference classes. Our method employs quadruplet selection for the model to learn representations using various positive and negative interference classes. Furthermore, our quadruplet variant selects pairs based on the aleatoric and epistemic uncertainty to differentiate between similar classes. We recorded a dataset at a motorway with eight interference classes on which our FSL method with quadruplet loss outperforms other FSL techniques in jammer classification accuracy with 97.66%. Dataset available at: https://gitlab.cc-asp.fraunhofer.de/darcy_gnss/FIOT_highway",
-    "keywords": [
-      "interference",
-      "classes",
-      "quadruplet",
-      "fsl",
-      "gnss"
-    ],
-    "tags": [
-      "Ionosphere"
-    ]
-  },
-  {
     "title": "Cross-sphere Coupling and Source Inversion of Ionospheric Disturbances Associated with the 2025 Myanmar Strike-slip Earthquake from BeiDou GEO and Multi-GNSS Observations",
     "authors": "Jianghe Chen, Pan Xiong, Qingshan Ruan, Xiaoran Zhang, Yuqi Lin, Xuemin Zhang, Ting Zhang, Kaixin Wang, Xuhui Shen",
     "year": "2026",
@@ -748,6 +766,24 @@
     "tags": [
       "Ionosphere",
       "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Few-Shot Learning with Uncertainty-based Quadruplet Selection for Interference Classification in GNSS Data",
+    "authors": "Felix Ott, Lucas Heublein, Nisha Lakshmana Raichur, Tobias Feigl, Jonathan Hansen, Alexander R\u00fcgamer, Christopher Mutschler",
+    "year": "2024",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2402.09466v2",
+    "abstract": "Jamming devices pose a significant threat by disrupting signals from the global navigation satellite system (GNSS), compromising the robustness of accurate positioning. Detecting anomalies in frequency snapshots is crucial to counteract these interferences effectively. The ability to adapt to diverse, unseen interference characteristics is essential for ensuring the reliability of GNSS in real-world applications. In this paper, we propose a few-shot learning (FSL) approach to adapt to new interference classes. Our method employs quadruplet selection for the model to learn representations using various positive and negative interference classes. Furthermore, our quadruplet variant selects pairs based on the aleatoric and epistemic uncertainty to differentiate between similar classes. We recorded a dataset at a motorway with eight interference classes on which our FSL method with quadruplet loss outperforms other FSL techniques in jammer classification accuracy with 97.66%. Dataset available at: https://gitlab.cc-asp.fraunhofer.de/darcy_gnss/FIOT_highway",
+    "keywords": [
+      "interference",
+      "classes",
+      "quadruplet",
+      "fsl",
+      "gnss"
+    ],
+    "tags": [
+      "Ionosphere"
     ]
   },
   {
