@@ -36,25 +36,6 @@
     ]
   },
   {
-    "title": "Global geodetic parameter estimation based on the combination of GPS, Galileo and LEO satellites",
-    "authors": "Zhao, Zhang, Li, Fu, Yuan, Zheng",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02085-x",
-    "abstract": "",
-    "keywords": [
-      "based",
-      "combination",
-      "estimation",
-      "galileo",
-      "geodetic"
-    ],
-    "tags": [
-      "LEO",
-      "Multi-GNSS"
-    ]
-  },
-  {
     "title": "Standalone and RTK GNSS on 30,000 km of North American Highways",
     "authors": "Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia",
     "year": "2019",

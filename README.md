@@ -22,13 +22,6 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02075-z)
 
-### Global geodetic parameter estimation based on the combination of GPS, Galileo and LEO satellites
-- Zhao, Zhang, Li, Fu, Yuan, Zheng (2026)
-- *GPS Solutions*
-- **Keywords:** based, combination, estimation, galileo, geodetic
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02085-x)
-
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
@@ -217,4 +210,11 @@ Automatically updated GNSS papers.
 - **Keywords:** ns, utc, butc_gnss, gnss, offset
 - **Abstract:** We present a new approach to report in the Section 4 of BIPM Circular T daily values of the offset between UTC and the predictions of UTC broadcast by the GNSS, this quantity we name bUTC_GNSS. In this approach, the determination of UTC - bUTC_GNSS is based on data collected by several multi-GNSS st...
 - [Link](https://arxiv.org/abs/2503.02914v1)
+
+### Two stage GNSS outlier detection for factor graph optimization based GNSS-RTK/INS/odometer fusion
+- Baoshan Song, Penggao Yan, Xiao Xia, Yihan Zhong, Weisong Wen, Li-Ta Hsu (2025)
+- *arXiv*
+- **Keywords:** gnss, pseudo, range, stage, odometer
+- **Abstract:** Reliable GNSS positioning in complex environments remains a critical challenge due to non-line-of-sight (NLOS) propagation, multipath effects, and frequent signal blockages. These effects can easily introduce large outliers into the raw pseudo-range measurements, which significantly degrade the perf...
+- [Link](https://arxiv.org/abs/2510.00524v1)
 
