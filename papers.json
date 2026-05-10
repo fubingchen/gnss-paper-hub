@@ -976,24 +976,6 @@
     ]
   },
   {
-    "title": "The relationship between FR0 radio galaxies and GPS sources",
-    "authors": "A. Mikhailov, Yu. Sotnikova",
-    "year": "2021",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2111.06141v1",
-    "abstract": "We present the results of our study of the relationship between FR0 radio galaxies and GPS sources. Quasi-simultaneous radio spectra of 34 FR0s were obtained at 2.25-22.3 GHz with the radio telescope RATAN-600 in 2020-2021 during 2-6 epochs. Most FR0s have flat radio spectra, but we found many spectra with a peaked shape. Due to this fact and the compact nature of FR0s, we suggest their possible relationship with CSS/GPS radio sources. We analyzed broadband radio spectra of the 34 FR0s using the RATAN-600 measurements and available literature data. There are 14 FR0 objects which can be CSS/GPS radio source candidates. Most FR0s have broader radio spectra than those of genuine GPS sources, with FWHM > 2 like in blazars. Most spectral indices at the frequencies below and above the peak do not correspond to the values typical of canonical GPS sources. We classified 3 FR0s as low-power GPS sources according to the canonical criteria. The key issue is the variability properties of FR0s. Some FR0s demonstrate a variability level of up to 25 % on a time scale of one year according to the RATAN-600 measurements. The flare phenomena in FR0 objects can imply a relationship between them and blazars.",
-    "keywords": [
-      "radio",
-      "fr0s",
-      "gps",
-      "sources",
-      "spectra"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
     "title": "GNSS/GPS Spoofing and Jamming Identification Using Machine Learning and Deep Learning",
     "authors": "Ali Ghanbarzade, Hossein Soleimani",
     "year": "2025",
@@ -1009,6 +991,24 @@
     ],
     "tags": [
       "Ionosphere"
+    ]
+  },
+  {
+    "title": "The relationship between FR0 radio galaxies and GPS sources",
+    "authors": "A. Mikhailov, Yu. Sotnikova",
+    "year": "2021",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2111.06141v1",
+    "abstract": "We present the results of our study of the relationship between FR0 radio galaxies and GPS sources. Quasi-simultaneous radio spectra of 34 FR0s were obtained at 2.25-22.3 GHz with the radio telescope RATAN-600 in 2020-2021 during 2-6 epochs. Most FR0s have flat radio spectra, but we found many spectra with a peaked shape. Due to this fact and the compact nature of FR0s, we suggest their possible relationship with CSS/GPS radio sources. We analyzed broadband radio spectra of the 34 FR0s using the RATAN-600 measurements and available literature data. There are 14 FR0 objects which can be CSS/GPS radio source candidates. Most FR0s have broader radio spectra than those of genuine GPS sources, with FWHM > 2 like in blazars. Most spectral indices at the frequencies below and above the peak do not correspond to the values typical of canonical GPS sources. We classified 3 FR0s as low-power GPS sources according to the canonical criteria. The key issue is the variability properties of FR0s. Some FR0s demonstrate a variability level of up to 25 % on a time scale of one year according to the RATAN-600 measurements. The flare phenomena in FR0 objects can imply a relationship between them and blazars.",
+    "keywords": [
+      "radio",
+      "fr0s",
+      "gps",
+      "sources",
+      "spectra"
+    ],
+    "tags": [
+      "Other"
     ]
   }
 ]
