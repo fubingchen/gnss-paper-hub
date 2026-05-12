@@ -24,20 +24,6 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02058-0)
 
-### Weak GPS signal tracking using block coherent integration based on NN discriminator
-- Gong, Lin, Liu, Ou (2026)
-- *GPS Solutions*
-- **Keywords:** based, block, coherent, discriminator, gps
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02083-z)
-
-### An XAI-based framework for GNSS observation data anomaly detection in constrained observation environments
-- Li, Du, Huang, Zhang (2026)
-- *GPS Solutions*
-- **Keywords:** observation, anomaly, based, constrained, data
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02075-z)
-
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
@@ -219,4 +205,18 @@ Automatically updated GNSS papers.
 - **Keywords:** monitoring, gnss, data, rtk, based
 - **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
 - [Link](https://arxiv.org/abs/2301.05977v2)
+
+### Monitoring of the offset between UTC and its prediction broadcast by the GNSS
+- Pascale Defraigne, Elisa Pinat, Gérard Petit, Frédéric Meynadier (2025)
+- *arXiv*
+- **Keywords:** ns, utc, butc_gnss, gnss, offset
+- **Abstract:** We present a new approach to report in the Section 4 of BIPM Circular T daily values of the offset between UTC and the predictions of UTC broadcast by the GNSS, this quantity we name bUTC_GNSS. In this approach, the determination of UTC - bUTC_GNSS is based on data collected by several multi-GNSS st...
+- [Link](https://arxiv.org/abs/2503.02914v1)
+
+### Two stage GNSS outlier detection for factor graph optimization based GNSS-RTK/INS/odometer fusion
+- Baoshan Song, Penggao Yan, Xiao Xia, Yihan Zhong, Weisong Wen, Li-Ta Hsu (2025)
+- *arXiv*
+- **Keywords:** gnss, pseudo, range, stage, odometer
+- **Abstract:** Reliable GNSS positioning in complex environments remains a critical challenge due to non-line-of-sight (NLOS) propagation, multipath effects, and frequent signal blockages. These effects can easily introduce large outliers into the raw pseudo-range measurements, which significantly degrade the perf...
+- [Link](https://arxiv.org/abs/2510.00524v1)
 

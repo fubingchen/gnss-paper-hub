@@ -39,42 +39,6 @@
     ]
   },
   {
-    "title": "Weak GPS signal tracking using block coherent integration based on NN discriminator",
-    "authors": "Gong, Lin, Liu, Ou",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02083-z",
-    "abstract": "",
-    "keywords": [
-      "based",
-      "block",
-      "coherent",
-      "discriminator",
-      "gps"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "An XAI-based framework for GNSS observation data anomaly detection in constrained observation environments",
-    "authors": "Li, Du, Huang, Zhang",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02075-z",
-    "abstract": "",
-    "keywords": [
-      "observation",
-      "anomaly",
-      "based",
-      "constrained",
-      "data"
-    ],
-    "tags": [
-      "Ionosphere"
-    ]
-  },
-  {
     "title": "Standalone and RTK GNSS on 30,000 km of North American Highways",
     "authors": "Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia",
     "year": "2019",
