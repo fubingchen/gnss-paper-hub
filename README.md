@@ -8,6 +8,13 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Correction: Identifying healthy urban zones for GNSS-based tropospheric delay estimation using 3D ray-tracing
+- Mehdi, Wareyka-Glaner, Zhang, Rohm (2026)
+- *GPS Solutions*
+- **Keywords:** 3d, based, correction, delay, estimation
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02086-w)
+
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
@@ -210,11 +217,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, spoofing, asynchronous, gnss, attack
 - **Abstract:** The vulnerability of the Global Positioning System (GPS) against spoofing is known for quite some time. Also, the positioning and navigation of most semi-autonomous and autonomous drones are dependent on Global Navigation Satellite System (GNSS) signals. In prior work, simplistic or asynchronous GPS...
 - [Link](https://arxiv.org/abs/2206.09133v1)
-
-### High Frequency GPS sources in the AT20G Survey
-- P. J. Hancock (2009)
-- *arXiv*
-- **Keywords:** gps, sources, at20g, sample, spectrum
-- **Abstract:** The Australia Telescope 20GHz (AT20G) survey was used to select a complete sample of 656 Gigahertz Peaked Spectrum (GPS) sources with spectral turnovers above 5GHz. The AT20G has near simultaneous observations at 4.8, 8.6 and 20GHz, which makes it possible to exclude flat spectrum variability as a c...
-- [Link](https://arxiv.org/abs/0901.4592v1)
 
