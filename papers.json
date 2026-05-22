@@ -1,5 +1,23 @@
 [
   {
+    "title": "Improved estimates of GNSS-inverted TWS through a benchmarking approach: a case study for the Seine river basin",
+    "authors": "Mikocki, Klos, Lenczuk, Argus, Bogusz",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02090-0",
+    "abstract": "Abstract\n                  We use the vertical displacements of 331 Global Navigation Satellite System (GNSS) antennas provided by the Nevada Geodetic Laboratory (NGL) between April 2002 and May 2022 and located in the European Seine River basin. We invert these displacements using elastic loading theory for changes in Terrestrial Water Storage (TWS). We adopt a benchmarking approach to classify GNSS stations as reliable for estimating TWS changes on two pre-defined temporal-scales: seasonal and long-term. We find 302 and 183 of the 331 GNSS stations to be reliable for seasonal and long-term temporal-scales, respectively, and then use them for GNSS inversion. We compare the GNSS-inverted TWS using the benchmarking approach with initial and common approaches that use all available and pre-selected set of GNSS stations for inversion, respectively. We show that the GNSS-inverted TWS using the benchmarking approach is most consistent with ERA5-Land TWS in the western part of the basin, where the densest network of GNSS stations is available. It also detects long-lasting droughts reported earlier with great reliability, providing an alternative to hydrological models. We then recommend for future hydrogeodetic studies to benchmark the GNSS stations for the two temporal-scales, which will improve the comparison with other datasets, enhancing the interpretation of long-term and seasonal hydrological events.",
+    "keywords": [
+      "gnss",
+      "tws",
+      "stations",
+      "approach",
+      "benchmarking"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "Correction: Identifying healthy urban zones for GNSS-based tropospheric delay estimation using 3D ray-tracing",
     "authors": "Mehdi, Wareyka-Glaner, Zhang, Rohm",
     "year": 2026,
