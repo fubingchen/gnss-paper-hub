@@ -1,5 +1,23 @@
 [
   {
+    "title": "Global characterisation of GNSS-PWV behaviour stratified by the K\u00f6ppen-Geiger climate classification",
+    "authors": "Li, Li, Choy, Cai, Zhang, Chang, Tong, Wang",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02091-z",
+    "abstract": "Abstract\n                  In recent decades, the warming planet has been reshaping the Earth\u2019s hydrological cycle, reinforcing the need for accurate monitoring of water vapour dynamics. While ground-based Global Navigation Satellite Systems (GNSS) atmospheric monitoring has emerged as a powerful tool for sensing water vapour, a systematic assessment of long-term precipitable water vapour (PWV) variability across distinct climate types remains rather limited. Here, we present a global characterisation of PWV behaviours by analysing homogeneous, quality-controlled records from 1124 globally distributed GNSS stations, each with over 16 years of observations, within the K\u00f6ppen-Geiger climate classification system. PWV behaviours are examined hierarchically, from major climate categories to precipitation- and temperature-related codes and detailed full climate regimes. Results demonstrate that PWV exhibits robust seasonal phasing across all regimes, with summer maxima and winter minima, highlighting the dominant thermodynamic control on moisture-holding capacity. Precipitation seasonality and aridity impose additional, regime-dependent modulation. Importantly, the full-code analysis reveals a non-linear thermo-hydrological coupling. To be clear, moisture-sufficient climates allow the thermal potential to be fully expressed, whereas moisture-limited climates cap PWV levels even under intense heating. Furthermore, hemispheric harmonisation demonstrates global synchrony in these behaviours across equivalent climate types. Overall, the findings establish an observation-based benchmark for interpreting GNSS atmospheric parameters, evaluating humidity fields in global climate models, and informing future refinements of climate zonation systems for improved atmospheric modelling and monitoring.",
+    "keywords": [
+      "climate",
+      "pwv",
+      "global",
+      "gnss",
+      "atmospheric"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
     "title": "Improved estimates of GNSS-inverted TWS through a benchmarking approach: a case study for the Seine river basin",
     "authors": "Mikocki, Klos, Lenczuk, Argus, Bogusz",
     "year": 2026,
@@ -12,6 +30,80 @@
       "stations",
       "approach",
       "benchmarking"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
+    "title": "Sustaining real-time PPP with predicted precise corrections during short outages of BDS-3 PPP-B2b service and its rapid convergence upon signal reacquisition",
+    "authors": "Yang, Pan",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02094-w",
+    "abstract": "",
+    "keywords": [
+      "ppp",
+      "b2b",
+      "bds",
+      "convergence",
+      "corrections"
+    ],
+    "tags": [
+      "PPP",
+      "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Analysis of GNSS-IR snow depth retrieval using SNR-derived interferometric phase",
+    "authors": "Yuan, Liu, Hu, Asgarimehr, Wickert",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02084-y",
+    "abstract": "Abstract\n                  Global Navigation Satellite System Interferometric Reflectometry (GNSS-IR) provides scientists with an efficient method of measuring snow depth data with high spatial and temporal resolution, complementing existing snow products. The interferometric phase of the signal-to-noise ratio (SNR) is strongly correlated with the additional path delay, which is a key factor in altimetry applications. Existing altimetry applications are realized by analyzing the rate of change of the phase (i.e., the dominant frequency). However, there is a lack of in-depth exploration of the direct application of phase. Therefore, the initial focus of this study is to develop a geometric model between the interferometric phase derived from SNR and snow depth and to evaluate its performance at different stations. The secondary aim is to analyze the sensitivity of the phase to different snow states (accumulation and melting). The SNR data from three GNSS stations (PRDN, SG27, and P351) and four constellations (GPS, GLONASS, BDS, and Galileo) were analyzed. The results show that the retrieval results of the proposed method at different stations and at the same station but using different datasets are highly consistent with the conventional method, which demonstrates the feasibility and generalizability of the proposed method. For station P351, the root mean square error of the proposed method is also reduced by more than 20% compared to the conventional method. More importantly, the analysis found that the phase has the potential to identify the snow state of the reflecting surface. Also, the retrieval threshold for phase altimetry is higher relative to the conventional method. This study partially alleviates a limitation of GNSS-IR snow depth retrieval at existing stations with low antenna heights.",
+    "keywords": [
+      "phase",
+      "method",
+      "snow",
+      "depth",
+      "different"
+    ],
+    "tags": [
+      "LEO",
+      "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Precise positioning on the moon using lunar GNSS and UWB network",
+    "authors": "Jung, Kim",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02088-8",
+    "abstract": "",
+    "keywords": [
+      "gnss",
+      "lunar",
+      "moon",
+      "network",
+      "positioning"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "PyROEX: a python-based open-source software toolkit for GNSS radio occultation data preprocessing in ROEX format",
+    "authors": "Meng, Zhang, Sun, Du, Bai, Yang, Wang, Hu, Wang, Tan",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02095-9",
+    "abstract": "Abstract\n                  Currently, GNSS radio occultation (RO) detection technology has been successfully implemented in satellite missions, including CHAMP, GRACE, COSMIC, Metop, the FengYun-3 series, et al., and has been operationally integrated into numerical weather prediction systems. Despite its technical maturity, the lack of standardized observation-independent exchange format remains a significant challenge for effective data exchange and unified processing of occultation data. To address this limitation, the National Space Science Center (NSSC) of the Chinese Academy of Sciences has proposed and developed the GNSS Radio Occultation Observation Independent Exchange Format (ROEX), aiming to improve data sharing and enhance the application of RO technology in atmospheric sounding and weather forecasting. Based on this, this paper develops a python-based open-source software tool for ROEX file preprocessing, named PyROEX. The software is a graphical user interface (GUI) tool which provides functions for file observation monitoring, observation scientific combination, data integrity checking, and file cutting. Users can freely select the observation they wish to view or combine, and analyze the file quality through plotted graphs. This paper introduces the ROEX format and the functional modules of PyROEX, as well as the analysis results of its operation. It is expected that this software will contribute to the widespread adoption of the ROEX format, thereby reducing the economic costs, time costs, and personnel costs associated with data exchange, communication, and software development caused by inconsistent data formats, and accelerate the operational application of GNSS occultation products.",
+    "keywords": [
+      "data",
+      "format",
+      "observation",
+      "occultation",
+      "roex"
     ],
     "tags": [
       "Ionosphere"
