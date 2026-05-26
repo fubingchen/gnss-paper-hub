@@ -1,5 +1,23 @@
 [
   {
+    "title": "Global GNSS IWV diurnal variability over 6,000 stations and its implications for assessing the impact of artificial ERA5 discontinuities",
+    "authors": "Yuan, Blewitt, Kreemer, Li, Lu, Xia, Jiang, Schuh, Wickert, Deng",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02093-x",
+    "abstract": "Abstract\n                  The diurnal cycle of Integrated Water Vapor (IWV) plays a key role in radiation, convection, and land\u2013atmosphere interactions, yet its global characteristics and representation in atmospheric reanalysis products remain insufficiently quantified. Using a decade of GNSS observations from more than 6,000 stations, this study characterizes the global IWV diurnal variability and assesses the performance of ERA5 in reproducing these signals. GNSS IWV exhibits a coherent diurnal cycle dominated by the S\u2081 (24\u00a0h) harmonic, with annual-mean amplitudes decreasing from 3\u00a0kg m\u207b\u00b2 in the tropics to near zero at high latitudes, a global mean of 0.40\u00a0kg m\u207b\u00b2, and peak times clustered around 17.4 local time; the semidiurnal S\u2082 (12\u00a0h) component is weaker but similarly systematic. In contrast, ERA5 exhibits sharp artificial discontinuities at the transition times (09\u201310 and 21\u201322 UTC) of its 12-hour assimilation windows, affecting 54% of stations and reaching magnitudes that are 146% of the standard deviation of observed diurnal anomalies. These discontinuities distort the estimated diurnal cycle, producing a median S\u2081 phase lag of 1.1\u00a0h relative to GNSS and weakening S\u2082 amplitude agreement, with the coefficient of determination (R\u00b2) decreasing from 0.48 to 0.38. The results highlight both the robustness of GNSS IWV as a benchmark and the need for caution when using ERA5 for diurnal-cycle applications.",
+    "keywords": [
+      "diurnal",
+      "gnss",
+      "iwv",
+      "cycle",
+      "era5"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
     "title": "Global characterisation of GNSS-PWV behaviour stratified by the K\u00f6ppen-Geiger climate classification",
     "authors": "Li, Li, Choy, Cai, Zhang, Chang, Tong, Wang",
     "year": 2026,

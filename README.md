@@ -8,6 +8,14 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Global GNSS IWV diurnal variability over 6,000 stations and its implications for assessing the impact of artificial ERA5 discontinuities
+- Yuan, Blewitt, Kreemer, Li, Lu, Xia, Jiang, Schuh, Wickert, Deng (2026)
+- *GPS Solutions*
+- **Keywords:** diurnal, gnss, iwv, cycle, era5
+- **Abstract:** Abstract
+                  The diurnal cycle of Integrated Water Vapor (IWV) plays a key role in radiation, convection, and land–atmosphere interactions, yet its global characteristics and representation in atmospheric reanalysis products remain insufficiently quantified. Using a decade of GNSS obse...
+- [Link](https://doi.org/10.1007/s10291-026-02093-x)
+
 ### Global characterisation of GNSS-PWV behaviour stratified by the Köppen-Geiger climate classification
 - Li, Li, Choy, Cai, Zhang, Chang, Tong, Wang (2026)
 - *GPS Solutions*
