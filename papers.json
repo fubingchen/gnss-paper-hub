@@ -1,5 +1,41 @@
 [
   {
+    "title": "PySSR: an open-source python toolbox for real-time GNSS product analysis",
+    "authors": "Teng, Liu, Schuh",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02096-8",
+    "abstract": "",
+    "keywords": [
+      "analysis",
+      "gnss",
+      "open",
+      "product",
+      "pyssr"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "A spatiotemporal deep learning framework for GNSS displacement forecasting integrating neighboring-station coordinates and meteorological data",
+    "authors": "Jafari",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02097-7",
+    "abstract": "",
+    "keywords": [
+      "coordinates",
+      "data",
+      "deep",
+      "displacement",
+      "forecasting"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
     "title": "Global GNSS IWV diurnal variability over 6,000 stations and its implications for assessing the impact of artificial ERA5 discontinuities",
     "authors": "Yuan, Blewitt, Kreemer, Li, Lu, Xia, Jiang, Schuh, Wickert, Deng",
     "year": 2026,
