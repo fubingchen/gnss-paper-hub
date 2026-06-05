@@ -1,5 +1,61 @@
 [
   {
+    "title": "Contribution of GPS horizontal displacements for inferring terrestrial water storage variations in the northwestern United States",
+    "authors": "Wei, Feng",
+    "year": 2026,
+    "journal": "Journal of Geodesy",
+    "url": "https://doi.org/10.1007/s00190-026-02069-2",
+    "abstract": "",
+    "keywords": [
+      "contribution",
+      "displacements",
+      "gps",
+      "horizontal",
+      "inferring"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "Prediction of clock bias for BeiDou satellites using a combination of variational mode decomposition and long short-term memory network",
+    "authors": "Sun, Shi, Lin, Xu, Li, Wang, He, Yu, Ma",
+    "year": 2026,
+    "journal": "Journal of Geodesy",
+    "url": "https://doi.org/10.1007/s00190-026-02062-9",
+    "abstract": "",
+    "keywords": [
+      "beidou",
+      "bias",
+      "clock",
+      "combination",
+      "decomposition"
+    ],
+    "tags": [
+      "Clock",
+      "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "A height-constrained PPP-RTK/INS/UWB method for vehicle precise positioning in all scenarios",
+    "authors": "Zhang, Pan, Wang, Zhang",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02089-7",
+    "abstract": "",
+    "keywords": [
+      "constrained",
+      "height",
+      "ins",
+      "method",
+      "positioning"
+    ],
+    "tags": [
+      "PPP",
+      "RTK"
+    ]
+  },
+  {
     "title": "TECFormer: a novel TEC prediction model integrating auto-correlation and self-attention mechanisms",
     "authors": "Yu, Gong, Luo, Yang, Yuan",
     "year": 2026,
