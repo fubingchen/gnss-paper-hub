@@ -1,39 +1,20 @@
 [
   {
-    "title": "Contribution of GPS horizontal displacements for inferring terrestrial water storage variations in the northwestern United States",
-    "authors": "Wei, Feng",
+    "title": "Impact of the October 2024 G4 geomagnetic storm on GNSS performance: observations and physical mechanisms",
+    "authors": "Li, Pan, Yang, Zhao, Zuo, Zhang",
     "year": 2026,
-    "journal": "Journal of Geodesy",
-    "url": "https://doi.org/10.1007/s00190-026-02069-2",
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02101-0",
     "abstract": "",
     "keywords": [
-      "contribution",
-      "displacements",
-      "gps",
-      "horizontal",
-      "inferring"
+      "2024",
+      "g4",
+      "geomagnetic",
+      "gnss",
+      "impact"
     ],
     "tags": [
       "Other"
-    ]
-  },
-  {
-    "title": "Prediction of clock bias for BeiDou satellites using a combination of variational mode decomposition and long short-term memory network",
-    "authors": "Sun, Shi, Lin, Xu, Li, Wang, He, Yu, Ma",
-    "year": 2026,
-    "journal": "Journal of Geodesy",
-    "url": "https://doi.org/10.1007/s00190-026-02062-9",
-    "abstract": "",
-    "keywords": [
-      "beidou",
-      "bias",
-      "clock",
-      "combination",
-      "decomposition"
-    ],
-    "tags": [
-      "Clock",
-      "Multi-GNSS"
     ]
   },
   {
@@ -53,24 +34,6 @@
     "tags": [
       "PPP",
       "RTK"
-    ]
-  },
-  {
-    "title": "TECFormer: a novel TEC prediction model integrating auto-correlation and self-attention mechanisms",
-    "authors": "Yu, Gong, Luo, Yang, Yuan",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-025-01951-4",
-    "abstract": "",
-    "keywords": [
-      "attention",
-      "auto",
-      "correlation",
-      "integrating",
-      "mechanisms"
-    ],
-    "tags": [
-      "Ionosphere"
     ]
   },
   {

@@ -8,19 +8,12 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
-### Contribution of GPS horizontal displacements for inferring terrestrial water storage variations in the northwestern United States
-- Wei, Feng (2026)
-- *Journal of Geodesy*
-- **Keywords:** contribution, displacements, gps, horizontal, inferring
+### Impact of the October 2024 G4 geomagnetic storm on GNSS performance: observations and physical mechanisms
+- Li, Pan, Yang, Zhao, Zuo, Zhang (2026)
+- *GPS Solutions*
+- **Keywords:** 2024, g4, geomagnetic, gnss, impact
 - **Abstract:** ...
-- [Link](https://doi.org/10.1007/s00190-026-02069-2)
-
-### Prediction of clock bias for BeiDou satellites using a combination of variational mode decomposition and long short-term memory network
-- Sun, Shi, Lin, Xu, Li, Wang, He, Yu, Ma (2026)
-- *Journal of Geodesy*
-- **Keywords:** beidou, bias, clock, combination, decomposition
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s00190-026-02062-9)
+- [Link](https://doi.org/10.1007/s10291-026-02101-0)
 
 ### A height-constrained PPP-RTK/INS/UWB method for vehicle precise positioning in all scenarios
 - Zhang, Pan, Wang, Zhang (2026)
@@ -28,13 +21,6 @@ Automatically updated GNSS papers.
 - **Keywords:** constrained, height, ins, method, positioning
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02089-7)
-
-### TECFormer: a novel TEC prediction model integrating auto-correlation and self-attention mechanisms
-- Yu, Gong, Luo, Yang, Yuan (2026)
-- *GPS Solutions*
-- **Keywords:** attention, auto, correlation, integrating, mechanisms
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-025-01951-4)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -217,4 +203,18 @@ Automatically updated GNSS papers.
 - **Keywords:** soil, moisture, signals, gnss, systems
 - **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
 - [Link](https://arxiv.org/abs/0805.1881v2)
+
+### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
+- Junming Wang, Yi Shi (2023)
+- *arXiv*
+- **Keywords:** monitoring, gnss, data, rtk, based
+- **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
+- [Link](https://arxiv.org/abs/2301.05977v2)
+
+### Monitoring of the offset between UTC and its prediction broadcast by the GNSS
+- Pascale Defraigne, Elisa Pinat, Gérard Petit, Frédéric Meynadier (2025)
+- *arXiv*
+- **Keywords:** ns, utc, butc_gnss, gnss, offset
+- **Abstract:** We present a new approach to report in the Section 4 of BIPM Circular T daily values of the offset between UTC and the predictions of UTC broadcast by the GNSS, this quantity we name bUTC_GNSS. In this approach, the determination of UTC - bUTC_GNSS is based on data collected by several multi-GNSS st...
+- [Link](https://arxiv.org/abs/2503.02914v1)
 
