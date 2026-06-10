@@ -1,5 +1,41 @@
 [
   {
+    "title": "GNSS-interferometric reflectometry for sea level and ice freeboard measurements over the seasonal landfast ice cycles at Pituffik, Greenland",
+    "authors": "Xie, Larson, Nylen",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02092-y",
+    "abstract": "",
+    "keywords": [
+      "ice",
+      "cycles",
+      "freeboard",
+      "gnss",
+      "greenland"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "Correction: DIA-Estimator and Multidimensional Model Misspecifications: GNSS-based Positioning Safety Analysis for UAVs",
+    "authors": "Ciuban, Teunissen, Tiberius",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02074-0",
+    "abstract": "",
+    "keywords": [
+      "analysis",
+      "based",
+      "correction",
+      "dia",
+      "estimator"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
     "title": "Impact of the October 2024 G4 geomagnetic storm on GNSS performance: observations and physical mechanisms",
     "authors": "Li, Pan, Yang, Zhao, Zuo, Zhang",
     "year": 2026,

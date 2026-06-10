@@ -8,6 +8,20 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### GNSS-interferometric reflectometry for sea level and ice freeboard measurements over the seasonal landfast ice cycles at Pituffik, Greenland
+- Xie, Larson, Nylen (2026)
+- *GPS Solutions*
+- **Keywords:** ice, cycles, freeboard, gnss, greenland
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02092-y)
+
+### Correction: DIA-Estimator and Multidimensional Model Misspecifications: GNSS-based Positioning Safety Analysis for UAVs
+- Ciuban, Teunissen, Tiberius (2026)
+- *GPS Solutions*
+- **Keywords:** analysis, based, correction, dia, estimator
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02074-0)
+
 ### Impact of the October 2024 G4 geomagnetic storm on GNSS performance: observations and physical mechanisms
 - Li, Pan, Yang, Zhao, Zuo, Zhang (2026)
 - *GPS Solutions*
@@ -203,18 +217,4 @@ Automatically updated GNSS papers.
 - **Keywords:** soil, moisture, signals, gnss, systems
 - **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
 - [Link](https://arxiv.org/abs/0805.1881v2)
-
-### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
-- Junming Wang, Yi Shi (2023)
-- *arXiv*
-- **Keywords:** monitoring, gnss, data, rtk, based
-- **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
-- [Link](https://arxiv.org/abs/2301.05977v2)
-
-### Monitoring of the offset between UTC and its prediction broadcast by the GNSS
-- Pascale Defraigne, Elisa Pinat, Gérard Petit, Frédéric Meynadier (2025)
-- *arXiv*
-- **Keywords:** ns, utc, butc_gnss, gnss, offset
-- **Abstract:** We present a new approach to report in the Section 4 of BIPM Circular T daily values of the offset between UTC and the predictions of UTC broadcast by the GNSS, this quantity we name bUTC_GNSS. In this approach, the determination of UTC - bUTC_GNSS is based on data collected by several multi-GNSS st...
-- [Link](https://arxiv.org/abs/2503.02914v1)
 
