@@ -120,19 +120,19 @@ Automatically updated GNSS papers.
 - **Abstract:** This paper provides an overview of operational applications of GNSS-R, and describes Oceanpal, an inexpensive, all-weather, passive instrument for remote sensing of the ocean and other water surfaces. This instrument is based on the use of reflected signals emitted from GNSS, and it holds great pote...
 - [Link](https://arxiv.org/abs/physics/0310063v2)
 
-### Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers
-- Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki (2025)
-- *arXiv*
-- **Keywords:** gnss, rtk, dump, estimation, state
-- **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
-- [Link](https://arxiv.org/abs/2506.02877v1)
-
 ### GPS Receiver with Enhanced User Positioning Time
 - Seung-Hyun Yoon, Ji-Woon Jung, Su-Bong Kim, Hyun-Chang Shin, Jae-Hyang Lee, Kyu-Yun Lee, Hyo-Sun Shim (2015)
 - *arXiv*
 - **Keywords:** gps, receiver, user, position, positioning
 - **Abstract:** This paper introduces a Global Positioning System (GPS) Receiver that locates user's position instantly. Recently, many mobile devices require location information to add user position into their contents, and some applications require quick positioning when the device is initially switched on. In o...
 - [Link](https://arxiv.org/abs/1510.03062v1)
+
+### Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers
+- Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki (2025)
+- *arXiv*
+- **Keywords:** gnss, rtk, dump, estimation, state
+- **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
+- [Link](https://arxiv.org/abs/2506.02877v1)
 
 ### The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft
 - G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira (2003)
