@@ -29,13 +29,6 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02101-0)
 
-### A height-constrained PPP-RTK/INS/UWB method for vehicle precise positioning in all scenarios
-- Zhang, Pan, Wang, Zhang (2026)
-- *GPS Solutions*
-- **Keywords:** constrained, height, ins, method, positioning
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02089-7)
-
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
@@ -217,4 +210,11 @@ Automatically updated GNSS papers.
 - **Keywords:** soil, moisture, signals, gnss, systems
 - **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
 - [Link](https://arxiv.org/abs/0805.1881v2)
+
+### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
+- Junming Wang, Yi Shi (2023)
+- *arXiv*
+- **Keywords:** monitoring, gnss, data, rtk, based
+- **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
+- [Link](https://arxiv.org/abs/2301.05977v2)
 
