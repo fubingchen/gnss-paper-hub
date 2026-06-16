@@ -1,5 +1,42 @@
 [
   {
+    "title": "An exponential optimized fitting coefficients wide-area tropospheric corrections model and its application in PPP-IAR",
+    "authors": "Lei, Guo, Yang, Tao, Jiang, Zhao",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02100-1",
+    "abstract": "",
+    "keywords": [
+      "application",
+      "area",
+      "coefficients",
+      "corrections",
+      "exponential"
+    ],
+    "tags": [
+      "PPP"
+    ]
+  },
+  {
+    "title": "Real-time quality indicator determination for precise satellite orbit and clock corrections from integrity perspective",
+    "authors": "Wang, Li, Li, Zheng, Ma",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02105-w",
+    "abstract": "",
+    "keywords": [
+      "clock",
+      "corrections",
+      "determination",
+      "indicator",
+      "integrity"
+    ],
+    "tags": [
+      "Orbit",
+      "Clock"
+    ]
+  },
+  {
     "title": "Study on the ISB existence among BDS orbit types and the influence on precise point positioning performance",
     "authors": "Li, Yuan, Meng, Psimoulis, Pan, Qian, Qin",
     "year": 2026,
@@ -49,24 +86,6 @@
       "correction",
       "dia",
       "estimator"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Impact of the October 2024 G4 geomagnetic storm on GNSS performance: observations and physical mechanisms",
-    "authors": "Li, Pan, Yang, Zhao, Zuo, Zhang",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02101-0",
-    "abstract": "",
-    "keywords": [
-      "2024",
-      "g4",
-      "geomagnetic",
-      "gnss",
-      "impact"
     ],
     "tags": [
       "Other"

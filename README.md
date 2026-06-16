@@ -8,6 +8,20 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### An exponential optimized fitting coefficients wide-area tropospheric corrections model and its application in PPP-IAR
+- Lei, Guo, Yang, Tao, Jiang, Zhao (2026)
+- *GPS Solutions*
+- **Keywords:** application, area, coefficients, corrections, exponential
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02100-1)
+
+### Real-time quality indicator determination for precise satellite orbit and clock corrections from integrity perspective
+- Wang, Li, Li, Zheng, Ma (2026)
+- *GPS Solutions*
+- **Keywords:** clock, corrections, determination, indicator, integrity
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02105-w)
+
 ### Study on the ISB existence among BDS orbit types and the influence on precise point positioning performance
 - Li, Yuan, Meng, Psimoulis, Pan, Qian, Qin (2026)
 - *GPS Solutions*
@@ -28,13 +42,6 @@ Automatically updated GNSS papers.
 - **Keywords:** analysis, based, correction, dia, estimator
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02074-0)
-
-### Impact of the October 2024 G4 geomagnetic storm on GNSS performance: observations and physical mechanisms
-- Li, Pan, Yang, Zhao, Zuo, Zhang (2026)
-- *GPS Solutions*
-- **Keywords:** 2024, g4, geomagnetic, gnss, impact
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02101-0)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -210,11 +217,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, avs, framework, model, attacks
 - **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
 - [Link](https://arxiv.org/abs/2405.08359v2)
-
-### Soil Moisture Monitorization Using GNSS Reflected Signals
-- Alejandro Egido, Giulio Ruffini, Marco Caparrini, Cristina Martin, Esteve Farres, Xavier Banque (2008)
-- *arXiv*
-- **Keywords:** soil, moisture, signals, gnss, systems
-- **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
-- [Link](https://arxiv.org/abs/0805.1881v2)
 
