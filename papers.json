@@ -18,6 +18,42 @@
     ]
   },
   {
+    "title": "Deep reinforcement learning with robust spatial\u2013temporal representation for improving GNSS positioning correction",
+    "authors": "Li, Li, Tang, Song, Chen, Cai, Xie",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02103-y",
+    "abstract": "",
+    "keywords": [
+      "correction",
+      "deep",
+      "gnss",
+      "improving",
+      "learning"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "Platform-terminal interactive VRS observation generation method for GNSS network RTK positioning",
+    "authors": "Gao, Liu, Pan, Zhang",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02098-6",
+    "abstract": "",
+    "keywords": [
+      "generation",
+      "gnss",
+      "interactive",
+      "method",
+      "network"
+    ],
+    "tags": [
+      "RTK"
+    ]
+  },
+  {
     "title": "Real-time quality indicator determination for precise satellite orbit and clock corrections from integrity perspective",
     "authors": "Wang, Li, Li, Zheng, Ma",
     "year": 2026,
@@ -53,42 +89,6 @@
     "tags": [
       "Orbit",
       "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "GNSS-interferometric reflectometry for sea level and ice freeboard measurements over the seasonal landfast ice cycles at Pituffik, Greenland",
-    "authors": "Xie, Larson, Nylen",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02092-y",
-    "abstract": "",
-    "keywords": [
-      "ice",
-      "cycles",
-      "freeboard",
-      "gnss",
-      "greenland"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Correction: DIA-Estimator and Multidimensional Model Misspecifications: GNSS-based Positioning Safety Analysis for UAVs",
-    "authors": "Ciuban, Teunissen, Tiberius",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02074-0",
-    "abstract": "",
-    "keywords": [
-      "analysis",
-      "based",
-      "correction",
-      "dia",
-      "estimator"
-    ],
-    "tags": [
-      "Other"
     ]
   },
   {
@@ -167,24 +167,6 @@
     ]
   },
   {
-    "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
-    "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
-    "year": "2026",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2606.06358v1",
-    "abstract": "RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effects depend on the local environment and sensor configuration, nominal receiver specifications are insufficient, and deployment-specific characterization is required. This paper presents a benchmarking study of an AsteRx-i3 D Pro+ GNSS/INS receiver installed within the mobile Sensor Box developed at KU Leuven. The study combines a real-world bridge-passage case study, static benchmarking, and closed-loop path-following experiments. The static benchmarking evaluates four receiver configurations: standalone GNSS, standalone GNSS with INS integration, RTK-augmented GNSS, and RTK-augmented GNSS with INS integration. The closed-loop experiments use INS-integrated GNSS as the navigation input and compare path-following operational performance with and without RTK augmentation. Results show that correction loss during bridge passage causes reduced positioning accuracy, increased positioning uncertainty and recovery-induced state jumps exceeding 1 m. Static benchmarking and closed-loop experiments confirm that RTK augmentation substantially improves positioning precision and uncertainty consistency, while INS integration supports short-term continuity during RTK unavailability but may introduce drift, bias, or transient uncertainty variations. By characterizing the deployment-specific receiver behavior with RTK augmentation and INS integration, this study motivates higher-level state estimation as a necessary next step toward spatially continuous and uncertainty-consistent positioning on inland waterway. The experimental data are released at: https://doi.org/10.5281/zenodo.20541733.",
-    "keywords": [
-      "gnss",
-      "rtk",
-      "ins",
-      "augmentation",
-      "integration"
-    ],
-    "tags": [
-      "RTK"
-    ]
-  },
-  {
     "title": "Participatory Sensing for Localization of a GNSS Jammer",
     "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
     "year": "2022",
@@ -220,6 +202,24 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
+    "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
+    "year": "2026",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2606.06358v1",
+    "abstract": "RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effects depend on the local environment and sensor configuration, nominal receiver specifications are insufficient, and deployment-specific characterization is required. This paper presents a benchmarking study of an AsteRx-i3 D Pro+ GNSS/INS receiver installed within the mobile Sensor Box developed at KU Leuven. The study combines a real-world bridge-passage case study, static benchmarking, and closed-loop path-following experiments. The static benchmarking evaluates four receiver configurations: standalone GNSS, standalone GNSS with INS integration, RTK-augmented GNSS, and RTK-augmented GNSS with INS integration. The closed-loop experiments use INS-integrated GNSS as the navigation input and compare path-following operational performance with and without RTK augmentation. Results show that correction loss during bridge passage causes reduced positioning accuracy, increased positioning uncertainty and recovery-induced state jumps exceeding 1 m. Static benchmarking and closed-loop experiments confirm that RTK augmentation substantially improves positioning precision and uncertainty consistency, while INS integration supports short-term continuity during RTK unavailability but may introduce drift, bias, or transient uncertainty variations. By characterizing the deployment-specific receiver behavior with RTK augmentation and INS integration, this study motivates higher-level state estimation as a necessary next step toward spatially continuous and uncertainty-consistent positioning on inland waterway. The experimental data are released at: https://doi.org/10.5281/zenodo.20541733.",
+    "keywords": [
+      "gnss",
+      "rtk",
+      "ins",
+      "augmentation",
+      "integration"
+    ],
+    "tags": [
+      "RTK"
     ]
   },
   {
@@ -689,6 +689,26 @@
     ]
   },
   {
+    "title": "Insights into Xona Pulsar LEO PNT: Constellation, Signals, and Receiver Design",
+    "authors": "J\u00e9r\u00f4me Lecl\u00e8re, Thyagaraja Marathe, Tyler G. R. Reid",
+    "year": "2025",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2509.19551v1",
+    "abstract": "The landscape of global navigation satellite systems (GNSS) is expanding with the emergence of low Earth orbit (LEO) constellations such as Pulsar, which are expected to play a key role in the future of positioning, navigation, and timing (PNT). LEO-based systems provide advantages including stronger signals for greater robustness, faster dynamics that aid convergence and multipath mitigation, and shorter time to first fix (TTFF) enabled by high data rates. These benefits, however, come with changes in signal behavior and constellation geometry that require careful consideration in receiver design. This paper investigates Pulsar properties using a GNSS simulator, analyzing parameters such as satellite pass duration, elevation, Doppler shift, Doppler rate, range, and number of satellites in view. Comparisons with GPS highlight the differences introduced by LEO operation. The analysis examines temporal evolution, statistical distributions, and maximum and minimum values. Beyond these statistical insights, the study explores interdependencies between parameters and differences across satellites, providing additional perspective. Evaluations are performed at multiple latitudes to ensure a worldwide perspective, and the impact of applying different elevation masks is discussed where relevant. Building on these findings, the paper assesses Pulsar's impact on receiver design from two standpoints: design considerations, addressing expanded Doppler ranges, higher Doppler rates, and unique constellation structure; and design optimizations, exploiting parameter analyses and interdependencies (e.g., Doppler rate vs Doppler) to refine acquisition strategies and applying prediction and prioritization techniques to avoid unnecessary computations. Together, these optimizations can reduce acquisition time and lower receiver power consumption.",
+    "keywords": [
+      "doppler",
+      "design",
+      "leo",
+      "pulsar",
+      "receiver"
+    ],
+    "tags": [
+      "Orbit",
+      "Ionosphere",
+      "LEO"
+    ]
+  },
+  {
     "title": "GPS radio sources: new optical observations and an updated master list",
     "authors": "A. Labiano, P. D. Barthel, C. P. O'Dea, W. H. de Vries, I. P\u00e9rez, S. A. Baum",
     "year": "2006",
@@ -723,26 +743,6 @@
     "tags": [
       "LEO",
       "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "Insights into Xona Pulsar LEO PNT: Constellation, Signals, and Receiver Design",
-    "authors": "J\u00e9r\u00f4me Lecl\u00e8re, Thyagaraja Marathe, Tyler G. R. Reid",
-    "year": "2025",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2509.19551v1",
-    "abstract": "The landscape of global navigation satellite systems (GNSS) is expanding with the emergence of low Earth orbit (LEO) constellations such as Pulsar, which are expected to play a key role in the future of positioning, navigation, and timing (PNT). LEO-based systems provide advantages including stronger signals for greater robustness, faster dynamics that aid convergence and multipath mitigation, and shorter time to first fix (TTFF) enabled by high data rates. These benefits, however, come with changes in signal behavior and constellation geometry that require careful consideration in receiver design. This paper investigates Pulsar properties using a GNSS simulator, analyzing parameters such as satellite pass duration, elevation, Doppler shift, Doppler rate, range, and number of satellites in view. Comparisons with GPS highlight the differences introduced by LEO operation. The analysis examines temporal evolution, statistical distributions, and maximum and minimum values. Beyond these statistical insights, the study explores interdependencies between parameters and differences across satellites, providing additional perspective. Evaluations are performed at multiple latitudes to ensure a worldwide perspective, and the impact of applying different elevation masks is discussed where relevant. Building on these findings, the paper assesses Pulsar's impact on receiver design from two standpoints: design considerations, addressing expanded Doppler ranges, higher Doppler rates, and unique constellation structure; and design optimizations, exploiting parameter analyses and interdependencies (e.g., Doppler rate vs Doppler) to refine acquisition strategies and applying prediction and prioritization techniques to avoid unnecessary computations. Together, these optimizations can reduce acquisition time and lower receiver power consumption.",
-    "keywords": [
-      "doppler",
-      "design",
-      "leo",
-      "pulsar",
-      "receiver"
-    ],
-    "tags": [
-      "Orbit",
-      "Ionosphere",
-      "LEO"
     ]
   },
   {
@@ -824,24 +824,6 @@
     ]
   },
   {
-    "title": "Few-Shot Learning with Uncertainty-based Quadruplet Selection for Interference Classification in GNSS Data",
-    "authors": "Felix Ott, Lucas Heublein, Nisha Lakshmana Raichur, Tobias Feigl, Jonathan Hansen, Alexander R\u00fcgamer, Christopher Mutschler",
-    "year": "2024",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2402.09466v2",
-    "abstract": "Jamming devices pose a significant threat by disrupting signals from the global navigation satellite system (GNSS), compromising the robustness of accurate positioning. Detecting anomalies in frequency snapshots is crucial to counteract these interferences effectively. The ability to adapt to diverse, unseen interference characteristics is essential for ensuring the reliability of GNSS in real-world applications. In this paper, we propose a few-shot learning (FSL) approach to adapt to new interference classes. Our method employs quadruplet selection for the model to learn representations using various positive and negative interference classes. Furthermore, our quadruplet variant selects pairs based on the aleatoric and epistemic uncertainty to differentiate between similar classes. We recorded a dataset at a motorway with eight interference classes on which our FSL method with quadruplet loss outperforms other FSL techniques in jammer classification accuracy with 97.66%. Dataset available at: https://gitlab.cc-asp.fraunhofer.de/darcy_gnss/FIOT_highway",
-    "keywords": [
-      "interference",
-      "classes",
-      "quadruplet",
-      "fsl",
-      "gnss"
-    ],
-    "tags": [
-      "Ionosphere"
-    ]
-  },
-  {
     "title": "Galileo's Double Star: The Experiment That \"Proved\" the Earth Did Not Move",
     "authors": "Christopher M. Graney",
     "year": "2006",
@@ -858,6 +840,24 @@
     "tags": [
       "LEO",
       "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Few-Shot Learning with Uncertainty-based Quadruplet Selection for Interference Classification in GNSS Data",
+    "authors": "Felix Ott, Lucas Heublein, Nisha Lakshmana Raichur, Tobias Feigl, Jonathan Hansen, Alexander R\u00fcgamer, Christopher Mutschler",
+    "year": "2024",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2402.09466v2",
+    "abstract": "Jamming devices pose a significant threat by disrupting signals from the global navigation satellite system (GNSS), compromising the robustness of accurate positioning. Detecting anomalies in frequency snapshots is crucial to counteract these interferences effectively. The ability to adapt to diverse, unseen interference characteristics is essential for ensuring the reliability of GNSS in real-world applications. In this paper, we propose a few-shot learning (FSL) approach to adapt to new interference classes. Our method employs quadruplet selection for the model to learn representations using various positive and negative interference classes. Furthermore, our quadruplet variant selects pairs based on the aleatoric and epistemic uncertainty to differentiate between similar classes. We recorded a dataset at a motorway with eight interference classes on which our FSL method with quadruplet loss outperforms other FSL techniques in jammer classification accuracy with 97.66%. Dataset available at: https://gitlab.cc-asp.fraunhofer.de/darcy_gnss/FIOT_highway",
+    "keywords": [
+      "interference",
+      "classes",
+      "quadruplet",
+      "fsl",
+      "gnss"
+    ],
+    "tags": [
+      "Ionosphere"
     ]
   },
   {
