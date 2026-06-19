@@ -1,5 +1,23 @@
 [
   {
+    "title": "GMR-water: a water level retrieval software for multi-GNSS, multi-frequence and multi-observation based on GNSS-MR",
+    "authors": "Yang, Hao",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02111-y",
+    "abstract": "",
+    "keywords": [
+      "multi",
+      "gnss",
+      "water",
+      "based",
+      "frequence"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
     "title": "The influence of native temporal resolution on the performance of real-time global ionospheric maps",
     "authors": "Wang, Liu, Hern\u00e1ndez-Pajares, Monte-Moreno, Yang, Yang, Zhang, Olivares-Pulido, Xu",
     "year": 2026,
@@ -185,24 +203,6 @@
     ]
   },
   {
-    "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
-    "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
-    "year": "2026",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2606.06358v1",
-    "abstract": "RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effects depend on the local environment and sensor configuration, nominal receiver specifications are insufficient, and deployment-specific characterization is required. This paper presents a benchmarking study of an AsteRx-i3 D Pro+ GNSS/INS receiver installed within the mobile Sensor Box developed at KU Leuven. The study combines a real-world bridge-passage case study, static benchmarking, and closed-loop path-following experiments. The static benchmarking evaluates four receiver configurations: standalone GNSS, standalone GNSS with INS integration, RTK-augmented GNSS, and RTK-augmented GNSS with INS integration. The closed-loop experiments use INS-integrated GNSS as the navigation input and compare path-following operational performance with and without RTK augmentation. Results show that correction loss during bridge passage causes reduced positioning accuracy, increased positioning uncertainty and recovery-induced state jumps exceeding 1 m. Static benchmarking and closed-loop experiments confirm that RTK augmentation substantially improves positioning precision and uncertainty consistency, while INS integration supports short-term continuity during RTK unavailability but may introduce drift, bias, or transient uncertainty variations. By characterizing the deployment-specific receiver behavior with RTK augmentation and INS integration, this study motivates higher-level state estimation as a necessary next step toward spatially continuous and uncertainty-consistent positioning on inland waterway. The experimental data are released at: https://doi.org/10.5281/zenodo.20541733.",
-    "keywords": [
-      "gnss",
-      "rtk",
-      "ins",
-      "augmentation",
-      "integration"
-    ],
-    "tags": [
-      "RTK"
-    ]
-  },
-  {
     "title": "Participatory Sensing for Localization of a GNSS Jammer",
     "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
     "year": "2022",
@@ -238,6 +238,24 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
+    "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
+    "year": "2026",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2606.06358v1",
+    "abstract": "RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effects depend on the local environment and sensor configuration, nominal receiver specifications are insufficient, and deployment-specific characterization is required. This paper presents a benchmarking study of an AsteRx-i3 D Pro+ GNSS/INS receiver installed within the mobile Sensor Box developed at KU Leuven. The study combines a real-world bridge-passage case study, static benchmarking, and closed-loop path-following experiments. The static benchmarking evaluates four receiver configurations: standalone GNSS, standalone GNSS with INS integration, RTK-augmented GNSS, and RTK-augmented GNSS with INS integration. The closed-loop experiments use INS-integrated GNSS as the navigation input and compare path-following operational performance with and without RTK augmentation. Results show that correction loss during bridge passage causes reduced positioning accuracy, increased positioning uncertainty and recovery-induced state jumps exceeding 1 m. Static benchmarking and closed-loop experiments confirm that RTK augmentation substantially improves positioning precision and uncertainty consistency, while INS integration supports short-term continuity during RTK unavailability but may introduce drift, bias, or transient uncertainty variations. By characterizing the deployment-specific receiver behavior with RTK augmentation and INS integration, this study motivates higher-level state estimation as a necessary next step toward spatially continuous and uncertainty-consistent positioning on inland waterway. The experimental data are released at: https://doi.org/10.5281/zenodo.20541733.",
+    "keywords": [
+      "gnss",
+      "rtk",
+      "ins",
+      "augmentation",
+      "integration"
+    ],
+    "tags": [
+      "RTK"
     ]
   },
   {
@@ -707,6 +725,26 @@
     ]
   },
   {
+    "title": "Insights into Xona Pulsar LEO PNT: Constellation, Signals, and Receiver Design",
+    "authors": "J\u00e9r\u00f4me Lecl\u00e8re, Thyagaraja Marathe, Tyler G. R. Reid",
+    "year": "2025",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2509.19551v1",
+    "abstract": "The landscape of global navigation satellite systems (GNSS) is expanding with the emergence of low Earth orbit (LEO) constellations such as Pulsar, which are expected to play a key role in the future of positioning, navigation, and timing (PNT). LEO-based systems provide advantages including stronger signals for greater robustness, faster dynamics that aid convergence and multipath mitigation, and shorter time to first fix (TTFF) enabled by high data rates. These benefits, however, come with changes in signal behavior and constellation geometry that require careful consideration in receiver design. This paper investigates Pulsar properties using a GNSS simulator, analyzing parameters such as satellite pass duration, elevation, Doppler shift, Doppler rate, range, and number of satellites in view. Comparisons with GPS highlight the differences introduced by LEO operation. The analysis examines temporal evolution, statistical distributions, and maximum and minimum values. Beyond these statistical insights, the study explores interdependencies between parameters and differences across satellites, providing additional perspective. Evaluations are performed at multiple latitudes to ensure a worldwide perspective, and the impact of applying different elevation masks is discussed where relevant. Building on these findings, the paper assesses Pulsar's impact on receiver design from two standpoints: design considerations, addressing expanded Doppler ranges, higher Doppler rates, and unique constellation structure; and design optimizations, exploiting parameter analyses and interdependencies (e.g., Doppler rate vs Doppler) to refine acquisition strategies and applying prediction and prioritization techniques to avoid unnecessary computations. Together, these optimizations can reduce acquisition time and lower receiver power consumption.",
+    "keywords": [
+      "doppler",
+      "design",
+      "leo",
+      "pulsar",
+      "receiver"
+    ],
+    "tags": [
+      "Orbit",
+      "Ionosphere",
+      "LEO"
+    ]
+  },
+  {
     "title": "GPS radio sources: new optical observations and an updated master list",
     "authors": "A. Labiano, P. D. Barthel, C. P. O'Dea, W. H. de Vries, I. P\u00e9rez, S. A. Baum",
     "year": "2006",
@@ -741,26 +779,6 @@
     "tags": [
       "LEO",
       "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "Insights into Xona Pulsar LEO PNT: Constellation, Signals, and Receiver Design",
-    "authors": "J\u00e9r\u00f4me Lecl\u00e8re, Thyagaraja Marathe, Tyler G. R. Reid",
-    "year": "2025",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2509.19551v1",
-    "abstract": "The landscape of global navigation satellite systems (GNSS) is expanding with the emergence of low Earth orbit (LEO) constellations such as Pulsar, which are expected to play a key role in the future of positioning, navigation, and timing (PNT). LEO-based systems provide advantages including stronger signals for greater robustness, faster dynamics that aid convergence and multipath mitigation, and shorter time to first fix (TTFF) enabled by high data rates. These benefits, however, come with changes in signal behavior and constellation geometry that require careful consideration in receiver design. This paper investigates Pulsar properties using a GNSS simulator, analyzing parameters such as satellite pass duration, elevation, Doppler shift, Doppler rate, range, and number of satellites in view. Comparisons with GPS highlight the differences introduced by LEO operation. The analysis examines temporal evolution, statistical distributions, and maximum and minimum values. Beyond these statistical insights, the study explores interdependencies between parameters and differences across satellites, providing additional perspective. Evaluations are performed at multiple latitudes to ensure a worldwide perspective, and the impact of applying different elevation masks is discussed where relevant. Building on these findings, the paper assesses Pulsar's impact on receiver design from two standpoints: design considerations, addressing expanded Doppler ranges, higher Doppler rates, and unique constellation structure; and design optimizations, exploiting parameter analyses and interdependencies (e.g., Doppler rate vs Doppler) to refine acquisition strategies and applying prediction and prioritization techniques to avoid unnecessary computations. Together, these optimizations can reduce acquisition time and lower receiver power consumption.",
-    "keywords": [
-      "doppler",
-      "design",
-      "leo",
-      "pulsar",
-      "receiver"
-    ],
-    "tags": [
-      "Orbit",
-      "Ionosphere",
-      "LEO"
     ]
   },
   {
@@ -900,24 +918,6 @@
     ]
   },
   {
-    "title": "The GNSS-R Eddy Experiment II: L-band and Optical Speculometry for Directional Sea-Roughness Retrieval from Low Altitude Aircraft",
-    "authors": "O. Germain, G. Ruffini, F. Soulat, M. Caparrini, B. Chapron, P. Silvestrin",
-    "year": "2003",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/physics/0310093v1",
-    "abstract": "We report on the retrieval of directional sea-roughness (the full directional mean square slope, including MSS, direction and isotropy) through inversion of Global Navigation Satellite System Reflections (GNSS-R) and SOlar REflectance Speculometry (SORES)data collected during an experimental flight at 1000 m. The emphasis is on the utilization of the entire Delay-Doppler Map (for GNSS-R) or Tilt Azimuth Map (for SORES) in order to infer these directional parameters. Obtained estimations are analyzed and compared to Jason-1 measurements and the ECMWF numerical weather model.",
-    "keywords": [
-      "directional",
-      "gnss",
-      "map",
-      "retrieval",
-      "roughness"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
     "title": "X-ray emission from GPS/CSS sources",
     "authors": "Aneta Siemiginowska, Thomas L. Aldcroft, Jill Bechtold, Gianfranco Brunetti, Martin Elvis, Carlo Stanghellini",
     "year": "2003",
@@ -930,6 +930,24 @@
       "css",
       "sources",
       "chandra"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "The GNSS-R Eddy Experiment II: L-band and Optical Speculometry for Directional Sea-Roughness Retrieval from Low Altitude Aircraft",
+    "authors": "O. Germain, G. Ruffini, F. Soulat, M. Caparrini, B. Chapron, P. Silvestrin",
+    "year": "2003",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0310093v1",
+    "abstract": "We report on the retrieval of directional sea-roughness (the full directional mean square slope, including MSS, direction and isotropy) through inversion of Global Navigation Satellite System Reflections (GNSS-R) and SOlar REflectance Speculometry (SORES)data collected during an experimental flight at 1000 m. The emphasis is on the utilization of the entire Delay-Doppler Map (for GNSS-R) or Tilt Azimuth Map (for SORES) in order to infer these directional parameters. Obtained estimations are analyzed and compared to Jason-1 measurements and the ECMWF numerical weather model.",
+    "keywords": [
+      "directional",
+      "gnss",
+      "map",
+      "retrieval",
+      "roughness"
     ],
     "tags": [
       "Other"
