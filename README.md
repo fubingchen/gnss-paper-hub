@@ -8,6 +8,49 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Accurate topside ionospheric TEC estimation using LEO satellites with onboard GPS observations
+- Ren, Wu, Le, Yang, Yang, Jian, Zhang (2026)
+- *GPS Solutions*
+- **Keywords:** accurate, estimation, gps, ionospheric, leo
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02107-8)
+
+### A precise global ionospheric total electron content forecasting model based on multi-neural network ensemble
+- Zhang, Han, Peng, Zhang, Xu, Huang, Tang, Kong, Yao, Pan, Huang, Li, Chen (2026)
+- *GPS Solutions*
+- **Keywords:** based, content, electron, ensemble, forecasting
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02079-9)
+
+### Inter-augmentation SIS bias (IASB): a novel integrity monitor for QZSS CLAS PPP-RTK
+- Shiono, Kubo (2026)
+- *GPS Solutions*
+- **Keywords:** ppp, iasb, integrity, rtk, sis
+- **Abstract:** Abstract
+                  Bottom-up PPP-RTK services, such as QZSS CLAS, generate corrections using local reference station networks. Prior work identified “Error Cross-Contamination,” where global errors leak into local atmospheric estimates. This study addresses the inverse risk: local anomalies—...
+- [Link](https://doi.org/10.1007/s10291-026-02109-6)
+
+### LEO satellite clock prediction using deep learning: a wavelet–LSTM method with autoformer and LSTM comparisons
+- Wang, Wu, Wang, Xie (2026)
+- *GPS Solutions*
+- **Keywords:** lstm, autoformer, clock, comparisons, deep
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02110-z)
+
+### Enhanced PPP-RTK in mountainous regions using a 3D grid-based elevation normalization model
+- Li, Wang, Li, Huang, Zheng, Han (2026)
+- *GPS Solutions*
+- **Keywords:** 3d, based, elevation, enhanced, grid
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02106-9)
+
+### A clustered-user PPP-RTK method
+- Zhong, Zhang (2026)
+- *GPS Solutions*
+- **Keywords:** clustered, method, ppp, rtk, user
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02115-8)
+
 ### GMR-water: a water level retrieval software for multi-GNSS, multi-frequence and multi-observation based on GNSS-MR
 - Yang, Hao (2026)
 - *GPS Solutions*
@@ -78,6 +121,13 @@ Automatically updated GNSS papers.
 - **Abstract:** At least ten emerging providers are developing satellite navigation systems for low Earth orbit (LEO). Compatibility with existing GNSS in L-band is critical to their successful deployment and for the larger ecosystem. Xona is deploying Pulsar, a near 260-satellite LEO constellation offering dual L-...
 - [Link](https://arxiv.org/abs/2509.16183v3)
 
+### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
+- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
+- *arXiv*
+- **Keywords:** gnss, rtk, ins, augmentation, integration
+- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
+- [Link](https://arxiv.org/abs/2606.06358v1)
+
 ### Participatory Sensing for Localization of a GNSS Jammer
 - Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
 - *arXiv*
@@ -91,13 +141,6 @@ Automatically updated GNSS papers.
 - **Keywords:** navigation, estimation, gnss, level, protection
 - **Abstract:** In autonomous applications for mobility and transport, a high-rate and highly accurate vehicle-state estimation is achieved by fusing measurements of global navigation satellite systems (GNSS) and inertial sensors. The state estimation and its protection-level generation often suffer from satellite-...
 - [Link](https://arxiv.org/abs/2103.10696v3)
-
-### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
-- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
-- *arXiv*
-- **Keywords:** gnss, rtk, ins, augmentation, integration
-- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
-- [Link](https://arxiv.org/abs/2606.06358v1)
 
 ### 3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons
 - Xikun Liu, Weisong Wen, Feng Huang, Han Gao, Yongliang Wang, Li-Ta Hsu (2022)
@@ -175,46 +218,4 @@ Automatically updated GNSS papers.
 - **Keywords:** ppp, bds, corrections, service, b2b
 - **Abstract:** With the rapid development of China's BeiDou Navigation Satellite System(BDS), the application of real-time precise point positioning (RTPPP) based on BDS has become an active research area in the field of Global Navigation Satellite System (GNSS). BDS has provided the service of broadcasting RTPPP ...
 - [Link](https://arxiv.org/abs/2011.13539v1)
-
-### DEMO: RTKiller -- manipulation of GNSS RTK rovers by reference base spoofing
-- Marco Spanghero, Panos Papadimitratos (2024)
-- *arXiv*
-- **Keywords:** reference, gnss, receivers, rovers, accuracy
-- **Abstract:** Global Navigation Satellite Systems (GNSS) provide global positioning and timing. Multiple receivers with known reference positions (stations) can assist mobile receivers (rovers) in obtaining GNSS corrections and achieve centimeter-level accuracy on consumer devices. However, GNSS spoofing and jamm...
-- [Link](https://arxiv.org/abs/2406.07565v1)
-
-### 5G-Aided RTK Positioning in GNSS-Deprived Environments
-- Pinjun Zheng, Xing Liu, Tarig Ballal, Tareq Y. Al-Naffouri (2023)
-- *arXiv*
-- **Keywords:** 5g, gnss, aided, ambiguity, based
-- **Abstract:** This paper considers the localization problem in a 5G-aided global navigation satellite system (GNSS) based on real-time kinematic (RTK) technique. Specifically, the user's position is estimated based on the hybrid measurements, including GNSS pseudo-ranges, GNSS carrier phases, 5G angle-of-departur...
-- [Link](https://arxiv.org/abs/2303.13067v1)
-
-### GNSS Positioning using Cost Function Regulated Multilateration and Graph Neural Networks
-- Amir Jalalirad, Davide Belli, Bence Major, Songwon Jee, Himanshu Shah, Will Morrison (2024)
-- *arXiv*
-- **Keywords:** gnss, error, errors, localization, multilateration
-- **Abstract:** In urban environments, where line-of-sight signals from GNSS satellites are frequently blocked by high-rise objects, GNSS receivers are subject to large errors in measuring satellite ranges. Heuristic methods are commonly used to estimate these errors and reduce the impact of noisy measurements on l...
-- [Link](https://arxiv.org/abs/2402.18630v1)
-
-### Robust Navigation In GNSS Degraded Environment Using Graph Optimization
-- Ryan M. Watson, Jason N. Gross (2018)
-- *arXiv*
-- **Keywords:** gnss, data, robust, navigation, graph
-- **Abstract:** Robust navigation in urban environments has received a considerable amount of both academic and commercial interest over recent years. This is primarily due to large commercial organizations such as Google and Uber stepping into the autonomous navigation market. Most of this research has shied away ...
-- [Link](https://arxiv.org/abs/1806.08899v1)
-
-### GPS as a Control Signal for Image Generation
-- Chao Feng, Ziyang Chen, Aleksander Holynski, Alexei A. Efros, Andrew Owens (2025)
-- *arXiv*
-- **Keywords:** gps, image, images, models, 3d
-- **Abstract:** We show that the GPS tags contained in photo metadata provide a useful control signal for image generation. We train GPS-to-image models and use them for tasks that require a fine-grained understanding of how images vary within a city. In particular, we train a diffusion model to generate images con...
-- [Link](https://arxiv.org/abs/2501.12390v2)
-
-### ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots
-- Cagri Kilic, Shounak Das, Eduardo Gutierrez, Ryan Watson, Jason Gross (2021)
-- *arXiv*
-- **Keywords:** factor, gnss, graph, navigation, inertial
-- **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
-- [Link](https://arxiv.org/abs/2112.07176v1)
 
