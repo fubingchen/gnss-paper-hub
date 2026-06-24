@@ -1,5 +1,23 @@
 [
   {
+    "title": "A multi-beam polling multiple access method for LEO navigation signals",
+    "authors": "Li, Tang, Ma, Wang, Wang",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02099-5",
+    "abstract": "",
+    "keywords": [
+      "access",
+      "beam",
+      "leo",
+      "method",
+      "multi"
+    ],
+    "tags": [
+      "LEO"
+    ]
+  },
+  {
     "title": "Accurate topside ionospheric TEC estimation using LEO satellites with onboard GPS observations",
     "authors": "Ren, Wu, Le, Yang, Yang, Jian, Zhang",
     "year": 2026,
@@ -147,79 +165,6 @@
     ],
     "tags": [
       "Other"
-    ]
-  },
-  {
-    "title": "An exponential optimized fitting coefficients wide-area tropospheric corrections model and its application in PPP-IAR",
-    "authors": "Lei, Guo, Yang, Tao, Jiang, Zhao",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02100-1",
-    "abstract": "",
-    "keywords": [
-      "application",
-      "area",
-      "coefficients",
-      "corrections",
-      "exponential"
-    ],
-    "tags": [
-      "PPP"
-    ]
-  },
-  {
-    "title": "Deep reinforcement learning with robust spatial\u2013temporal representation for improving GNSS positioning correction",
-    "authors": "Li, Li, Tang, Song, Chen, Cai, Xie",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02103-y",
-    "abstract": "",
-    "keywords": [
-      "correction",
-      "deep",
-      "gnss",
-      "improving",
-      "learning"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Platform-terminal interactive VRS observation generation method for GNSS network RTK positioning",
-    "authors": "Gao, Liu, Pan, Zhang",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02098-6",
-    "abstract": "",
-    "keywords": [
-      "generation",
-      "gnss",
-      "interactive",
-      "method",
-      "network"
-    ],
-    "tags": [
-      "RTK"
-    ]
-  },
-  {
-    "title": "Real-time quality indicator determination for precise satellite orbit and clock corrections from integrity perspective",
-    "authors": "Wang, Li, Li, Zheng, Ma",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02105-w",
-    "abstract": "",
-    "keywords": [
-      "clock",
-      "corrections",
-      "determination",
-      "indicator",
-      "integrity"
-    ],
-    "tags": [
-      "Orbit",
-      "Clock"
     ]
   },
   {
@@ -936,25 +881,6 @@
     ]
   },
   {
-    "title": "Cross-sphere Coupling and Source Inversion of Ionospheric Disturbances Associated with the 2025 Myanmar Strike-slip Earthquake from BeiDou GEO and Multi-GNSS Observations",
-    "authors": "Jianghe Chen, Pan Xiong, Qingshan Ruan, Xiaoran Zhang, Yuqi Lin, Xuemin Zhang, Ting Zhang, Kaixin Wang, Xuhui Shen",
-    "year": "2026",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2603.01881v1",
-    "abstract": "Focusing on the M7.9 earthquake in Myanmar in 2025, this study comprehensively utilizes data from BeiDou geostationary satellites of the Chinese Continental Crustal Movement Observation Network and multi-system Global Navigation Satellite Systems (GNSS). The spatiotemporal evolution characteristics and physical mechanisms of pre-seismic ionospheric anomalies and co-seismic ionospheric disturbances were systematically analyzed. By employing the moving interquartile range method combined with solar-terrestrial environmental parameters, a negative Total Electron Content (TEC) anomaly associated with the seismogenic region was identified three days before the earthquake. The equatorial conjugate structure of this TEC anomaly revealed a multi-path coupling effect between the lithosphere, atmosphere, and ionosphere. The extraction of Coherent Ionospheric Disturbance (CID) signals based on wavelet transform and band-pass filtering indicated that the co-seismic ionospheric disturbances were dominated by acoustic-gravity waves in the 2-8 mHz frequency band, propagating at a speed of approximately 1.2 km/s, and exhibiting an asymmetric pattern in the southeast direction. A spatial density-weighted method for locating the source of ionospheric disturbances was proposed, elucidating the joint control mechanism of fault strike-slip motion, geomagnetic field modulation, and equatorial electrojet on the disturbance energy. The results confirm that the high spatiotemporal resolution of BeiDou GEO satellites and multi-system GNSS significantly enhances the capability to capture weak ionospheric anomaly signals associated with earthquakes. These results provide additional observational constraints on space-based Lithosphere-Atmosphere-Ionosphere Coupling (LAIC) processes and may contribute to the development of ionosphere-based earthquake monitoring techniques.",
-    "keywords": [
-      "ionospheric",
-      "disturbances",
-      "earthquake",
-      "multi",
-      "anomaly"
-    ],
-    "tags": [
-      "Ionosphere",
-      "Multi-GNSS"
-    ]
-  },
-  {
     "title": "Galileo's Double Star: The Experiment That \"Proved\" the Earth Did Not Move",
     "authors": "Christopher M. Graney",
     "year": "2006",
@@ -970,6 +896,25 @@
     ],
     "tags": [
       "LEO",
+      "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Cross-sphere Coupling and Source Inversion of Ionospheric Disturbances Associated with the 2025 Myanmar Strike-slip Earthquake from BeiDou GEO and Multi-GNSS Observations",
+    "authors": "Jianghe Chen, Pan Xiong, Qingshan Ruan, Xiaoran Zhang, Yuqi Lin, Xuemin Zhang, Ting Zhang, Kaixin Wang, Xuhui Shen",
+    "year": "2026",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2603.01881v1",
+    "abstract": "Focusing on the M7.9 earthquake in Myanmar in 2025, this study comprehensively utilizes data from BeiDou geostationary satellites of the Chinese Continental Crustal Movement Observation Network and multi-system Global Navigation Satellite Systems (GNSS). The spatiotemporal evolution characteristics and physical mechanisms of pre-seismic ionospheric anomalies and co-seismic ionospheric disturbances were systematically analyzed. By employing the moving interquartile range method combined with solar-terrestrial environmental parameters, a negative Total Electron Content (TEC) anomaly associated with the seismogenic region was identified three days before the earthquake. The equatorial conjugate structure of this TEC anomaly revealed a multi-path coupling effect between the lithosphere, atmosphere, and ionosphere. The extraction of Coherent Ionospheric Disturbance (CID) signals based on wavelet transform and band-pass filtering indicated that the co-seismic ionospheric disturbances were dominated by acoustic-gravity waves in the 2-8 mHz frequency band, propagating at a speed of approximately 1.2 km/s, and exhibiting an asymmetric pattern in the southeast direction. A spatial density-weighted method for locating the source of ionospheric disturbances was proposed, elucidating the joint control mechanism of fault strike-slip motion, geomagnetic field modulation, and equatorial electrojet on the disturbance energy. The results confirm that the high spatiotemporal resolution of BeiDou GEO satellites and multi-system GNSS significantly enhances the capability to capture weak ionospheric anomaly signals associated with earthquakes. These results provide additional observational constraints on space-based Lithosphere-Atmosphere-Ionosphere Coupling (LAIC) processes and may contribute to the development of ionosphere-based earthquake monitoring techniques.",
+    "keywords": [
+      "ionospheric",
+      "disturbances",
+      "earthquake",
+      "multi",
+      "anomaly"
+    ],
+    "tags": [
+      "Ionosphere",
       "Multi-GNSS"
     ]
   },

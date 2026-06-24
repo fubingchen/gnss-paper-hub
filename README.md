@@ -8,6 +8,13 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### A multi-beam polling multiple access method for LEO navigation signals
+- Li, Tang, Ma, Wang, Wang (2026)
+- *GPS Solutions*
+- **Keywords:** access, beam, leo, method, multi
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02099-5)
+
 ### Accurate topside ionospheric TEC estimation using LEO satellites with onboard GPS observations
 - Ren, Wu, Le, Yang, Yang, Jian, Zhang (2026)
 - *GPS Solutions*
@@ -64,34 +71,6 @@ Automatically updated GNSS papers.
 - **Keywords:** global, influence, ionospheric, maps, native
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02113-w)
-
-### An exponential optimized fitting coefficients wide-area tropospheric corrections model and its application in PPP-IAR
-- Lei, Guo, Yang, Tao, Jiang, Zhao (2026)
-- *GPS Solutions*
-- **Keywords:** application, area, coefficients, corrections, exponential
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02100-1)
-
-### Deep reinforcement learning with robust spatial–temporal representation for improving GNSS positioning correction
-- Li, Li, Tang, Song, Chen, Cai, Xie (2026)
-- *GPS Solutions*
-- **Keywords:** correction, deep, gnss, improving, learning
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02103-y)
-
-### Platform-terminal interactive VRS observation generation method for GNSS network RTK positioning
-- Gao, Liu, Pan, Zhang (2026)
-- *GPS Solutions*
-- **Keywords:** generation, gnss, interactive, method, network
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02098-6)
-
-### Real-time quality indicator determination for precise satellite orbit and clock corrections from integrity perspective
-- Wang, Li, Li, Zheng, Ma (2026)
-- *GPS Solutions*
-- **Keywords:** clock, corrections, determination, indicator, integrity
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02105-w)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -218,4 +197,25 @@ Automatically updated GNSS papers.
 - **Keywords:** ppp, bds, corrections, service, b2b
 - **Abstract:** With the rapid development of China's BeiDou Navigation Satellite System(BDS), the application of real-time precise point positioning (RTPPP) based on BDS has become an active research area in the field of Global Navigation Satellite System (GNSS). BDS has provided the service of broadcasting RTPPP ...
 - [Link](https://arxiv.org/abs/2011.13539v1)
+
+### DEMO: RTKiller -- manipulation of GNSS RTK rovers by reference base spoofing
+- Marco Spanghero, Panos Papadimitratos (2024)
+- *arXiv*
+- **Keywords:** reference, gnss, receivers, rovers, accuracy
+- **Abstract:** Global Navigation Satellite Systems (GNSS) provide global positioning and timing. Multiple receivers with known reference positions (stations) can assist mobile receivers (rovers) in obtaining GNSS corrections and achieve centimeter-level accuracy on consumer devices. However, GNSS spoofing and jamm...
+- [Link](https://arxiv.org/abs/2406.07565v1)
+
+### 5G-Aided RTK Positioning in GNSS-Deprived Environments
+- Pinjun Zheng, Xing Liu, Tarig Ballal, Tareq Y. Al-Naffouri (2023)
+- *arXiv*
+- **Keywords:** 5g, gnss, aided, ambiguity, based
+- **Abstract:** This paper considers the localization problem in a 5G-aided global navigation satellite system (GNSS) based on real-time kinematic (RTK) technique. Specifically, the user's position is estimated based on the hybrid measurements, including GNSS pseudo-ranges, GNSS carrier phases, 5G angle-of-departur...
+- [Link](https://arxiv.org/abs/2303.13067v1)
+
+### GNSS Positioning using Cost Function Regulated Multilateration and Graph Neural Networks
+- Amir Jalalirad, Davide Belli, Bence Major, Songwon Jee, Himanshu Shah, Will Morrison (2024)
+- *arXiv*
+- **Keywords:** gnss, error, errors, localization, multilateration
+- **Abstract:** In urban environments, where line-of-sight signals from GNSS satellites are frequently blocked by high-rise objects, GNSS receivers are subject to large errors in measuring satellite ranges. Heuristic methods are commonly used to estimate these errors and reduce the impact of noisy measurements on l...
+- [Link](https://arxiv.org/abs/2402.18630v1)
 
