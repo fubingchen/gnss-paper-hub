@@ -8,12 +8,36 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Physical constraints for zenith wet delay estimation via inequality constrained least squares in real-time PPP
+- He, Brack, Hobiger, Takamatsu, Wickert (2026)
+- *Journal of Geodesy*
+- **Keywords:** zwd, ppp, conditions, processing, component
+- **Abstract:** Abstract
+                  
+                    In current conventional precise point positioning (PPP) processing strategies, the tropospheric zenith wet delay (ZWD) is usually dynamically estimated as a stochastic parameter. During the convergence period, ZWD estimates can appear to be negative or...
+- [Link](https://doi.org/10.1007/s00190-026-02075-4)
+
 ### A hybrid genetic algorithm for calculating the relaxation time constants of stochastic post-seismic GPS coordinate time series
 - Xu, Cui, He (2026)
 - *Journal of Geodesy*
 - **Keywords:** time, algorithm, calculating, constants, coordinate
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s00190-026-02087-0)
+
+### Global ionospheric TEC prediction for extreme space weather: a spatiotemporal dual-stream deep learning model coupled with cross-attention mechanisms
+- Li, Yang, Pan, Zhao, Li, Zhang (2026)
+- *GPS Solutions*
+- **Keywords:** attention, coupled, cross, deep, dual
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02114-9)
+
+### Implementation and performance analysis of a Chi-Square Test based GNSS signal anomaly detection
+- Bhuiyan, Liaquat, Islam, Pääkkönen, Saajasto, Kaasalainen (2026)
+- *GPS Solutions*
+- **Keywords:** gnss, detection, anomaly, datasets, signal
+- **Abstract:** Abstract
+                  Global Navigation Satellite System (GNSS) signals are increasingly affected by man-made intentional interferences, such as jamming and spoofing, underscoring the need for reliable and extensively evaluated interference detection techniques in protected GNSS frequency bands...
+- [Link](https://doi.org/10.1007/s10291-026-02102-z)
 
 ### Soil moisture retrieval with high spatial–temporal resolution via the fusion of CYGNSS and SAR data
 - Chang, Wang, Sun, Tan, Li, Yu (2026)
@@ -22,55 +46,12 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02119-4)
 
-### A multi-beam polling multiple access method for LEO navigation signals
-- Li, Tang, Ma, Wang, Wang (2026)
-- *GPS Solutions*
-- **Keywords:** access, beam, leo, method, multi
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02099-5)
-
 ### Accurate topside ionospheric TEC estimation using LEO satellites with onboard GPS observations
 - Ren, Wu, Le, Yang, Yang, Jian, Zhang (2026)
 - *GPS Solutions*
 - **Keywords:** accurate, estimation, gps, ionospheric, leo
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02107-8)
-
-### A precise global ionospheric total electron content forecasting model based on multi-neural network ensemble
-- Zhang, Han, Peng, Zhang, Xu, Huang, Tang, Kong, Yao, Pan, Huang, Li, Chen (2026)
-- *GPS Solutions*
-- **Keywords:** based, content, electron, ensemble, forecasting
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02079-9)
-
-### Inter-augmentation SIS bias (IASB): a novel integrity monitor for QZSS CLAS PPP-RTK
-- Shiono, Kubo (2026)
-- *GPS Solutions*
-- **Keywords:** ppp, iasb, integrity, rtk, sis
-- **Abstract:** Abstract
-                  Bottom-up PPP-RTK services, such as QZSS CLAS, generate corrections using local reference station networks. Prior work identified “Error Cross-Contamination,” where global errors leak into local atmospheric estimates. This study addresses the inverse risk: local anomalies—...
-- [Link](https://doi.org/10.1007/s10291-026-02109-6)
-
-### LEO satellite clock prediction using deep learning: a wavelet–LSTM method with autoformer and LSTM comparisons
-- Wang, Wu, Wang, Xie (2026)
-- *GPS Solutions*
-- **Keywords:** lstm, autoformer, clock, comparisons, deep
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02110-z)
-
-### Enhanced PPP-RTK in mountainous regions using a 3D grid-based elevation normalization model
-- Li, Wang, Li, Huang, Zheng, Han (2026)
-- *GPS Solutions*
-- **Keywords:** 3d, based, elevation, enhanced, grid
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02106-9)
-
-### A clustered-user PPP-RTK method
-- Zhong, Zhang (2026)
-- *GPS Solutions*
-- **Keywords:** clustered, method, ppp, rtk, user
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02115-8)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -218,4 +199,25 @@ Automatically updated GNSS papers.
 - **Keywords:** gnss, error, errors, localization, multilateration
 - **Abstract:** In urban environments, where line-of-sight signals from GNSS satellites are frequently blocked by high-rise objects, GNSS receivers are subject to large errors in measuring satellite ranges. Heuristic methods are commonly used to estimate these errors and reduce the impact of noisy measurements on l...
 - [Link](https://arxiv.org/abs/2402.18630v1)
+
+### Robust Navigation In GNSS Degraded Environment Using Graph Optimization
+- Ryan M. Watson, Jason N. Gross (2018)
+- *arXiv*
+- **Keywords:** gnss, data, robust, navigation, graph
+- **Abstract:** Robust navigation in urban environments has received a considerable amount of both academic and commercial interest over recent years. This is primarily due to large commercial organizations such as Google and Uber stepping into the autonomous navigation market. Most of this research has shied away ...
+- [Link](https://arxiv.org/abs/1806.08899v1)
+
+### GPS as a Control Signal for Image Generation
+- Chao Feng, Ziyang Chen, Aleksander Holynski, Alexei A. Efros, Andrew Owens (2025)
+- *arXiv*
+- **Keywords:** gps, image, images, models, 3d
+- **Abstract:** We show that the GPS tags contained in photo metadata provide a useful control signal for image generation. We train GPS-to-image models and use them for tasks that require a fine-grained understanding of how images vary within a city. In particular, we train a diffusion model to generate images con...
+- [Link](https://arxiv.org/abs/2501.12390v2)
+
+### ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots
+- Cagri Kilic, Shounak Das, Eduardo Gutierrez, Ryan Watson, Jason Gross (2021)
+- *arXiv*
+- **Keywords:** factor, gnss, graph, navigation, inertial
+- **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
+- [Link](https://arxiv.org/abs/2112.07176v1)
 

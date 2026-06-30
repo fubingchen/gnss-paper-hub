@@ -1,5 +1,23 @@
 [
   {
+    "title": "Physical constraints for zenith wet delay estimation via inequality constrained least squares in real-time PPP",
+    "authors": "He, Brack, Hobiger, Takamatsu, Wickert",
+    "year": 2026,
+    "journal": "Journal of Geodesy",
+    "url": "https://doi.org/10.1007/s00190-026-02075-4",
+    "abstract": "Abstract\n                  \n                    In current conventional precise point positioning (PPP) processing strategies, the tropospheric zenith wet delay (ZWD) is usually dynamically estimated as a stochastic parameter. During the convergence period, ZWD estimates can appear to be negative or unrealistically large due to the low estimation precision, which adversely affects the estimation of other state parameters, especially the Up component of coordinates. To address this issue, we propose a method that incorporates physical constraints on ZWD in PPP processing. This method employs the inequality constrained least squares (ICLS), utilizing Karush\u2013Kuhn\u2013Tucker (KKT) conditions to add boundary conditions on ZWD. The boundary conditions of ZWD are calculated based on the relation between ZWD and relative humidity (RH). The use of physical constraints does not rely on external products or space state representation (SSR) corrections for ZWD during PPP processing and can improve the short-term accuracy of ZWD and coordinate Up component. The efficiency of this approach has been validated using GNSS data and products from GFZ operational networks. For real-time PPP solutions, there is a\n                    \n                      \n                        $$30\\%$$\n                        \n                          \n                            30\n                            %\n                          \n                        \n                      \n                    \n                    improvement in short-term accuracy of Up component; for post-processing solutions, the short-term RMSE improvement is about\n                    \n                      \n                        $$20\\%$$\n                        \n                          \n                            20\n                            %\n                          \n                        \n                      \n                    \n                    . After convergence, the ZWD upper bound is no longer applied as an ICLS constraint, but is instead used as a diagnostic indicator to identify ZWD anomalies. This indicator demonstrates high sensitivity and reliability under extreme weather conditions, highlighting its potential for application in meteorological hazard early-warning systems.\n                  ",
+    "keywords": [
+      "zwd",
+      "ppp",
+      "conditions",
+      "processing",
+      "component"
+    ],
+    "tags": [
+      "PPP"
+    ]
+  },
+  {
     "title": "A hybrid genetic algorithm for calculating the relaxation time constants of stochastic post-seismic GPS coordinate time series",
     "authors": "Xu, Cui, He",
     "year": 2026,
@@ -15,6 +33,42 @@
     ],
     "tags": [
       "Other"
+    ]
+  },
+  {
+    "title": "Global ionospheric TEC prediction for extreme space weather: a spatiotemporal dual-stream deep learning model coupled with cross-attention mechanisms",
+    "authors": "Li, Yang, Pan, Zhao, Li, Zhang",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02114-9",
+    "abstract": "",
+    "keywords": [
+      "attention",
+      "coupled",
+      "cross",
+      "deep",
+      "dual"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
+    "title": "Implementation and performance analysis of a Chi-Square Test based GNSS signal anomaly detection",
+    "authors": "Bhuiyan, Liaquat, Islam, P\u00e4\u00e4kk\u00f6nen, Saajasto, Kaasalainen",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02102-z",
+    "abstract": "Abstract\n                  Global Navigation Satellite System (GNSS) signals are increasingly affected by man-made intentional interferences, such as jamming and spoofing, underscoring the need for reliable and extensively evaluated interference detection techniques in protected GNSS frequency bands. This paper presents a GNSS signal anomaly detection method based on a Chi-Square statistical test applied directly to raw digitized intermediate-frequency (IF) samples, where an anomaly is defined as any man-made interference signal. A key contribution of this work lies in its extensive experimental evaluation, which spans a wide range of datasets, including multiple publicly available spoofing datasets that have been widely used by the research community, as well as data collected during a real-world GNSS jammer test campaign held in Norway in 2023 (JammerTest2023). The proposed method is implemented using the open-source software-defined receiver FGI-GSRx and evaluated under diverse and realistic signal propagation conditions. The results demonstrate anomaly detection rates exceeding 99% across all evaluated datasets, with no false alarms observed within the tested scenarios. The GNSS datasets used in this study, collected during the JammerTest2023 campaign, are made publicly available. The open-source FGI-GSRx software-defined receiver along with the configuration files required to reproduce the reported results, is also provided. This open release enables independent reproduction of the results and supports systematic comparison with state-of-the-art GNSS interference detection techniques.",
+    "keywords": [
+      "gnss",
+      "detection",
+      "anomaly",
+      "datasets",
+      "signal"
+    ],
+    "tags": [
+      "Ionosphere"
     ]
   },
   {
@@ -36,24 +90,6 @@
     ]
   },
   {
-    "title": "A multi-beam polling multiple access method for LEO navigation signals",
-    "authors": "Li, Tang, Ma, Wang, Wang",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02099-5",
-    "abstract": "",
-    "keywords": [
-      "access",
-      "beam",
-      "leo",
-      "method",
-      "multi"
-    ],
-    "tags": [
-      "LEO"
-    ]
-  },
-  {
     "title": "Accurate topside ionospheric TEC estimation using LEO satellites with onboard GPS observations",
     "authors": "Ren, Wu, Le, Yang, Yang, Jian, Zhang",
     "year": 2026,
@@ -70,101 +106,6 @@
     "tags": [
       "Ionosphere",
       "LEO"
-    ]
-  },
-  {
-    "title": "A precise global ionospheric total electron content forecasting model based on multi-neural network ensemble",
-    "authors": "Zhang, Han, Peng, Zhang, Xu, Huang, Tang, Kong, Yao, Pan, Huang, Li, Chen",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02079-9",
-    "abstract": "",
-    "keywords": [
-      "based",
-      "content",
-      "electron",
-      "ensemble",
-      "forecasting"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Inter-augmentation SIS bias (IASB): a novel integrity monitor for QZSS CLAS PPP-RTK",
-    "authors": "Shiono, Kubo",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02109-6",
-    "abstract": "Abstract\n                  Bottom-up PPP-RTK services, such as QZSS CLAS, generate corrections using local reference station networks. Prior work identified \u201cError Cross-Contamination,\u201d where global errors leak into local atmospheric estimates. This study addresses the inverse risk: local anomalies\u2014such as crustal deformation from earthquakes\u2014being absorbed into global Signal-In-Space (SIS) corrections, creating \u201csilent failures\u201d that maintain internal consistency while producing physically erroneous outputs. As a feasibility study for autonomous user-side integrity monitoring, we propose the Inter-Augmentation SIS Bias (IASB), which compares SIS corrections between bottom-up PPP-RTK and top-down global PPP architectures. We position IASB as a complement to existing observation-domain integrity methods (e.g., ARAIM-based approaches), specifically targeting threats that are architecturally unique to bottom-up systems and undetectable through self-consistency-based quality indicators. Validation using real data, including the 2024 Noto Peninsula earthquake, geomagnetic storms, and tropospheric divergence events, demonstrated that IASB detects anomalies with high sensitivity where existing indicators failed. The proposed fault isolation framework further classified detected anomalies by root cause: crustal deformation, atmospheric disturbances, or system errors. Operating in the correction domain rather than the measurement domain, the method requires minimal computational resources and can be executed autonomously by user receivers, offering a practical foundation for next-generation PPP-RTK integrity monitoring at the user edge.",
-    "keywords": [
-      "ppp",
-      "iasb",
-      "integrity",
-      "rtk",
-      "sis"
-    ],
-    "tags": [
-      "PPP",
-      "RTK",
-      "Ionosphere"
-    ]
-  },
-  {
-    "title": "LEO satellite clock prediction using deep learning: a wavelet\u2013LSTM method with autoformer and LSTM comparisons",
-    "authors": "Wang, Wu, Wang, Xie",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02110-z",
-    "abstract": "",
-    "keywords": [
-      "lstm",
-      "autoformer",
-      "clock",
-      "comparisons",
-      "deep"
-    ],
-    "tags": [
-      "Clock",
-      "LEO"
-    ]
-  },
-  {
-    "title": "Enhanced PPP-RTK in mountainous regions using a 3D grid-based elevation normalization model",
-    "authors": "Li, Wang, Li, Huang, Zheng, Han",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02106-9",
-    "abstract": "",
-    "keywords": [
-      "3d",
-      "based",
-      "elevation",
-      "enhanced",
-      "grid"
-    ],
-    "tags": [
-      "PPP",
-      "RTK"
-    ]
-  },
-  {
-    "title": "A clustered-user PPP-RTK method",
-    "authors": "Zhong, Zhang",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02115-8",
-    "abstract": "",
-    "keywords": [
-      "clustered",
-      "method",
-      "ppp",
-      "rtk",
-      "user"
-    ],
-    "tags": [
-      "PPP",
-      "RTK"
     ]
   },
   {
@@ -691,6 +632,24 @@
     ]
   },
   {
+    "title": "Efficacy of Asynchronous GPS Spoofing Against High Volume Consumer GNSS Receivers",
+    "authors": "M. Surendra Kumar, Gaurav S. Kasbekar, Arnab Maity",
+    "year": "2022",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2206.09133v1",
+    "abstract": "The vulnerability of the Global Positioning System (GPS) against spoofing is known for quite some time. Also, the positioning and navigation of most semi-autonomous and autonomous drones are dependent on Global Navigation Satellite System (GNSS) signals. In prior work, simplistic or asynchronous GPS spoofing was found to be a simple, efficient, and effective cyber attack against L1 GPS or GNSS dependent commercial drones. In this paper, first we make some important observations on asynchronous GPS spoofing attacks on drones presented in prior research literature. Then, we design an asynchronous GPS spoofing attack plan. Next, we test the effectiveness of this attack against GNSS receivers (high volume consumer devices based on Android mobile phones) of different capabilities and a commercial drone (DJI Mavic 2 Pro) under various conditions. Finally, we present several novel insights based on the results of the tests.",
+    "keywords": [
+      "gps",
+      "spoofing",
+      "asynchronous",
+      "gnss",
+      "attack"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
     "title": "Two stage GNSS outlier detection for factor graph optimization based GNSS-RTK/INS/odometer fusion",
     "authors": "Baoshan Song, Penggao Yan, Xiao Xia, Yihan Zhong, Weisong Wen, Li-Ta Hsu",
     "year": "2025",
@@ -707,24 +666,6 @@
     "tags": [
       "RTK",
       "Ionosphere"
-    ]
-  },
-  {
-    "title": "Efficacy of Asynchronous GPS Spoofing Against High Volume Consumer GNSS Receivers",
-    "authors": "M. Surendra Kumar, Gaurav S. Kasbekar, Arnab Maity",
-    "year": "2022",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2206.09133v1",
-    "abstract": "The vulnerability of the Global Positioning System (GPS) against spoofing is known for quite some time. Also, the positioning and navigation of most semi-autonomous and autonomous drones are dependent on Global Navigation Satellite System (GNSS) signals. In prior work, simplistic or asynchronous GPS spoofing was found to be a simple, efficient, and effective cyber attack against L1 GPS or GNSS dependent commercial drones. In this paper, first we make some important observations on asynchronous GPS spoofing attacks on drones presented in prior research literature. Then, we design an asynchronous GPS spoofing attack plan. Next, we test the effectiveness of this attack against GNSS receivers (high volume consumer devices based on Android mobile phones) of different capabilities and a commercial drone (DJI Mavic 2 Pro) under various conditions. Finally, we present several novel insights based on the results of the tests.",
-    "keywords": [
-      "gps",
-      "spoofing",
-      "asynchronous",
-      "gnss",
-      "attack"
-    ],
-    "tags": [
-      "Other"
     ]
   },
   {
@@ -785,24 +726,6 @@
     ]
   },
   {
-    "title": "GPS radio sources: new optical observations and an updated master list",
-    "authors": "A. Labiano, P. D. Barthel, C. P. O'Dea, W. H. de Vries, I. P\u00e9rez, S. A. Baum",
-    "year": "2006",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/astro-ph/0611600v1",
-    "abstract": "* Aims. Identify optical counterparts, address uncertain identifications and measure previously unknown redshifts of the host galaxies of candidate GPS radio sources, and study their stellar populations. * Methods. Long slit spectroscopy and deep optical imaging in the B, V and R bands, obtained with the Very Large Telescope. * Results. We obtain new redshifts for B0316+161, B0407-658, B0904+039, B1433-040, and identify the optical counterparts of B0008-421 and B0742+103. We confirm the previous identification for B0316+161, B0407-658, B0554-026, and B0904+039, and find that the previous identification for B0914+114 is incorrect. Using updated published radio spectral information we classify as non GPS the following sources: B0407-658, B0437-454, B1648+015. The optical colors of typical GPS sources are consistent with single instantaneous burst stellar population models but do not yield useful information on age or metallicity. A new master list of GPS sources is presented.",
-    "keywords": [
-      "gps",
-      "optical",
-      "sources",
-      "658",
-      "b0407"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
     "title": "The optical imager Galileo (OIG)",
     "authors": "Bortoletto F., Benetti S., Bonanno G., Bonoli C., Cosentino R., D'Alessandro M., Fantinel D., Ghedina A., Giro E., Magazzu A., Pernechele C., Vuerli C",
     "year": "2023",
@@ -819,6 +742,24 @@
     "tags": [
       "LEO",
       "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "GPS radio sources: new optical observations and an updated master list",
+    "authors": "A. Labiano, P. D. Barthel, C. P. O'Dea, W. H. de Vries, I. P\u00e9rez, S. A. Baum",
+    "year": "2006",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/astro-ph/0611600v1",
+    "abstract": "* Aims. Identify optical counterparts, address uncertain identifications and measure previously unknown redshifts of the host galaxies of candidate GPS radio sources, and study their stellar populations. * Methods. Long slit spectroscopy and deep optical imaging in the B, V and R bands, obtained with the Very Large Telescope. * Results. We obtain new redshifts for B0316+161, B0407-658, B0904+039, B1433-040, and identify the optical counterparts of B0008-421 and B0742+103. We confirm the previous identification for B0316+161, B0407-658, B0554-026, and B0904+039, and find that the previous identification for B0914+114 is incorrect. Using updated published radio spectral information we classify as non GPS the following sources: B0407-658, B0437-454, B1648+015. The optical colors of typical GPS sources are consistent with single instantaneous burst stellar population models but do not yield useful information on age or metallicity. A new master list of GPS sources is presented.",
+    "keywords": [
+      "gps",
+      "optical",
+      "sources",
+      "658",
+      "b0407"
+    ],
+    "tags": [
+      "Other"
     ]
   },
   {
