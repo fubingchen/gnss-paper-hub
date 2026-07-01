@@ -24,6 +24,13 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s00190-026-02087-0)
 
+### An external-aid-free GNSS signal classification and stochastic model optimization method for urban multipath environments
+- Shu, Li, Zhang, Wang, Li, Huang (2026)
+- *GPS Solutions*
+- **Keywords:** aid, classification, environments, external, free
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02108-7)
+
 ### Global ionospheric TEC prediction for extreme space weather: a spatiotemporal dual-stream deep learning model coupled with cross-attention mechanisms
 - Li, Yang, Pan, Zhao, Li, Zhang (2026)
 - *GPS Solutions*
@@ -46,12 +53,12 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02119-4)
 
-### Accurate topside ionospheric TEC estimation using LEO satellites with onboard GPS observations
-- Ren, Wu, Le, Yang, Yang, Jian, Zhang (2026)
+### A multi-beam polling multiple access method for LEO navigation signals
+- Li, Tang, Ma, Wang, Wang (2026)
 - *GPS Solutions*
-- **Keywords:** accurate, estimation, gps, ionospheric, leo
+- **Keywords:** access, beam, leo, method, multi
 - **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02107-8)
+- [Link](https://doi.org/10.1007/s10291-026-02099-5)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -213,11 +220,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, image, images, models, 3d
 - **Abstract:** We show that the GPS tags contained in photo metadata provide a useful control signal for image generation. We train GPS-to-image models and use them for tasks that require a fine-grained understanding of how images vary within a city. In particular, we train a diffusion model to generate images con...
 - [Link](https://arxiv.org/abs/2501.12390v2)
-
-### ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots
-- Cagri Kilic, Shounak Das, Eduardo Gutierrez, Ryan Watson, Jason Gross (2021)
-- *arXiv*
-- **Keywords:** factor, gnss, graph, navigation, inertial
-- **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
-- [Link](https://arxiv.org/abs/2112.07176v1)
 

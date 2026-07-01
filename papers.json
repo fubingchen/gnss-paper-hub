@@ -36,6 +36,24 @@
     ]
   },
   {
+    "title": "An external-aid-free GNSS signal classification and stochastic model optimization method for urban multipath environments",
+    "authors": "Shu, Li, Zhang, Wang, Li, Huang",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02108-7",
+    "abstract": "",
+    "keywords": [
+      "aid",
+      "classification",
+      "environments",
+      "external",
+      "free"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
     "title": "Global ionospheric TEC prediction for extreme space weather: a spatiotemporal dual-stream deep learning model coupled with cross-attention mechanisms",
     "authors": "Li, Yang, Pan, Zhao, Li, Zhang",
     "year": 2026,
@@ -90,21 +108,20 @@
     ]
   },
   {
-    "title": "Accurate topside ionospheric TEC estimation using LEO satellites with onboard GPS observations",
-    "authors": "Ren, Wu, Le, Yang, Yang, Jian, Zhang",
+    "title": "A multi-beam polling multiple access method for LEO navigation signals",
+    "authors": "Li, Tang, Ma, Wang, Wang",
     "year": 2026,
     "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02107-8",
+    "url": "https://doi.org/10.1007/s10291-026-02099-5",
     "abstract": "",
     "keywords": [
-      "accurate",
-      "estimation",
-      "gps",
-      "ionospheric",
-      "leo"
+      "access",
+      "beam",
+      "leo",
+      "method",
+      "multi"
     ],
     "tags": [
-      "Ionosphere",
       "LEO"
     ]
   },
@@ -782,25 +799,6 @@
     ]
   },
   {
-    "title": "Galileo satellite constellation and extensions to General Relativity",
-    "authors": "J. Paramos, O. Bertolami",
-    "year": "2007",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/0710.3880v1",
-    "abstract": "We consider the impact of some known extensions of General Relativity in observables that will be available with the Galileo positioning systems, and draw conclusions as to the possibility of measuring them. We specifically address the effects of the presence of a cosmological constant, a Yukawa-like addition to the Newtonian potential, and the existence of an extra, constant acceleration. We also consider the phenomenological impact of a broad class of metric theories, which can be classified through the parameterized Post-Newtonian formalism.",
-    "keywords": [
-      "consider",
-      "constant",
-      "extensions",
-      "galileo",
-      "general"
-    ],
-    "tags": [
-      "LEO",
-      "Multi-GNSS"
-    ]
-  },
-  {
     "title": "The Accuracy of Galileo's Observations and the Early Search for Stellar Parallax",
     "authors": "Christopher M. Graney",
     "year": "2006",
@@ -817,6 +815,25 @@
     "tags": [
       "Orbit",
       "Ionosphere",
+      "LEO",
+      "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Galileo satellite constellation and extensions to General Relativity",
+    "authors": "J. Paramos, O. Bertolami",
+    "year": "2007",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/0710.3880v1",
+    "abstract": "We consider the impact of some known extensions of General Relativity in observables that will be available with the Galileo positioning systems, and draw conclusions as to the possibility of measuring them. We specifically address the effects of the presence of a cosmological constant, a Yukawa-like addition to the Newtonian potential, and the existence of an extra, constant acceleration. We also consider the phenomenological impact of a broad class of metric theories, which can be classified through the parameterized Post-Newtonian formalism.",
+    "keywords": [
+      "consider",
+      "constant",
+      "extensions",
+      "galileo",
+      "general"
+    ],
+    "tags": [
       "LEO",
       "Multi-GNSS"
     ]
