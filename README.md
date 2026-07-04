@@ -17,12 +17,12 @@ Automatically updated GNSS papers.
                     In current conventional precise point positioning (PPP) processing strategies, the tropospheric zenith wet delay (ZWD) is usually dynamically estimated as a stochastic parameter. During the convergence period, ZWD estimates can appear to be negative or...
 - [Link](https://doi.org/10.1007/s00190-026-02075-4)
 
-### A hybrid genetic algorithm for calculating the relaxation time constants of stochastic post-seismic GPS coordinate time series
-- Xu, Cui, He (2026)
-- *Journal of Geodesy*
-- **Keywords:** time, algorithm, calculating, constants, coordinate
+### Trop_XS: an intelligent architecture for real-time wide-area ZTD corrections modeling driven by heterogeneous observations
+- Gao, Li, Kang, Chen, Dai, Wu (2026)
+- *GPS Solutions*
+- **Keywords:** architecture, area, corrections, driven, heterogeneous
 - **Abstract:** ...
-- [Link](https://doi.org/10.1007/s00190-026-02087-0)
+- [Link](https://doi.org/10.1007/s10291-026-02124-7)
 
 ### An external-aid-free GNSS signal classification and stochastic model optimization method for urban multipath environments
 - Shu, Li, Zhang, Wang, Li, Huang (2026)
@@ -81,19 +81,19 @@ Automatically updated GNSS papers.
 - **Abstract:** At least ten emerging providers are developing satellite navigation systems for low Earth orbit (LEO). Compatibility with existing GNSS in L-band is critical to their successful deployment and for the larger ecosystem. Xona is deploying Pulsar, a near 260-satellite LEO constellation offering dual L-...
 - [Link](https://arxiv.org/abs/2509.16183v3)
 
-### Participatory Sensing for Localization of a GNSS Jammer
-- Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
-- *arXiv*
-- **Keywords:** sensing, gnss, jamming, localization, participatory
-- **Abstract:** GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of parti...
-- [Link](https://arxiv.org/abs/2204.13974v1)
-
 ### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
 - Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
 - *arXiv*
 - **Keywords:** gnss, rtk, ins, augmentation, integration
 - **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
 - [Link](https://arxiv.org/abs/2606.06358v1)
+
+### Participatory Sensing for Localization of a GNSS Jammer
+- Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
+- *arXiv*
+- **Keywords:** sensing, gnss, jamming, localization, participatory
+- **Abstract:** GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of parti...
+- [Link](https://arxiv.org/abs/2204.13974v1)
 
 ### Robust state and protection-level estimation within tightly coupled GNSS/INS navigation system
 - Shuchen Liu, Kaizheng Wang, Dirk Abel (2021)
