@@ -17,6 +17,14 @@ Automatically updated GNSS papers.
                     In current conventional precise point positioning (PPP) processing strategies, the tropospheric zenith wet delay (ZWD) is usually dynamically estimated as a stochastic parameter. During the convergence period, ZWD estimates can appear to be negative or...
 - [Link](https://doi.org/10.1007/s00190-026-02075-4)
 
+### An investigation into the impact of optical clock stability on PPP-RTK
+- Boldbaatar, Li, Zaminpardaz, Holden, Grant, Mitchell, Choy (2026)
+- *GPS Solutions*
+- **Keywords:** clock, clocks, optical, satellite, stability
+- **Abstract:** Abstract
+                  This study presents a simulation-based analysis to evaluate the impact of satellite clock stability, particularly that of emerging optical clocks, on global navigation satellite systems (GNSS) positioning performance. A controlled single-station precise point positioning-r...
+- [Link](https://doi.org/10.1007/s10291-026-02123-8)
+
 ### Trop_XS: an intelligent architecture for real-time wide-area ZTD corrections modeling driven by heterogeneous observations
 - Gao, Li, Kang, Chen, Dai, Wu (2026)
 - *GPS Solutions*
@@ -46,13 +54,6 @@ Automatically updated GNSS papers.
                   Global Navigation Satellite System (GNSS) signals are increasingly affected by man-made intentional interferences, such as jamming and spoofing, underscoring the need for reliable and extensively evaluated interference detection techniques in protected GNSS frequency bands...
 - [Link](https://doi.org/10.1007/s10291-026-02102-z)
 
-### Soil moisture retrieval with high spatial–temporal resolution via the fusion of CYGNSS and SAR data
-- Chang, Wang, Sun, Tan, Li, Yu (2026)
-- *GPS Solutions*
-- **Keywords:** cygnss, data, fusion, high, moisture
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02119-4)
-
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
@@ -81,19 +82,19 @@ Automatically updated GNSS papers.
 - **Abstract:** At least ten emerging providers are developing satellite navigation systems for low Earth orbit (LEO). Compatibility with existing GNSS in L-band is critical to their successful deployment and for the larger ecosystem. Xona is deploying Pulsar, a near 260-satellite LEO constellation offering dual L-...
 - [Link](https://arxiv.org/abs/2509.16183v3)
 
-### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
-- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
-- *arXiv*
-- **Keywords:** gnss, rtk, ins, augmentation, integration
-- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
-- [Link](https://arxiv.org/abs/2606.06358v1)
-
 ### Participatory Sensing for Localization of a GNSS Jammer
 - Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
 - *arXiv*
 - **Keywords:** sensing, gnss, jamming, localization, participatory
 - **Abstract:** GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of parti...
 - [Link](https://arxiv.org/abs/2204.13974v1)
+
+### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
+- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
+- *arXiv*
+- **Keywords:** gnss, rtk, ins, augmentation, integration
+- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
+- [Link](https://arxiv.org/abs/2606.06358v1)
 
 ### Robust state and protection-level estimation within tightly coupled GNSS/INS navigation system
 - Shuchen Liu, Kaizheng Wang, Dirk Abel (2021)
