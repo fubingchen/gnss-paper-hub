@@ -18,6 +18,24 @@
     ]
   },
   {
+    "title": "An undifferenced and uncombined phase-only PPP model for time transfer",
+    "authors": "Jiang, Hou, Sun, Wang, Zhang",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02125-6",
+    "abstract": "",
+    "keywords": [
+      "model",
+      "phase",
+      "ppp",
+      "time",
+      "transfer"
+    ],
+    "tags": [
+      "PPP"
+    ]
+  },
+  {
     "title": "An investigation into the impact of optical clock stability on PPP-RTK",
     "authors": "Boldbaatar, Li, Zaminpardaz, Holden, Grant, Mitchell, Choy",
     "year": 2026,
@@ -187,24 +205,6 @@
     ]
   },
   {
-    "title": "Participatory Sensing for Localization of a GNSS Jammer",
-    "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
-    "year": "2022",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2204.13974v1",
-    "abstract": "GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of participatory sensing, or crowdsensing, is that a large ensemble of voluntary contributors provides the measurements, rather than relying on dedicated sensing infrastructure. This work considers embedded GNSS receivers to provide measurements for participatory jamming detection and localization. Specifically, this work proposes a novel jamming localization algorithm, based on participatory sensing, that exploits AGC and C/N_0 estimates from commercial GNSS receivers. The proposed algorithm does not require knowledge of the jamming power nor of the channels, but automatically estimates all parameters. The algorithm is shown to outperform similar state-of-the-art localization algorithms in relevant scenarios.",
-    "keywords": [
-      "sensing",
-      "gnss",
-      "jamming",
-      "localization",
-      "participatory"
-    ],
-    "tags": [
-      "Ionosphere"
-    ]
-  },
-  {
     "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
     "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
     "year": "2026",
@@ -220,6 +220,24 @@
     ],
     "tags": [
       "RTK"
+    ]
+  },
+  {
+    "title": "Participatory Sensing for Localization of a GNSS Jammer",
+    "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
+    "year": "2022",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2204.13974v1",
+    "abstract": "GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of participatory sensing, or crowdsensing, is that a large ensemble of voluntary contributors provides the measurements, rather than relying on dedicated sensing infrastructure. This work considers embedded GNSS receivers to provide measurements for participatory jamming detection and localization. Specifically, this work proposes a novel jamming localization algorithm, based on participatory sensing, that exploits AGC and C/N_0 estimates from commercial GNSS receivers. The proposed algorithm does not require knowledge of the jamming power nor of the channels, but automatically estimates all parameters. The algorithm is shown to outperform similar state-of-the-art localization algorithms in relevant scenarios.",
+    "keywords": [
+      "sensing",
+      "gnss",
+      "jamming",
+      "localization",
+      "participatory"
+    ],
+    "tags": [
+      "Ionosphere"
     ]
   },
   {
@@ -729,26 +747,6 @@
     ]
   },
   {
-    "title": "Insights into Xona Pulsar LEO PNT: Constellation, Signals, and Receiver Design",
-    "authors": "J\u00e9r\u00f4me Lecl\u00e8re, Thyagaraja Marathe, Tyler G. R. Reid",
-    "year": "2025",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2509.19551v1",
-    "abstract": "The landscape of global navigation satellite systems (GNSS) is expanding with the emergence of low Earth orbit (LEO) constellations such as Pulsar, which are expected to play a key role in the future of positioning, navigation, and timing (PNT). LEO-based systems provide advantages including stronger signals for greater robustness, faster dynamics that aid convergence and multipath mitigation, and shorter time to first fix (TTFF) enabled by high data rates. These benefits, however, come with changes in signal behavior and constellation geometry that require careful consideration in receiver design. This paper investigates Pulsar properties using a GNSS simulator, analyzing parameters such as satellite pass duration, elevation, Doppler shift, Doppler rate, range, and number of satellites in view. Comparisons with GPS highlight the differences introduced by LEO operation. The analysis examines temporal evolution, statistical distributions, and maximum and minimum values. Beyond these statistical insights, the study explores interdependencies between parameters and differences across satellites, providing additional perspective. Evaluations are performed at multiple latitudes to ensure a worldwide perspective, and the impact of applying different elevation masks is discussed where relevant. Building on these findings, the paper assesses Pulsar's impact on receiver design from two standpoints: design considerations, addressing expanded Doppler ranges, higher Doppler rates, and unique constellation structure; and design optimizations, exploiting parameter analyses and interdependencies (e.g., Doppler rate vs Doppler) to refine acquisition strategies and applying prediction and prioritization techniques to avoid unnecessary computations. Together, these optimizations can reduce acquisition time and lower receiver power consumption.",
-    "keywords": [
-      "doppler",
-      "design",
-      "leo",
-      "pulsar",
-      "receiver"
-    ],
-    "tags": [
-      "Orbit",
-      "Ionosphere",
-      "LEO"
-    ]
-  },
-  {
     "title": "The optical imager Galileo (OIG)",
     "authors": "Bortoletto F., Benetti S., Bonanno G., Bonoli C., Cosentino R., D'Alessandro M., Fantinel D., Ghedina A., Giro E., Magazzu A., Pernechele C., Vuerli C",
     "year": "2023",
@@ -783,6 +781,26 @@
     ],
     "tags": [
       "Other"
+    ]
+  },
+  {
+    "title": "Insights into Xona Pulsar LEO PNT: Constellation, Signals, and Receiver Design",
+    "authors": "J\u00e9r\u00f4me Lecl\u00e8re, Thyagaraja Marathe, Tyler G. R. Reid",
+    "year": "2025",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2509.19551v1",
+    "abstract": "The landscape of global navigation satellite systems (GNSS) is expanding with the emergence of low Earth orbit (LEO) constellations such as Pulsar, which are expected to play a key role in the future of positioning, navigation, and timing (PNT). LEO-based systems provide advantages including stronger signals for greater robustness, faster dynamics that aid convergence and multipath mitigation, and shorter time to first fix (TTFF) enabled by high data rates. These benefits, however, come with changes in signal behavior and constellation geometry that require careful consideration in receiver design. This paper investigates Pulsar properties using a GNSS simulator, analyzing parameters such as satellite pass duration, elevation, Doppler shift, Doppler rate, range, and number of satellites in view. Comparisons with GPS highlight the differences introduced by LEO operation. The analysis examines temporal evolution, statistical distributions, and maximum and minimum values. Beyond these statistical insights, the study explores interdependencies between parameters and differences across satellites, providing additional perspective. Evaluations are performed at multiple latitudes to ensure a worldwide perspective, and the impact of applying different elevation masks is discussed where relevant. Building on these findings, the paper assesses Pulsar's impact on receiver design from two standpoints: design considerations, addressing expanded Doppler ranges, higher Doppler rates, and unique constellation structure; and design optimizations, exploiting parameter analyses and interdependencies (e.g., Doppler rate vs Doppler) to refine acquisition strategies and applying prediction and prioritization techniques to avoid unnecessary computations. Together, these optimizations can reduce acquisition time and lower receiver power consumption.",
+    "keywords": [
+      "doppler",
+      "design",
+      "leo",
+      "pulsar",
+      "receiver"
+    ],
+    "tags": [
+      "Orbit",
+      "Ionosphere",
+      "LEO"
     ]
   },
   {

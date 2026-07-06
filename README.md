@@ -17,6 +17,13 @@ Automatically updated GNSS papers.
                     In current conventional precise point positioning (PPP) processing strategies, the tropospheric zenith wet delay (ZWD) is usually dynamically estimated as a stochastic parameter. During the convergence period, ZWD estimates can appear to be negative or...
 - [Link](https://doi.org/10.1007/s00190-026-02075-4)
 
+### An undifferenced and uncombined phase-only PPP model for time transfer
+- Jiang, Hou, Sun, Wang, Zhang (2026)
+- *GPS Solutions*
+- **Keywords:** model, phase, ppp, time, transfer
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02125-6)
+
 ### An investigation into the impact of optical clock stability on PPP-RTK
 - Boldbaatar, Li, Zaminpardaz, Holden, Grant, Mitchell, Choy (2026)
 - *GPS Solutions*
@@ -82,19 +89,19 @@ Automatically updated GNSS papers.
 - **Abstract:** At least ten emerging providers are developing satellite navigation systems for low Earth orbit (LEO). Compatibility with existing GNSS in L-band is critical to their successful deployment and for the larger ecosystem. Xona is deploying Pulsar, a near 260-satellite LEO constellation offering dual L-...
 - [Link](https://arxiv.org/abs/2509.16183v3)
 
-### Participatory Sensing for Localization of a GNSS Jammer
-- Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
-- *arXiv*
-- **Keywords:** sensing, gnss, jamming, localization, participatory
-- **Abstract:** GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of parti...
-- [Link](https://arxiv.org/abs/2204.13974v1)
-
 ### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
 - Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
 - *arXiv*
 - **Keywords:** gnss, rtk, ins, augmentation, integration
 - **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
 - [Link](https://arxiv.org/abs/2606.06358v1)
+
+### Participatory Sensing for Localization of a GNSS Jammer
+- Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
+- *arXiv*
+- **Keywords:** sensing, gnss, jamming, localization, participatory
+- **Abstract:** GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of parti...
+- [Link](https://arxiv.org/abs/2204.13974v1)
 
 ### Robust state and protection-level estimation within tightly coupled GNSS/INS navigation system
 - Shuchen Liu, Kaizheng Wang, Dirk Abel (2021)
@@ -214,11 +221,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, image, images, models, 3d
 - **Abstract:** We show that the GPS tags contained in photo metadata provide a useful control signal for image generation. We train GPS-to-image models and use them for tasks that require a fine-grained understanding of how images vary within a city. In particular, we train a diffusion model to generate images con...
 - [Link](https://arxiv.org/abs/2501.12390v2)
-
-### ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots
-- Cagri Kilic, Shounak Das, Eduardo Gutierrez, Ryan Watson, Jason Gross (2021)
-- *arXiv*
-- **Keywords:** factor, gnss, graph, navigation, inertial
-- **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
-- [Link](https://arxiv.org/abs/2112.07176v1)
 
