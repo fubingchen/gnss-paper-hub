@@ -1,23 +1,5 @@
 [
   {
-    "title": "Physical constraints for zenith wet delay estimation via inequality constrained least squares in real-time PPP",
-    "authors": "He, Brack, Hobiger, Takamatsu, Wickert",
-    "year": 2026,
-    "journal": "Journal of Geodesy",
-    "url": "https://doi.org/10.1007/s00190-026-02075-4",
-    "abstract": "Abstract\n                  \n                    In current conventional precise point positioning (PPP) processing strategies, the tropospheric zenith wet delay (ZWD) is usually dynamically estimated as a stochastic parameter. During the convergence period, ZWD estimates can appear to be negative or unrealistically large due to the low estimation precision, which adversely affects the estimation of other state parameters, especially the Up component of coordinates. To address this issue, we propose a method that incorporates physical constraints on ZWD in PPP processing. This method employs the inequality constrained least squares (ICLS), utilizing Karush\u2013Kuhn\u2013Tucker (KKT) conditions to add boundary conditions on ZWD. The boundary conditions of ZWD are calculated based on the relation between ZWD and relative humidity (RH). The use of physical constraints does not rely on external products or space state representation (SSR) corrections for ZWD during PPP processing and can improve the short-term accuracy of ZWD and coordinate Up component. The efficiency of this approach has been validated using GNSS data and products from GFZ operational networks. For real-time PPP solutions, there is a\n                    \n                      \n                        $$30\\%$$\n                        \n                          \n                            30\n                            %\n                          \n                        \n                      \n                    \n                    improvement in short-term accuracy of Up component; for post-processing solutions, the short-term RMSE improvement is about\n                    \n                      \n                        $$20\\%$$\n                        \n                          \n                            20\n                            %\n                          \n                        \n                      \n                    \n                    . After convergence, the ZWD upper bound is no longer applied as an ICLS constraint, but is instead used as a diagnostic indicator to identify ZWD anomalies. This indicator demonstrates high sensitivity and reliability under extreme weather conditions, highlighting its potential for application in meteorological hazard early-warning systems.\n                  ",
-    "keywords": [
-      "zwd",
-      "ppp",
-      "conditions",
-      "processing",
-      "component"
-    ],
-    "tags": [
-      "PPP"
-    ]
-  },
-  {
     "title": "An undifferenced and uncombined phase-only PPP model for time transfer",
     "authors": "Jiang, Hou, Sun, Wang, Zhang",
     "year": 2026,
@@ -73,60 +55,6 @@
     "tags": [
       "Ionosphere",
       "Troposphere"
-    ]
-  },
-  {
-    "title": "An external-aid-free GNSS signal classification and stochastic model optimization method for urban multipath environments",
-    "authors": "Shu, Li, Zhang, Wang, Li, Huang",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02108-7",
-    "abstract": "",
-    "keywords": [
-      "aid",
-      "classification",
-      "environments",
-      "external",
-      "free"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Global ionospheric TEC prediction for extreme space weather: a spatiotemporal dual-stream deep learning model coupled with cross-attention mechanisms",
-    "authors": "Li, Yang, Pan, Zhao, Li, Zhang",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02114-9",
-    "abstract": "",
-    "keywords": [
-      "attention",
-      "coupled",
-      "cross",
-      "deep",
-      "dual"
-    ],
-    "tags": [
-      "Ionosphere"
-    ]
-  },
-  {
-    "title": "Implementation and performance analysis of a Chi-Square Test based GNSS signal anomaly detection",
-    "authors": "Bhuiyan, Liaquat, Islam, P\u00e4\u00e4kk\u00f6nen, Saajasto, Kaasalainen",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02102-z",
-    "abstract": "Abstract\n                  Global Navigation Satellite System (GNSS) signals are increasingly affected by man-made intentional interferences, such as jamming and spoofing, underscoring the need for reliable and extensively evaluated interference detection techniques in protected GNSS frequency bands. This paper presents a GNSS signal anomaly detection method based on a Chi-Square statistical test applied directly to raw digitized intermediate-frequency (IF) samples, where an anomaly is defined as any man-made interference signal. A key contribution of this work lies in its extensive experimental evaluation, which spans a wide range of datasets, including multiple publicly available spoofing datasets that have been widely used by the research community, as well as data collected during a real-world GNSS jammer test campaign held in Norway in 2023 (JammerTest2023). The proposed method is implemented using the open-source software-defined receiver FGI-GSRx and evaluated under diverse and realistic signal propagation conditions. The results demonstrate anomaly detection rates exceeding 99% across all evaluated datasets, with no false alarms observed within the tested scenarios. The GNSS datasets used in this study, collected during the JammerTest2023 campaign, are made publicly available. The open-source FGI-GSRx software-defined receiver along with the configuration files required to reproduce the reported results, is also provided. This open release enables independent reproduction of the results and supports systematic comparison with state-of-the-art GNSS interference detection techniques.",
-    "keywords": [
-      "gnss",
-      "detection",
-      "anomaly",
-      "datasets",
-      "signal"
-    ],
-    "tags": [
-      "Ionosphere"
     ]
   },
   {
@@ -205,24 +133,6 @@
     ]
   },
   {
-    "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
-    "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
-    "year": "2026",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2606.06358v1",
-    "abstract": "RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effects depend on the local environment and sensor configuration, nominal receiver specifications are insufficient, and deployment-specific characterization is required. This paper presents a benchmarking study of an AsteRx-i3 D Pro+ GNSS/INS receiver installed within the mobile Sensor Box developed at KU Leuven. The study combines a real-world bridge-passage case study, static benchmarking, and closed-loop path-following experiments. The static benchmarking evaluates four receiver configurations: standalone GNSS, standalone GNSS with INS integration, RTK-augmented GNSS, and RTK-augmented GNSS with INS integration. The closed-loop experiments use INS-integrated GNSS as the navigation input and compare path-following operational performance with and without RTK augmentation. Results show that correction loss during bridge passage causes reduced positioning accuracy, increased positioning uncertainty and recovery-induced state jumps exceeding 1 m. Static benchmarking and closed-loop experiments confirm that RTK augmentation substantially improves positioning precision and uncertainty consistency, while INS integration supports short-term continuity during RTK unavailability but may introduce drift, bias, or transient uncertainty variations. By characterizing the deployment-specific receiver behavior with RTK augmentation and INS integration, this study motivates higher-level state estimation as a necessary next step toward spatially continuous and uncertainty-consistent positioning on inland waterway. The experimental data are released at: https://doi.org/10.5281/zenodo.20541733.",
-    "keywords": [
-      "gnss",
-      "rtk",
-      "ins",
-      "augmentation",
-      "integration"
-    ],
-    "tags": [
-      "RTK"
-    ]
-  },
-  {
     "title": "Participatory Sensing for Localization of a GNSS Jammer",
     "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
     "year": "2022",
@@ -258,6 +168,24 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
+    "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
+    "year": "2026",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2606.06358v1",
+    "abstract": "RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effects depend on the local environment and sensor configuration, nominal receiver specifications are insufficient, and deployment-specific characterization is required. This paper presents a benchmarking study of an AsteRx-i3 D Pro+ GNSS/INS receiver installed within the mobile Sensor Box developed at KU Leuven. The study combines a real-world bridge-passage case study, static benchmarking, and closed-loop path-following experiments. The static benchmarking evaluates four receiver configurations: standalone GNSS, standalone GNSS with INS integration, RTK-augmented GNSS, and RTK-augmented GNSS with INS integration. The closed-loop experiments use INS-integrated GNSS as the navigation input and compare path-following operational performance with and without RTK augmentation. Results show that correction loss during bridge passage causes reduced positioning accuracy, increased positioning uncertainty and recovery-induced state jumps exceeding 1 m. Static benchmarking and closed-loop experiments confirm that RTK augmentation substantially improves positioning precision and uncertainty consistency, while INS integration supports short-term continuity during RTK unavailability but may introduce drift, bias, or transient uncertainty variations. By characterizing the deployment-specific receiver behavior with RTK augmentation and INS integration, this study motivates higher-level state estimation as a necessary next step toward spatially continuous and uncertainty-consistent positioning on inland waterway. The experimental data are released at: https://doi.org/10.5281/zenodo.20541733.",
+    "keywords": [
+      "gnss",
+      "rtk",
+      "ins",
+      "augmentation",
+      "integration"
+    ],
+    "tags": [
+      "RTK"
     ]
   },
   {
@@ -407,24 +335,6 @@
     ]
   },
   {
-    "title": "PARFAIT: GNSS-R coastal altimetry",
-    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
-    "year": "2003",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/physics/0311052v1",
-    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
-    "keywords": [
-      "coherent",
-      "gnss",
-      "altimetry",
-      "component",
-      "gps"
-    ],
-    "tags": [
-      "Ionosphere"
-    ]
-  },
-  {
     "title": "Efectos relativistas en los sistemas Galileo, GPS y GLONASS",
     "authors": "J. -F. Pascual-S\u00e1nchez",
     "year": "2004",
@@ -442,6 +352,24 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "PARFAIT: GNSS-R coastal altimetry",
+    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
+    "year": "2003",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0311052v1",
+    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
+    "keywords": [
+      "coherent",
+      "gnss",
+      "altimetry",
+      "component",
+      "gps"
+    ],
+    "tags": [
+      "Ionosphere"
     ]
   },
   {
@@ -747,6 +675,26 @@
     ]
   },
   {
+    "title": "Insights into Xona Pulsar LEO PNT: Constellation, Signals, and Receiver Design",
+    "authors": "J\u00e9r\u00f4me Lecl\u00e8re, Thyagaraja Marathe, Tyler G. R. Reid",
+    "year": "2025",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2509.19551v1",
+    "abstract": "The landscape of global navigation satellite systems (GNSS) is expanding with the emergence of low Earth orbit (LEO) constellations such as Pulsar, which are expected to play a key role in the future of positioning, navigation, and timing (PNT). LEO-based systems provide advantages including stronger signals for greater robustness, faster dynamics that aid convergence and multipath mitigation, and shorter time to first fix (TTFF) enabled by high data rates. These benefits, however, come with changes in signal behavior and constellation geometry that require careful consideration in receiver design. This paper investigates Pulsar properties using a GNSS simulator, analyzing parameters such as satellite pass duration, elevation, Doppler shift, Doppler rate, range, and number of satellites in view. Comparisons with GPS highlight the differences introduced by LEO operation. The analysis examines temporal evolution, statistical distributions, and maximum and minimum values. Beyond these statistical insights, the study explores interdependencies between parameters and differences across satellites, providing additional perspective. Evaluations are performed at multiple latitudes to ensure a worldwide perspective, and the impact of applying different elevation masks is discussed where relevant. Building on these findings, the paper assesses Pulsar's impact on receiver design from two standpoints: design considerations, addressing expanded Doppler ranges, higher Doppler rates, and unique constellation structure; and design optimizations, exploiting parameter analyses and interdependencies (e.g., Doppler rate vs Doppler) to refine acquisition strategies and applying prediction and prioritization techniques to avoid unnecessary computations. Together, these optimizations can reduce acquisition time and lower receiver power consumption.",
+    "keywords": [
+      "doppler",
+      "design",
+      "leo",
+      "pulsar",
+      "receiver"
+    ],
+    "tags": [
+      "Orbit",
+      "Ionosphere",
+      "LEO"
+    ]
+  },
+  {
     "title": "The optical imager Galileo (OIG)",
     "authors": "Bortoletto F., Benetti S., Bonanno G., Bonoli C., Cosentino R., D'Alessandro M., Fantinel D., Ghedina A., Giro E., Magazzu A., Pernechele C., Vuerli C",
     "year": "2023",
@@ -784,26 +732,6 @@
     ]
   },
   {
-    "title": "Insights into Xona Pulsar LEO PNT: Constellation, Signals, and Receiver Design",
-    "authors": "J\u00e9r\u00f4me Lecl\u00e8re, Thyagaraja Marathe, Tyler G. R. Reid",
-    "year": "2025",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2509.19551v1",
-    "abstract": "The landscape of global navigation satellite systems (GNSS) is expanding with the emergence of low Earth orbit (LEO) constellations such as Pulsar, which are expected to play a key role in the future of positioning, navigation, and timing (PNT). LEO-based systems provide advantages including stronger signals for greater robustness, faster dynamics that aid convergence and multipath mitigation, and shorter time to first fix (TTFF) enabled by high data rates. These benefits, however, come with changes in signal behavior and constellation geometry that require careful consideration in receiver design. This paper investigates Pulsar properties using a GNSS simulator, analyzing parameters such as satellite pass duration, elevation, Doppler shift, Doppler rate, range, and number of satellites in view. Comparisons with GPS highlight the differences introduced by LEO operation. The analysis examines temporal evolution, statistical distributions, and maximum and minimum values. Beyond these statistical insights, the study explores interdependencies between parameters and differences across satellites, providing additional perspective. Evaluations are performed at multiple latitudes to ensure a worldwide perspective, and the impact of applying different elevation masks is discussed where relevant. Building on these findings, the paper assesses Pulsar's impact on receiver design from two standpoints: design considerations, addressing expanded Doppler ranges, higher Doppler rates, and unique constellation structure; and design optimizations, exploiting parameter analyses and interdependencies (e.g., Doppler rate vs Doppler) to refine acquisition strategies and applying prediction and prioritization techniques to avoid unnecessary computations. Together, these optimizations can reduce acquisition time and lower receiver power consumption.",
-    "keywords": [
-      "doppler",
-      "design",
-      "leo",
-      "pulsar",
-      "receiver"
-    ],
-    "tags": [
-      "Orbit",
-      "Ionosphere",
-      "LEO"
-    ]
-  },
-  {
     "title": "The Galileo satellite constellation and modifications to the inverse-square law for Gravitation",
     "authors": "J. P\u00e1ramos, O. Bertolami",
     "year": "2009",
@@ -816,6 +744,25 @@
       "satellite",
       "available",
       "conclusions"
+    ],
+    "tags": [
+      "LEO",
+      "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Galileo satellite constellation and extensions to General Relativity",
+    "authors": "J. Paramos, O. Bertolami",
+    "year": "2007",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/0710.3880v1",
+    "abstract": "We consider the impact of some known extensions of General Relativity in observables that will be available with the Galileo positioning systems, and draw conclusions as to the possibility of measuring them. We specifically address the effects of the presence of a cosmological constant, a Yukawa-like addition to the Newtonian potential, and the existence of an extra, constant acceleration. We also consider the phenomenological impact of a broad class of metric theories, which can be classified through the parameterized Post-Newtonian formalism.",
+    "keywords": [
+      "consider",
+      "constant",
+      "extensions",
+      "galileo",
+      "general"
     ],
     "tags": [
       "LEO",
@@ -839,25 +786,6 @@
     "tags": [
       "Orbit",
       "Ionosphere",
-      "LEO",
-      "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "Galileo satellite constellation and extensions to General Relativity",
-    "authors": "J. Paramos, O. Bertolami",
-    "year": "2007",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/0710.3880v1",
-    "abstract": "We consider the impact of some known extensions of General Relativity in observables that will be available with the Galileo positioning systems, and draw conclusions as to the possibility of measuring them. We specifically address the effects of the presence of a cosmological constant, a Yukawa-like addition to the Newtonian potential, and the existence of an extra, constant acceleration. We also consider the phenomenological impact of a broad class of metric theories, which can be classified through the parameterized Post-Newtonian formalism.",
-    "keywords": [
-      "consider",
-      "constant",
-      "extensions",
-      "galileo",
-      "general"
-    ],
-    "tags": [
       "LEO",
       "Multi-GNSS"
     ]

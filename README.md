@@ -8,15 +8,6 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
-### Physical constraints for zenith wet delay estimation via inequality constrained least squares in real-time PPP
-- He, Brack, Hobiger, Takamatsu, Wickert (2026)
-- *Journal of Geodesy*
-- **Keywords:** zwd, ppp, conditions, processing, component
-- **Abstract:** Abstract
-                  
-                    In current conventional precise point positioning (PPP) processing strategies, the tropospheric zenith wet delay (ZWD) is usually dynamically estimated as a stochastic parameter. During the convergence period, ZWD estimates can appear to be negative or...
-- [Link](https://doi.org/10.1007/s00190-026-02075-4)
-
 ### An undifferenced and uncombined phase-only PPP model for time transfer
 - Jiang, Hou, Sun, Wang, Zhang (2026)
 - *GPS Solutions*
@@ -38,28 +29,6 @@ Automatically updated GNSS papers.
 - **Keywords:** architecture, area, corrections, driven, heterogeneous
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02124-7)
-
-### An external-aid-free GNSS signal classification and stochastic model optimization method for urban multipath environments
-- Shu, Li, Zhang, Wang, Li, Huang (2026)
-- *GPS Solutions*
-- **Keywords:** aid, classification, environments, external, free
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02108-7)
-
-### Global ionospheric TEC prediction for extreme space weather: a spatiotemporal dual-stream deep learning model coupled with cross-attention mechanisms
-- Li, Yang, Pan, Zhao, Li, Zhang (2026)
-- *GPS Solutions*
-- **Keywords:** attention, coupled, cross, deep, dual
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02114-9)
-
-### Implementation and performance analysis of a Chi-Square Test based GNSS signal anomaly detection
-- Bhuiyan, Liaquat, Islam, Pääkkönen, Saajasto, Kaasalainen (2026)
-- *GPS Solutions*
-- **Keywords:** gnss, detection, anomaly, datasets, signal
-- **Abstract:** Abstract
-                  Global Navigation Satellite System (GNSS) signals are increasingly affected by man-made intentional interferences, such as jamming and spoofing, underscoring the need for reliable and extensively evaluated interference detection techniques in protected GNSS frequency bands...
-- [Link](https://doi.org/10.1007/s10291-026-02102-z)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -89,13 +58,6 @@ Automatically updated GNSS papers.
 - **Abstract:** At least ten emerging providers are developing satellite navigation systems for low Earth orbit (LEO). Compatibility with existing GNSS in L-band is critical to their successful deployment and for the larger ecosystem. Xona is deploying Pulsar, a near 260-satellite LEO constellation offering dual L-...
 - [Link](https://arxiv.org/abs/2509.16183v3)
 
-### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
-- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
-- *arXiv*
-- **Keywords:** gnss, rtk, ins, augmentation, integration
-- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
-- [Link](https://arxiv.org/abs/2606.06358v1)
-
 ### Participatory Sensing for Localization of a GNSS Jammer
 - Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
 - *arXiv*
@@ -109,6 +71,13 @@ Automatically updated GNSS papers.
 - **Keywords:** navigation, estimation, gnss, level, protection
 - **Abstract:** In autonomous applications for mobility and transport, a high-rate and highly accurate vehicle-state estimation is achieved by fusing measurements of global navigation satellite systems (GNSS) and inertial sensors. The state estimation and its protection-level generation often suffer from satellite-...
 - [Link](https://arxiv.org/abs/2103.10696v3)
+
+### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
+- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
+- *arXiv*
+- **Keywords:** gnss, rtk, ins, augmentation, integration
+- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
+- [Link](https://arxiv.org/abs/2606.06358v1)
 
 ### 3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons
 - Xikun Liu, Weisong Wen, Feng Huang, Han Gao, Yongliang Wang, Li-Ta Hsu (2022)
@@ -166,19 +135,19 @@ Automatically updated GNSS papers.
 - **Abstract:** We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10...
 - [Link](https://arxiv.org/abs/physics/0310092v1)
 
-### PARFAIT: GNSS-R coastal altimetry
-- M. Caparrini, L. Ruffini, G. Ruffini (2003)
-- *arXiv*
-- **Keywords:** coherent, gnss, altimetry, component, gps
-- **Abstract:** GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coheren...
-- [Link](https://arxiv.org/abs/physics/0311052v1)
-
 ### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
 - J. -F. Pascual-Sánchez (2004)
 - *arXiv*
 - **Keywords:** gps, galileo, glonass, project, alternative
 - **Abstract:** Nowadays, the Global Navigation Satellite Systems (GNSS), working like global positioning systems, are the GPS (NAVSTAR) and the GLONASS, which only are operative when several relativistic effects are corrected. In the next years the Galileo system will be constructed, copying the GPS System if ther...
 - [Link](https://arxiv.org/abs/gr-qc/0405100v1)
+
+### PARFAIT: GNSS-R coastal altimetry
+- M. Caparrini, L. Ruffini, G. Ruffini (2003)
+- *arXiv*
+- **Keywords:** coherent, gnss, altimetry, component, gps
+- **Abstract:** GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coheren...
+- [Link](https://arxiv.org/abs/physics/0311052v1)
 
 ### Decoding PPP Corrections from BDS B2b Signals Using a Software-defined Receiver: an Initial Performance Evaluation
 - Xiangchen Lu, Liang Chen, Nan Shen, Lei Wang, Zhenhang Jiao, Ruizhi Chen (2020)
@@ -221,4 +190,32 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, image, images, models, 3d
 - **Abstract:** We show that the GPS tags contained in photo metadata provide a useful control signal for image generation. We train GPS-to-image models and use them for tasks that require a fine-grained understanding of how images vary within a city. In particular, we train a diffusion model to generate images con...
 - [Link](https://arxiv.org/abs/2501.12390v2)
+
+### ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots
+- Cagri Kilic, Shounak Das, Eduardo Gutierrez, Ryan Watson, Jason Gross (2021)
+- *arXiv*
+- **Keywords:** factor, gnss, graph, navigation, inertial
+- **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
+- [Link](https://arxiv.org/abs/2112.07176v1)
+
+### GPS-IDS: An Anomaly-based GPS Spoofing Attack Detection Framework for Autonomous Vehicles
+- Murad Mehrab Abrar, Amal Youssef, Raian Islam, Shalaka Satam, Banafsheh Saber Latibari, Salim Hariri, Sicong Shao, Soheil Salehi, Pratik Satam (2024)
+- *arXiv*
+- **Keywords:** gps, avs, framework, model, attacks
+- **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
+- [Link](https://arxiv.org/abs/2405.08359v2)
+
+### Soil Moisture Monitorization Using GNSS Reflected Signals
+- Alejandro Egido, Giulio Ruffini, Marco Caparrini, Cristina Martin, Esteve Farres, Xavier Banque (2008)
+- *arXiv*
+- **Keywords:** soil, moisture, signals, gnss, systems
+- **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
+- [Link](https://arxiv.org/abs/0805.1881v2)
+
+### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
+- Junming Wang, Yi Shi (2023)
+- *arXiv*
+- **Keywords:** monitoring, gnss, data, rtk, based
+- **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
+- [Link](https://arxiv.org/abs/2301.05977v2)
 
