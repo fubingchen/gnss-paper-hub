@@ -8,6 +8,13 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Robust and enhanced precise baseline determination using spaceborne GNSS, accelerometer and intersatellite ranging measurements
+- Shao, Jiang, Wei, Yi, Gu (2026)
+- *GPS Solutions*
+- **Keywords:** accelerometer, baseline, determination, enhanced, gnss
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02120-x)
+
 ### An undifferenced and uncombined phase-only PPP model for time transfer
 - Jiang, Hou, Sun, Wang, Zhang (2026)
 - *GPS Solutions*
@@ -58,6 +65,13 @@ Automatically updated GNSS papers.
 - **Abstract:** At least ten emerging providers are developing satellite navigation systems for low Earth orbit (LEO). Compatibility with existing GNSS in L-band is critical to their successful deployment and for the larger ecosystem. Xona is deploying Pulsar, a near 260-satellite LEO constellation offering dual L-...
 - [Link](https://arxiv.org/abs/2509.16183v3)
 
+### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
+- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
+- *arXiv*
+- **Keywords:** gnss, rtk, ins, augmentation, integration
+- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
+- [Link](https://arxiv.org/abs/2606.06358v1)
+
 ### Participatory Sensing for Localization of a GNSS Jammer
 - Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
 - *arXiv*
@@ -71,13 +85,6 @@ Automatically updated GNSS papers.
 - **Keywords:** navigation, estimation, gnss, level, protection
 - **Abstract:** In autonomous applications for mobility and transport, a high-rate and highly accurate vehicle-state estimation is achieved by fusing measurements of global navigation satellite systems (GNSS) and inertial sensors. The state estimation and its protection-level generation often suffer from satellite-...
 - [Link](https://arxiv.org/abs/2103.10696v3)
-
-### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
-- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
-- *arXiv*
-- **Keywords:** gnss, rtk, ins, augmentation, integration
-- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
-- [Link](https://arxiv.org/abs/2606.06358v1)
 
 ### 3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons
 - Xikun Liu, Weisong Wen, Feng Huang, Han Gao, Yongliang Wang, Li-Ta Hsu (2022)
@@ -211,11 +218,4 @@ Automatically updated GNSS papers.
 - **Keywords:** soil, moisture, signals, gnss, systems
 - **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
 - [Link](https://arxiv.org/abs/0805.1881v2)
-
-### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
-- Junming Wang, Yi Shi (2023)
-- *arXiv*
-- **Keywords:** monitoring, gnss, data, rtk, based
-- **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
-- [Link](https://arxiv.org/abs/2301.05977v2)
 
