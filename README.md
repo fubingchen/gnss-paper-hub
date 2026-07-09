@@ -8,6 +8,13 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### A spatiotemporal framework for GNSS-based rainfall nowcasting with FluxFormer and attention-based graph neural networks
+- Han, Wang, Wu, Wang, Awange, Zhang, Chan (2026)
+- *GPS Solutions*
+- **Keywords:** based, attention, fluxformer, framework, gnss
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02121-w)
+
 ### Robust and enhanced precise baseline determination using spaceborne GNSS, accelerometer and intersatellite ranging measurements
 - Shao, Jiang, Wei, Yi, Gu (2026)
 - *GPS Solutions*
@@ -65,13 +72,6 @@ Automatically updated GNSS papers.
 - **Abstract:** At least ten emerging providers are developing satellite navigation systems for low Earth orbit (LEO). Compatibility with existing GNSS in L-band is critical to their successful deployment and for the larger ecosystem. Xona is deploying Pulsar, a near 260-satellite LEO constellation offering dual L-...
 - [Link](https://arxiv.org/abs/2509.16183v3)
 
-### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
-- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
-- *arXiv*
-- **Keywords:** gnss, rtk, ins, augmentation, integration
-- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
-- [Link](https://arxiv.org/abs/2606.06358v1)
-
 ### Participatory Sensing for Localization of a GNSS Jammer
 - Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
 - *arXiv*
@@ -85,6 +85,13 @@ Automatically updated GNSS papers.
 - **Keywords:** navigation, estimation, gnss, level, protection
 - **Abstract:** In autonomous applications for mobility and transport, a high-rate and highly accurate vehicle-state estimation is achieved by fusing measurements of global navigation satellite systems (GNSS) and inertial sensors. The state estimation and its protection-level generation often suffer from satellite-...
 - [Link](https://arxiv.org/abs/2103.10696v3)
+
+### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
+- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
+- *arXiv*
+- **Keywords:** gnss, rtk, ins, augmentation, integration
+- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
+- [Link](https://arxiv.org/abs/2606.06358v1)
 
 ### 3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons
 - Xikun Liu, Weisong Wen, Feng Huang, Han Gao, Yongliang Wang, Li-Ta Hsu (2022)
@@ -211,11 +218,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, avs, framework, model, attacks
 - **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
 - [Link](https://arxiv.org/abs/2405.08359v2)
-
-### Soil Moisture Monitorization Using GNSS Reflected Signals
-- Alejandro Egido, Giulio Ruffini, Marco Caparrini, Cristina Martin, Esteve Farres, Xavier Banque (2008)
-- *arXiv*
-- **Keywords:** soil, moisture, signals, gnss, systems
-- **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
-- [Link](https://arxiv.org/abs/0805.1881v2)
 
