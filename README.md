@@ -8,6 +8,34 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### TurboUNet: secure code estimation for non-cooperative GNSS spoofing
+- Song, Lu, Sun, Xiao (2026)
+- *GPS Solutions*
+- **Keywords:** code, cooperative, estimation, gnss, non
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02118-5)
+
+### Regionally-derived orbit corrections in PPP-RTK: methodology and performance
+- Ke, Khodabandeh, Zhang (2026)
+- *GPS Solutions*
+- **Keywords:** corrections, derived, methodology, orbit, performance
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02116-7)
+
+### Analysis of the performance of the Galileo high accuracy service (HAS) using low-cost GNSS receivers for real-time monitoring of dynamic deformations
+- Bezcioglu, Bozdogan, Bahadur, Psimoulis, Xue, Dindar, Ozturk, Yigit (2026)
+- *GPS Solutions*
+- **Keywords:** accuracy, analysis, cost, deformations, dynamic
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02127-4)
+
+### Detection and mitigation of GNSS time synchronization attacks based on dual CNN-LSTM neural networks
+- Gong, Kong, Yang, Peng, Ma, Yu (2026)
+- *GPS Solutions*
+- **Keywords:** attacks, based, cnn, detection, dual
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02122-9)
+
 ### A spatiotemporal framework for GNSS-based rainfall nowcasting with FluxFormer and attention-based graph neural networks
 - Han, Wang, Wu, Wang, Awange, Zhang, Chan (2026)
 - *GPS Solutions*
@@ -36,13 +64,6 @@ Automatically updated GNSS papers.
 - **Abstract:** Abstract
                   This study presents a simulation-based analysis to evaluate the impact of satellite clock stability, particularly that of emerging optical clocks, on global navigation satellite systems (GNSS) positioning performance. A controlled single-station precise point positioning-r...
 - [Link](https://doi.org/10.1007/s10291-026-02123-8)
-
-### Trop_XS: an intelligent architecture for real-time wide-area ZTD corrections modeling driven by heterogeneous observations
-- Gao, Li, Kang, Chen, Dai, Wu (2026)
-- *GPS Solutions*
-- **Keywords:** architecture, area, corrections, driven, heterogeneous
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02124-7)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -197,25 +218,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gnss, data, robust, navigation, graph
 - **Abstract:** Robust navigation in urban environments has received a considerable amount of both academic and commercial interest over recent years. This is primarily due to large commercial organizations such as Google and Uber stepping into the autonomous navigation market. Most of this research has shied away ...
 - [Link](https://arxiv.org/abs/1806.08899v1)
-
-### GPS as a Control Signal for Image Generation
-- Chao Feng, Ziyang Chen, Aleksander Holynski, Alexei A. Efros, Andrew Owens (2025)
-- *arXiv*
-- **Keywords:** gps, image, images, models, 3d
-- **Abstract:** We show that the GPS tags contained in photo metadata provide a useful control signal for image generation. We train GPS-to-image models and use them for tasks that require a fine-grained understanding of how images vary within a city. In particular, we train a diffusion model to generate images con...
-- [Link](https://arxiv.org/abs/2501.12390v2)
-
-### ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots
-- Cagri Kilic, Shounak Das, Eduardo Gutierrez, Ryan Watson, Jason Gross (2021)
-- *arXiv*
-- **Keywords:** factor, gnss, graph, navigation, inertial
-- **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
-- [Link](https://arxiv.org/abs/2112.07176v1)
-
-### GPS-IDS: An Anomaly-based GPS Spoofing Attack Detection Framework for Autonomous Vehicles
-- Murad Mehrab Abrar, Amal Youssef, Raian Islam, Shalaka Satam, Banafsheh Saber Latibari, Salim Hariri, Sicong Shao, Soheil Salehi, Pratik Satam (2024)
-- *arXiv*
-- **Keywords:** gps, avs, framework, model, attacks
-- **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
-- [Link](https://arxiv.org/abs/2405.08359v2)
 

@@ -1,5 +1,80 @@
 [
   {
+    "title": "TurboUNet: secure code estimation for non-cooperative GNSS spoofing",
+    "authors": "Song, Lu, Sun, Xiao",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02118-5",
+    "abstract": "",
+    "keywords": [
+      "code",
+      "cooperative",
+      "estimation",
+      "gnss",
+      "non"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "Regionally-derived orbit corrections in PPP-RTK: methodology and performance",
+    "authors": "Ke, Khodabandeh, Zhang",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02116-7",
+    "abstract": "",
+    "keywords": [
+      "corrections",
+      "derived",
+      "methodology",
+      "orbit",
+      "performance"
+    ],
+    "tags": [
+      "PPP",
+      "RTK",
+      "Orbit"
+    ]
+  },
+  {
+    "title": "Analysis of the performance of the Galileo high accuracy service (HAS) using low-cost GNSS receivers for real-time monitoring of dynamic deformations",
+    "authors": "Bezcioglu, Bozdogan, Bahadur, Psimoulis, Xue, Dindar, Ozturk, Yigit",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02127-4",
+    "abstract": "",
+    "keywords": [
+      "accuracy",
+      "analysis",
+      "cost",
+      "deformations",
+      "dynamic"
+    ],
+    "tags": [
+      "LEO",
+      "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Detection and mitigation of GNSS time synchronization attacks based on dual CNN-LSTM neural networks",
+    "authors": "Gong, Kong, Yang, Peng, Ma, Yu",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02122-9",
+    "abstract": "",
+    "keywords": [
+      "attacks",
+      "based",
+      "cnn",
+      "detection",
+      "dual"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "A spatiotemporal framework for GNSS-based rainfall nowcasting with FluxFormer and attention-based graph neural networks",
     "authors": "Han, Wang, Wu, Wang, Awange, Zhang, Chan",
     "year": 2026,
@@ -72,25 +147,6 @@
       "RTK",
       "Orbit",
       "Clock"
-    ]
-  },
-  {
-    "title": "Trop_XS: an intelligent architecture for real-time wide-area ZTD corrections modeling driven by heterogeneous observations",
-    "authors": "Gao, Li, Kang, Chen, Dai, Wu",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02124-7",
-    "abstract": "",
-    "keywords": [
-      "architecture",
-      "area",
-      "corrections",
-      "driven",
-      "heterogeneous"
-    ],
-    "tags": [
-      "Ionosphere",
-      "Troposphere"
     ]
   },
   {
