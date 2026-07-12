@@ -129,27 +129,6 @@
     ]
   },
   {
-    "title": "An investigation into the impact of optical clock stability on PPP-RTK",
-    "authors": "Boldbaatar, Li, Zaminpardaz, Holden, Grant, Mitchell, Choy",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02123-8",
-    "abstract": "Abstract\n                  This study presents a simulation-based analysis to evaluate the impact of satellite clock stability, particularly that of emerging optical clocks, on global navigation satellite systems (GNSS) positioning performance. A controlled single-station precise point positioning-real time kinematic (PPP-RTK) framework is employed, with the provider and user receivers located over a short baseline to minimise spatially correlated errors, such as atmospheric delays and satellite orbit mismodelling, thereby isolating clock-induced effects. Seven representative satellite clocks are evaluated, including four atomic clocks currently onboard GNSS satellites and three prospective optical clocks: the compact rubidium optical clock (CROC), iodine modulation transfer spectroscopy (IMTS), and strontium lattice (SRL) clocks. Each clock is modelled using its respective Allan deviation (ADEV) profile under identical measurement conditions, ensuring that performance differences reflect only clock characteristics. Intentional delays in the delivery of state space representation (SSR) corrections are introduced to simulate realistic operational disruptions, with holdover time defined as the maximum period during which carrier-phase ambiguity resolution success rates remain above 99% without updated corrections. Results indicate that emerging optical clocks, owing to their superior frequency stability, can substantially extend holdover time relative to current satellite atomic clocks. The robustness of this advantage is further evaluated through a sensitivity analysis, in which the ADEV-derived satellite clock process noise is systematically scaled to assess performance under less optimistic stability assumptions. These findings underscore the critical role of clock stability in achieving robust PPP-RTK performance under interrupted communication conditions and highlight the transformative potential of optical clocks for future GNSS applications.",
-    "keywords": [
-      "clock",
-      "clocks",
-      "optical",
-      "satellite",
-      "stability"
-    ],
-    "tags": [
-      "PPP",
-      "RTK",
-      "Orbit",
-      "Clock"
-    ]
-  },
-  {
     "title": "Standalone and RTK GNSS on 30,000 km of North American Highways",
     "authors": "Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia",
     "year": "2019",

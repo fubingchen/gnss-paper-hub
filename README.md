@@ -57,14 +57,6 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02125-6)
 
-### An investigation into the impact of optical clock stability on PPP-RTK
-- Boldbaatar, Li, Zaminpardaz, Holden, Grant, Mitchell, Choy (2026)
-- *GPS Solutions*
-- **Keywords:** clock, clocks, optical, satellite, stability
-- **Abstract:** Abstract
-                  This study presents a simulation-based analysis to evaluate the impact of satellite clock stability, particularly that of emerging optical clocks, on global navigation satellite systems (GNSS) positioning performance. A controlled single-station precise point positioning-r...
-- [Link](https://doi.org/10.1007/s10291-026-02123-8)
-
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
@@ -218,4 +210,11 @@ Automatically updated GNSS papers.
 - **Keywords:** gnss, data, robust, navigation, graph
 - **Abstract:** Robust navigation in urban environments has received a considerable amount of both academic and commercial interest over recent years. This is primarily due to large commercial organizations such as Google and Uber stepping into the autonomous navigation market. Most of this research has shied away ...
 - [Link](https://arxiv.org/abs/1806.08899v1)
+
+### GPS as a Control Signal for Image Generation
+- Chao Feng, Ziyang Chen, Aleksander Holynski, Alexei A. Efros, Andrew Owens (2025)
+- *arXiv*
+- **Keywords:** gps, image, images, models, 3d
+- **Abstract:** We show that the GPS tags contained in photo metadata provide a useful control signal for image generation. We train GPS-to-image models and use them for tasks that require a fine-grained understanding of how images vary within a city. In particular, we train a diffusion model to generate images con...
+- [Link](https://arxiv.org/abs/2501.12390v2)
 
