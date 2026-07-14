@@ -8,6 +8,20 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### DeepTCAR: deep learning enhanced three-carrier ambiguity resolution for BeiDou RTK in urban environments
+- Li, Liu, Zhang, Wang, Shi (2026)
+- *GPS Solutions*
+- **Keywords:** ambiguity, beidou, carrier, deep, deeptcar
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02128-3)
+
+### Traceable method for differential code bias estimation in PPP one-way timing
+- Zheng, Wang, Gong, Yang, Zhang, Xue, Yao, Wang, Shi (2026)
+- *GPS Solutions*
+- **Keywords:** bias, code, differential, estimation, method
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02126-5)
+
 ### TurboUNet: secure code estimation for non-cooperative GNSS spoofing
 - Song, Lu, Sun, Xiao (2026)
 - *GPS Solutions*
@@ -49,13 +63,6 @@ Automatically updated GNSS papers.
 - **Keywords:** accelerometer, baseline, determination, enhanced, gnss
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02120-x)
-
-### An undifferenced and uncombined phase-only PPP model for time transfer
-- Jiang, Hou, Sun, Wang, Zhang (2026)
-- *GPS Solutions*
-- **Keywords:** model, phase, ppp, time, transfer
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02125-6)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -162,19 +169,19 @@ Automatically updated GNSS papers.
 - **Abstract:** We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10...
 - [Link](https://arxiv.org/abs/physics/0310092v1)
 
-### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
-- J. -F. Pascual-Sánchez (2004)
-- *arXiv*
-- **Keywords:** gps, galileo, glonass, project, alternative
-- **Abstract:** Nowadays, the Global Navigation Satellite Systems (GNSS), working like global positioning systems, are the GPS (NAVSTAR) and the GLONASS, which only are operative when several relativistic effects are corrected. In the next years the Galileo system will be constructed, copying the GPS System if ther...
-- [Link](https://arxiv.org/abs/gr-qc/0405100v1)
-
 ### PARFAIT: GNSS-R coastal altimetry
 - M. Caparrini, L. Ruffini, G. Ruffini (2003)
 - *arXiv*
 - **Keywords:** coherent, gnss, altimetry, component, gps
 - **Abstract:** GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coheren...
 - [Link](https://arxiv.org/abs/physics/0311052v1)
+
+### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
+- J. -F. Pascual-Sánchez (2004)
+- *arXiv*
+- **Keywords:** gps, galileo, glonass, project, alternative
+- **Abstract:** Nowadays, the Global Navigation Satellite Systems (GNSS), working like global positioning systems, are the GPS (NAVSTAR) and the GLONASS, which only are operative when several relativistic effects are corrected. In the next years the Galileo system will be constructed, copying the GPS System if ther...
+- [Link](https://arxiv.org/abs/gr-qc/0405100v1)
 
 ### Decoding PPP Corrections from BDS B2b Signals Using a Software-defined Receiver: an Initial Performance Evaluation
 - Xiangchen Lu, Liang Chen, Nan Shen, Lei Wang, Zhenhang Jiao, Ruizhi Chen (2020)
@@ -210,11 +217,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gnss, data, robust, navigation, graph
 - **Abstract:** Robust navigation in urban environments has received a considerable amount of both academic and commercial interest over recent years. This is primarily due to large commercial organizations such as Google and Uber stepping into the autonomous navigation market. Most of this research has shied away ...
 - [Link](https://arxiv.org/abs/1806.08899v1)
-
-### GPS as a Control Signal for Image Generation
-- Chao Feng, Ziyang Chen, Aleksander Holynski, Alexei A. Efros, Andrew Owens (2025)
-- *arXiv*
-- **Keywords:** gps, image, images, models, 3d
-- **Abstract:** We show that the GPS tags contained in photo metadata provide a useful control signal for image generation. We train GPS-to-image models and use them for tasks that require a fine-grained understanding of how images vary within a city. In particular, we train a diffusion model to generate images con...
-- [Link](https://arxiv.org/abs/2501.12390v2)
 

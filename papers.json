@@ -1,5 +1,42 @@
 [
   {
+    "title": "DeepTCAR: deep learning enhanced three-carrier ambiguity resolution for BeiDou RTK in urban environments",
+    "authors": "Li, Liu, Zhang, Wang, Shi",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02128-3",
+    "abstract": "",
+    "keywords": [
+      "ambiguity",
+      "beidou",
+      "carrier",
+      "deep",
+      "deeptcar"
+    ],
+    "tags": [
+      "RTK",
+      "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Traceable method for differential code bias estimation in PPP one-way timing",
+    "authors": "Zheng, Wang, Gong, Yang, Zhang, Xue, Yao, Wang, Shi",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02126-5",
+    "abstract": "",
+    "keywords": [
+      "bias",
+      "code",
+      "differential",
+      "estimation",
+      "method"
+    ],
+    "tags": [
+      "PPP"
+    ]
+  },
+  {
     "title": "TurboUNet: secure code estimation for non-cooperative GNSS spoofing",
     "authors": "Song, Lu, Sun, Xiao",
     "year": 2026,
@@ -108,24 +145,6 @@
     ],
     "tags": [
       "Other"
-    ]
-  },
-  {
-    "title": "An undifferenced and uncombined phase-only PPP model for time transfer",
-    "authors": "Jiang, Hou, Sun, Wang, Zhang",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02125-6",
-    "abstract": "",
-    "keywords": [
-      "model",
-      "phase",
-      "ppp",
-      "time",
-      "transfer"
-    ],
-    "tags": [
-      "PPP"
     ]
   },
   {
@@ -406,6 +425,24 @@
     ]
   },
   {
+    "title": "PARFAIT: GNSS-R coastal altimetry",
+    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
+    "year": "2003",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0311052v1",
+    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
+    "keywords": [
+      "coherent",
+      "gnss",
+      "altimetry",
+      "component",
+      "gps"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "Efectos relativistas en los sistemas Galileo, GPS y GLONASS",
     "authors": "J. -F. Pascual-S\u00e1nchez",
     "year": "2004",
@@ -423,24 +460,6 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "PARFAIT: GNSS-R coastal altimetry",
-    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
-    "year": "2003",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/physics/0311052v1",
-    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
-    "keywords": [
-      "coherent",
-      "gnss",
-      "altimetry",
-      "component",
-      "gps"
-    ],
-    "tags": [
-      "Ionosphere"
     ]
   },
   {
@@ -822,6 +841,25 @@
     ]
   },
   {
+    "title": "Galileo satellite constellation and extensions to General Relativity",
+    "authors": "J. Paramos, O. Bertolami",
+    "year": "2007",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/0710.3880v1",
+    "abstract": "We consider the impact of some known extensions of General Relativity in observables that will be available with the Galileo positioning systems, and draw conclusions as to the possibility of measuring them. We specifically address the effects of the presence of a cosmological constant, a Yukawa-like addition to the Newtonian potential, and the existence of an extra, constant acceleration. We also consider the phenomenological impact of a broad class of metric theories, which can be classified through the parameterized Post-Newtonian formalism.",
+    "keywords": [
+      "consider",
+      "constant",
+      "extensions",
+      "galileo",
+      "general"
+    ],
+    "tags": [
+      "LEO",
+      "Multi-GNSS"
+    ]
+  },
+  {
     "title": "The Accuracy of Galileo's Observations and the Early Search for Stellar Parallax",
     "authors": "Christopher M. Graney",
     "year": "2006",
@@ -838,25 +876,6 @@
     "tags": [
       "Orbit",
       "Ionosphere",
-      "LEO",
-      "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "Galileo satellite constellation and extensions to General Relativity",
-    "authors": "J. Paramos, O. Bertolami",
-    "year": "2007",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/0710.3880v1",
-    "abstract": "We consider the impact of some known extensions of General Relativity in observables that will be available with the Galileo positioning systems, and draw conclusions as to the possibility of measuring them. We specifically address the effects of the presence of a cosmological constant, a Yukawa-like addition to the Newtonian potential, and the existence of an extra, constant acceleration. We also consider the phenomenological impact of a broad class of metric theories, which can be classified through the parameterized Post-Newtonian formalism.",
-    "keywords": [
-      "consider",
-      "constant",
-      "extensions",
-      "galileo",
-      "general"
-    ],
-    "tags": [
       "LEO",
       "Multi-GNSS"
     ]
