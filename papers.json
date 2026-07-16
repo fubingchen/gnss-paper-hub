@@ -130,24 +130,6 @@
     ]
   },
   {
-    "title": "A spatiotemporal framework for GNSS-based rainfall nowcasting with FluxFormer and attention-based graph neural networks",
-    "authors": "Han, Wang, Wu, Wang, Awange, Zhang, Chan",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02121-w",
-    "abstract": "",
-    "keywords": [
-      "based",
-      "attention",
-      "fluxformer",
-      "framework",
-      "gnss"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
     "title": "Standalone and RTK GNSS on 30,000 km of North American Highways",
     "authors": "Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia",
     "year": "2019",
