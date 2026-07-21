@@ -29,19 +29,12 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s00190-026-02078-1)
 
-### DeepTCAR: deep learning enhanced three-carrier ambiguity resolution for BeiDou RTK in urban environments
-- Li, Liu, Zhang, Wang, Shi (2026)
+### Geocenter motion estimation from multi-GNSS: current status and benefits of BDS-3 Inter-satellite links
+- Yang, Guo, Mi, Liu, Wang, Xu, Zhao, Chen (2026)
 - *GPS Solutions*
-- **Keywords:** ambiguity, beidou, carrier, deep, deeptcar
+- **Keywords:** bds, benefits, current, estimation, geocenter
 - **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02128-3)
-
-### Traceable method for differential code bias estimation in PPP one-way timing
-- Zheng, Wang, Gong, Yang, Zhang, Xue, Yao, Wang, Shi (2026)
-- *GPS Solutions*
-- **Keywords:** bias, code, differential, estimation, method
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02126-5)
+- [Link](https://doi.org/10.1007/s10291-026-02117-6)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -217,4 +210,11 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, avs, framework, model, attacks
 - **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
 - [Link](https://arxiv.org/abs/2405.08359v2)
+
+### Soil Moisture Monitorization Using GNSS Reflected Signals
+- Alejandro Egido, Giulio Ruffini, Marco Caparrini, Cristina Martin, Esteve Farres, Xavier Banque (2008)
+- *arXiv*
+- **Keywords:** soil, moisture, signals, gnss, systems
+- **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
+- [Link](https://arxiv.org/abs/0805.1881v2)
 

@@ -54,40 +54,21 @@
     ]
   },
   {
-    "title": "DeepTCAR: deep learning enhanced three-carrier ambiguity resolution for BeiDou RTK in urban environments",
-    "authors": "Li, Liu, Zhang, Wang, Shi",
+    "title": "Geocenter motion estimation from multi-GNSS: current status and benefits of BDS-3 Inter-satellite links",
+    "authors": "Yang, Guo, Mi, Liu, Wang, Xu, Zhao, Chen",
     "year": 2026,
     "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02128-3",
+    "url": "https://doi.org/10.1007/s10291-026-02117-6",
     "abstract": "",
     "keywords": [
-      "ambiguity",
-      "beidou",
-      "carrier",
-      "deep",
-      "deeptcar"
-    ],
-    "tags": [
-      "RTK",
-      "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "Traceable method for differential code bias estimation in PPP one-way timing",
-    "authors": "Zheng, Wang, Gong, Yang, Zhang, Xue, Yao, Wang, Shi",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02126-5",
-    "abstract": "",
-    "keywords": [
-      "bias",
-      "code",
-      "differential",
+      "bds",
+      "benefits",
+      "current",
       "estimation",
-      "method"
+      "geocenter"
     ],
     "tags": [
-      "PPP"
+      "Multi-GNSS"
     ]
   },
   {
