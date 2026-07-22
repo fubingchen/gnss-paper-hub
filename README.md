@@ -22,13 +22,6 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s00190-026-02093-2)
 
-### A variable-dimension update of sequential Kalman filter for enhancing GNSS data processing efficiency
-- Zhong, Hou, Zhang (2026)
-- *Journal of Geodesy*
-- **Keywords:** data, dimension, efficiency, enhancing, filter
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s00190-026-02078-1)
-
 ### Geocenter motion estimation from multi-GNSS: current status and benefits of BDS-3 Inter-satellite links
 - Yang, Guo, Mi, Liu, Wang, Xu, Zhao, Chen (2026)
 - *GPS Solutions*
@@ -217,4 +210,11 @@ Automatically updated GNSS papers.
 - **Keywords:** soil, moisture, signals, gnss, systems
 - **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
 - [Link](https://arxiv.org/abs/0805.1881v2)
+
+### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
+- Junming Wang, Yi Shi (2023)
+- *arXiv*
+- **Keywords:** monitoring, gnss, data, rtk, based
+- **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
+- [Link](https://arxiv.org/abs/2301.05977v2)
 
