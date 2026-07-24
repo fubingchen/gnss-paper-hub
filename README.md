@@ -15,12 +15,12 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s00190-026-02072-7)
 
-### Multi-objective optimization of inter-satellite links assignment for GNSS based on constrained non-dominated sorting genetic algorithm
-- Gong, Chai, Cai, Zhang, Huang (2026)
-- *Journal of Geodesy*
-- **Keywords:** algorithm, assignment, based, constrained, dominated
+### PRX: a python RINEX pre-processing tool to facilitate raw GNSS observation processing
+- Thevenon, Bolting (2026)
+- *GPS Solutions*
+- **Keywords:** processing, facilitate, gnss, observation, pre
 - **Abstract:** ...
-- [Link](https://doi.org/10.1007/s00190-026-02093-2)
+- [Link](https://doi.org/10.1007/s10291-026-02129-2)
 
 ### Geocenter motion estimation from multi-GNSS: current status and benefits of BDS-3 Inter-satellite links
 - Yang, Guo, Mi, Liu, Wang, Xu, Zhao, Chen (2026)
@@ -141,19 +141,19 @@ Automatically updated GNSS papers.
 - **Abstract:** Nowadays, the Global Navigation Satellite Systems (GNSS), working like global positioning systems, are the GPS (NAVSTAR) and the GLONASS, which only are operative when several relativistic effects are corrected. In the next years the Galileo system will be constructed, copying the GPS System if ther...
 - [Link](https://arxiv.org/abs/gr-qc/0405100v1)
 
-### Decoding PPP Corrections from BDS B2b Signals Using a Software-defined Receiver: an Initial Performance Evaluation
-- Xiangchen Lu, Liang Chen, Nan Shen, Lei Wang, Zhenhang Jiao, Ruizhi Chen (2020)
-- *arXiv*
-- **Keywords:** ppp, bds, corrections, service, b2b
-- **Abstract:** With the rapid development of China's BeiDou Navigation Satellite System(BDS), the application of real-time precise point positioning (RTPPP) based on BDS has become an active research area in the field of Global Navigation Satellite System (GNSS). BDS has provided the service of broadcasting RTPPP ...
-- [Link](https://arxiv.org/abs/2011.13539v1)
-
 ### PARFAIT: GNSS-R coastal altimetry
 - M. Caparrini, L. Ruffini, G. Ruffini (2003)
 - *arXiv*
 - **Keywords:** coherent, gnss, altimetry, component, gps
 - **Abstract:** GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coheren...
 - [Link](https://arxiv.org/abs/physics/0311052v1)
+
+### Decoding PPP Corrections from BDS B2b Signals Using a Software-defined Receiver: an Initial Performance Evaluation
+- Xiangchen Lu, Liang Chen, Nan Shen, Lei Wang, Zhenhang Jiao, Ruizhi Chen (2020)
+- *arXiv*
+- **Keywords:** ppp, bds, corrections, service, b2b
+- **Abstract:** With the rapid development of China's BeiDou Navigation Satellite System(BDS), the application of real-time precise point positioning (RTPPP) based on BDS has become an active research area in the field of Global Navigation Satellite System (GNSS). BDS has provided the service of broadcasting RTPPP ...
+- [Link](https://arxiv.org/abs/2011.13539v1)
 
 ### DEMO: RTKiller -- manipulation of GNSS RTK rovers by reference base spoofing
 - Marco Spanghero, Panos Papadimitratos (2024)

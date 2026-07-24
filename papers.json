@@ -18,18 +18,18 @@
     ]
   },
   {
-    "title": "Multi-objective optimization of inter-satellite links assignment for GNSS based on constrained non-dominated sorting genetic algorithm",
-    "authors": "Gong, Chai, Cai, Zhang, Huang",
+    "title": "PRX: a python RINEX pre-processing tool to facilitate raw GNSS observation processing",
+    "authors": "Thevenon, Bolting",
     "year": 2026,
-    "journal": "Journal of Geodesy",
-    "url": "https://doi.org/10.1007/s00190-026-02093-2",
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02129-2",
     "abstract": "",
     "keywords": [
-      "algorithm",
-      "assignment",
-      "based",
-      "constrained",
-      "dominated"
+      "processing",
+      "facilitate",
+      "gnss",
+      "observation",
+      "pre"
     ],
     "tags": [
       "Other"
@@ -351,6 +351,24 @@
     ]
   },
   {
+    "title": "PARFAIT: GNSS-R coastal altimetry",
+    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
+    "year": "2003",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0311052v1",
+    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
+    "keywords": [
+      "coherent",
+      "gnss",
+      "altimetry",
+      "component",
+      "gps"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "Decoding PPP Corrections from BDS B2b Signals Using a Software-defined Receiver: an Initial Performance Evaluation",
     "authors": "Xiangchen Lu, Liang Chen, Nan Shen, Lei Wang, Zhenhang Jiao, Ruizhi Chen",
     "year": "2020",
@@ -371,24 +389,6 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "PARFAIT: GNSS-R coastal altimetry",
-    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
-    "year": "2003",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/physics/0311052v1",
-    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
-    "keywords": [
-      "coherent",
-      "gnss",
-      "altimetry",
-      "component",
-      "gps"
-    ],
-    "tags": [
-      "Ionosphere"
     ]
   },
   {
