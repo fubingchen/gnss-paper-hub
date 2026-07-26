@@ -8,13 +8,6 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
-### Real-time estimation of Earth Rotation Parameters from GPS based on filter method
-- Du, Lou, Dai, Peng, Shi (2026)
-- *Journal of Geodesy*
-- **Keywords:** based, earth, estimation, filter, gps
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s00190-026-02072-7)
-
 ### PRX: a python RINEX pre-processing tool to facilitate raw GNSS observation processing
 - Thevenon, Bolting (2026)
 - *GPS Solutions*
@@ -57,13 +50,6 @@ Automatically updated GNSS papers.
 - **Abstract:** At least ten emerging providers are developing satellite navigation systems for low Earth orbit (LEO). Compatibility with existing GNSS in L-band is critical to their successful deployment and for the larger ecosystem. Xona is deploying Pulsar, a near 260-satellite LEO constellation offering dual L-...
 - [Link](https://arxiv.org/abs/2509.16183v3)
 
-### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
-- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
-- *arXiv*
-- **Keywords:** gnss, rtk, ins, augmentation, integration
-- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
-- [Link](https://arxiv.org/abs/2606.06358v1)
-
 ### Robust state and protection-level estimation within tightly coupled GNSS/INS navigation system
 - Shuchen Liu, Kaizheng Wang, Dirk Abel (2021)
 - *arXiv*
@@ -77,6 +63,13 @@ Automatically updated GNSS papers.
 - **Keywords:** sensing, gnss, jamming, localization, participatory
 - **Abstract:** GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of parti...
 - [Link](https://arxiv.org/abs/2204.13974v1)
+
+### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
+- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
+- *arXiv*
+- **Keywords:** gnss, rtk, ins, augmentation, integration
+- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
+- [Link](https://arxiv.org/abs/2606.06358v1)
 
 ### 3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons
 - Xikun Liu, Weisong Wen, Feng Huang, Han Gao, Yongliang Wang, Li-Ta Hsu (2022)
@@ -217,4 +210,11 @@ Automatically updated GNSS papers.
 - **Keywords:** monitoring, gnss, data, rtk, based
 - **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
 - [Link](https://arxiv.org/abs/2301.05977v2)
+
+### Monitoring of the offset between UTC and its prediction broadcast by the GNSS
+- Pascale Defraigne, Elisa Pinat, Gérard Petit, Frédéric Meynadier (2025)
+- *arXiv*
+- **Keywords:** ns, utc, butc_gnss, gnss, offset
+- **Abstract:** We present a new approach to report in the Section 4 of BIPM Circular T daily values of the offset between UTC and the predictions of UTC broadcast by the GNSS, this quantity we name bUTC_GNSS. In this approach, the determination of UTC - bUTC_GNSS is based on data collected by several multi-GNSS st...
+- [Link](https://arxiv.org/abs/2503.02914v1)
 
