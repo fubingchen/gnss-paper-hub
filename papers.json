@@ -56,24 +56,6 @@
     ]
   },
   {
-    "title": "PRX: a python RINEX pre-processing tool to facilitate raw GNSS observation processing",
-    "authors": "Thevenon, Bolting",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02129-2",
-    "abstract": "",
-    "keywords": [
-      "processing",
-      "facilitate",
-      "gnss",
-      "observation",
-      "pre"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
     "title": "Standalone and RTK GNSS on 30,000 km of North American Highways",
     "authors": "Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia",
     "year": "2019",
