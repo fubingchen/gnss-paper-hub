@@ -8,28 +8,6 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
-### Improving real-time PPP time transfer with the augmentation of predicted tropospheric products
-- Xie, Wang, Li, Chen, Liu, Wu, Mi, Yang (2026)
-- *GPS Solutions*
-- **Keywords:** time, ppp, predicted, real, zwd
-- **Abstract:** Abstract
-                  Real-time precise point positioning (PPP) time transfer is a crucial technique for the time and frequency field. However, its performance remains limited by the relatively long convergence time resulting from unstable parameter estimation in the initial stage. In this cont...
-- [Link](https://doi.org/10.1007/s10291-026-02131-8)
-
-### A robust ambiguity resolution framework integrating PAR and BIE with modified CRAIM strategies
-- Li, Chen, Zhang, Miao, Li, Jiang (2026)
-- *GPS Solutions*
-- **Keywords:** ambiguity, bie, craim, framework, integrating
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02130-9)
-
-### Improved methods for precise orbit determination of LEO satellites under geomagnetic storm conditions
-- Fan, Li, Xu, Wu, Yang, Li (2026)
-- *GPS Solutions*
-- **Keywords:** conditions, determination, geomagnetic, improved, leo
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02133-6)
-
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
@@ -218,4 +196,25 @@ Automatically updated GNSS papers.
 - **Keywords:** monitoring, gnss, data, rtk, based
 - **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
 - [Link](https://arxiv.org/abs/2301.05977v2)
+
+### Monitoring of the offset between UTC and its prediction broadcast by the GNSS
+- Pascale Defraigne, Elisa Pinat, Gérard Petit, Frédéric Meynadier (2025)
+- *arXiv*
+- **Keywords:** ns, utc, butc_gnss, gnss, offset
+- **Abstract:** We present a new approach to report in the Section 4 of BIPM Circular T daily values of the offset between UTC and the predictions of UTC broadcast by the GNSS, this quantity we name bUTC_GNSS. In this approach, the determination of UTC - bUTC_GNSS is based on data collected by several multi-GNSS st...
+- [Link](https://arxiv.org/abs/2503.02914v1)
+
+### Complexity-Scalable Direct Geolocation and Cancellation of Terrestrial GNSS Jammers: Single-Satellite and Multi-Antenna Experiments in Low Earth Orbit
+- Giacomo Pojani, Javier Tegedor, Joaquim Fortuny-Guasch, Francesco Menzione, David Evans, Tim Oerther, Maximilian Henkel, Jonas Stene Lindbjor (2026)
+- *arXiv*
+- **Keywords:** gnss, geolocation, satellite, jammers, multi
+- **Abstract:** Monitoring the radio-frequency (RF) spectrum from space imposes demanding requirements to satellite platforms in terms of communication bandwidth and computational resources, which are necessary for the downlink, the storage, and the processing of high-throughput I/Q samples. This paper analyzes in ...
+- [Link](https://arxiv.org/abs/2607.02190v1)
+
+### Two stage GNSS outlier detection for factor graph optimization based GNSS-RTK/INS/odometer fusion
+- Baoshan Song, Penggao Yan, Xiao Xia, Yihan Zhong, Weisong Wen, Li-Ta Hsu (2025)
+- *arXiv*
+- **Keywords:** gnss, pseudo, range, stage, odometer
+- **Abstract:** Reliable GNSS positioning in complex environments remains a critical challenge due to non-line-of-sight (NLOS) propagation, multipath effects, and frequent signal blockages. These effects can easily introduce large outliers into the raw pseudo-range measurements, which significantly degrade the perf...
+- [Link](https://arxiv.org/abs/2510.00524v1)
 
