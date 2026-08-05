@@ -1,5 +1,41 @@
 [
   {
+    "title": "Characterizing the systematic bias of tropospheric refraction asymmetry in spaceborne and airborne grazing GNSS-R altimetry",
+    "authors": "Song, He, Asgarimehr, Wang, Wickert",
+    "year": 2026,
+    "journal": "Journal of Geodesy",
+    "url": "https://doi.org/10.1007/s00190-026-02099-w",
+    "abstract": "",
+    "keywords": [
+      "airborne",
+      "altimetry",
+      "asymmetry",
+      "bias",
+      "characterizing"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "TEC2Ne: a physics-informed deep learning framework for reconstructing ionospheric electron density profiles from global TEC maps",
+    "authors": "Li, Fang, Xiao, Duan, Lin, Huang, Ren, Wu, Zhou, Zheng, Shen, Cao",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02112-x",
+    "abstract": "",
+    "keywords": [
+      "deep",
+      "density",
+      "electron",
+      "framework",
+      "global"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "Standalone and RTK GNSS on 30,000 km of North American Highways",
     "authors": "Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia",
     "year": "2019",
@@ -95,24 +131,6 @@
     ]
   },
   {
-    "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
-    "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
-    "year": "2026",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2606.06358v1",
-    "abstract": "RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effects depend on the local environment and sensor configuration, nominal receiver specifications are insufficient, and deployment-specific characterization is required. This paper presents a benchmarking study of an AsteRx-i3 D Pro+ GNSS/INS receiver installed within the mobile Sensor Box developed at KU Leuven. The study combines a real-world bridge-passage case study, static benchmarking, and closed-loop path-following experiments. The static benchmarking evaluates four receiver configurations: standalone GNSS, standalone GNSS with INS integration, RTK-augmented GNSS, and RTK-augmented GNSS with INS integration. The closed-loop experiments use INS-integrated GNSS as the navigation input and compare path-following operational performance with and without RTK augmentation. Results show that correction loss during bridge passage causes reduced positioning accuracy, increased positioning uncertainty and recovery-induced state jumps exceeding 1 m. Static benchmarking and closed-loop experiments confirm that RTK augmentation substantially improves positioning precision and uncertainty consistency, while INS integration supports short-term continuity during RTK unavailability but may introduce drift, bias, or transient uncertainty variations. By characterizing the deployment-specific receiver behavior with RTK augmentation and INS integration, this study motivates higher-level state estimation as a necessary next step toward spatially continuous and uncertainty-consistent positioning on inland waterway. The experimental data are released at: https://doi.org/10.5281/zenodo.20541733.",
-    "keywords": [
-      "gnss",
-      "rtk",
-      "ins",
-      "augmentation",
-      "integration"
-    ],
-    "tags": [
-      "RTK"
-    ]
-  },
-  {
     "title": "Participatory Sensing for Localization of a GNSS Jammer",
     "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
     "year": "2022",
@@ -128,6 +146,24 @@
     ],
     "tags": [
       "Ionosphere"
+    ]
+  },
+  {
+    "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
+    "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
+    "year": "2026",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2606.06358v1",
+    "abstract": "RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effects depend on the local environment and sensor configuration, nominal receiver specifications are insufficient, and deployment-specific characterization is required. This paper presents a benchmarking study of an AsteRx-i3 D Pro+ GNSS/INS receiver installed within the mobile Sensor Box developed at KU Leuven. The study combines a real-world bridge-passage case study, static benchmarking, and closed-loop path-following experiments. The static benchmarking evaluates four receiver configurations: standalone GNSS, standalone GNSS with INS integration, RTK-augmented GNSS, and RTK-augmented GNSS with INS integration. The closed-loop experiments use INS-integrated GNSS as the navigation input and compare path-following operational performance with and without RTK augmentation. Results show that correction loss during bridge passage causes reduced positioning accuracy, increased positioning uncertainty and recovery-induced state jumps exceeding 1 m. Static benchmarking and closed-loop experiments confirm that RTK augmentation substantially improves positioning precision and uncertainty consistency, while INS integration supports short-term continuity during RTK unavailability but may introduce drift, bias, or transient uncertainty variations. By characterizing the deployment-specific receiver behavior with RTK augmentation and INS integration, this study motivates higher-level state estimation as a necessary next step toward spatially continuous and uncertainty-consistent positioning on inland waterway. The experimental data are released at: https://doi.org/10.5281/zenodo.20541733.",
+    "keywords": [
+      "gnss",
+      "rtk",
+      "ins",
+      "augmentation",
+      "integration"
+    ],
+    "tags": [
+      "RTK"
     ]
   },
   {

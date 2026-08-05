@@ -8,6 +8,20 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Characterizing the systematic bias of tropospheric refraction asymmetry in spaceborne and airborne grazing GNSS-R altimetry
+- Song, He, Asgarimehr, Wang, Wickert (2026)
+- *Journal of Geodesy*
+- **Keywords:** airborne, altimetry, asymmetry, bias, characterizing
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s00190-026-02099-w)
+
+### TEC2Ne: a physics-informed deep learning framework for reconstructing ionospheric electron density profiles from global TEC maps
+- Li, Fang, Xiao, Duan, Lin, Huang, Ren, Wu, Zhou, Zheng, Shen, Cao (2026)
+- *GPS Solutions*
+- **Keywords:** deep, density, electron, framework, global
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02112-x)
+
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
@@ -43,19 +57,19 @@ Automatically updated GNSS papers.
 - **Abstract:** In autonomous applications for mobility and transport, a high-rate and highly accurate vehicle-state estimation is achieved by fusing measurements of global navigation satellite systems (GNSS) and inertial sensors. The state estimation and its protection-level generation often suffer from satellite-...
 - [Link](https://arxiv.org/abs/2103.10696v3)
 
-### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
-- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
-- *arXiv*
-- **Keywords:** gnss, rtk, ins, augmentation, integration
-- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
-- [Link](https://arxiv.org/abs/2606.06358v1)
-
 ### Participatory Sensing for Localization of a GNSS Jammer
 - Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
 - *arXiv*
 - **Keywords:** sensing, gnss, jamming, localization, participatory
 - **Abstract:** GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of parti...
 - [Link](https://arxiv.org/abs/2204.13974v1)
+
+### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
+- Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
+- *arXiv*
+- **Keywords:** gnss, rtk, ins, augmentation, integration
+- **Abstract:** RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effec...
+- [Link](https://arxiv.org/abs/2606.06358v1)
 
 ### 3D LiDAR Aided GNSS NLOS Mitigation for Reliable GNSS-RTK Positioning in Urban Canyons
 - Xikun Liu, Weisong Wen, Feng Huang, Han Gao, Yongliang Wang, Li-Ta Hsu (2022)
@@ -203,18 +217,4 @@ Automatically updated GNSS papers.
 - **Keywords:** ns, utc, butc_gnss, gnss, offset
 - **Abstract:** We present a new approach to report in the Section 4 of BIPM Circular T daily values of the offset between UTC and the predictions of UTC broadcast by the GNSS, this quantity we name bUTC_GNSS. In this approach, the determination of UTC - bUTC_GNSS is based on data collected by several multi-GNSS st...
 - [Link](https://arxiv.org/abs/2503.02914v1)
-
-### Complexity-Scalable Direct Geolocation and Cancellation of Terrestrial GNSS Jammers: Single-Satellite and Multi-Antenna Experiments in Low Earth Orbit
-- Giacomo Pojani, Javier Tegedor, Joaquim Fortuny-Guasch, Francesco Menzione, David Evans, Tim Oerther, Maximilian Henkel, Jonas Stene Lindbjor (2026)
-- *arXiv*
-- **Keywords:** gnss, geolocation, satellite, jammers, multi
-- **Abstract:** Monitoring the radio-frequency (RF) spectrum from space imposes demanding requirements to satellite platforms in terms of communication bandwidth and computational resources, which are necessary for the downlink, the storage, and the processing of high-throughput I/Q samples. This paper analyzes in ...
-- [Link](https://arxiv.org/abs/2607.02190v1)
-
-### Two stage GNSS outlier detection for factor graph optimization based GNSS-RTK/INS/odometer fusion
-- Baoshan Song, Penggao Yan, Xiao Xia, Yihan Zhong, Weisong Wen, Li-Ta Hsu (2025)
-- *arXiv*
-- **Keywords:** gnss, pseudo, range, stage, odometer
-- **Abstract:** Reliable GNSS positioning in complex environments remains a critical challenge due to non-line-of-sight (NLOS) propagation, multipath effects, and frequent signal blockages. These effects can easily introduce large outliers into the raw pseudo-range measurements, which significantly degrade the perf...
-- [Link](https://arxiv.org/abs/2510.00524v1)
 
