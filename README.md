@@ -8,20 +8,13 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
-### Characterizing the systematic bias of tropospheric refraction asymmetry in spaceborne and airborne grazing GNSS-R altimetry
-- Song, He, Asgarimehr, Wang, Wickert (2026)
-- *Journal of Geodesy*
-- **Keywords:** airborne, altimetry, asymmetry, bias, characterizing
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s00190-026-02099-w)
-
-### Toward a GNSS network solution in space based on double-differences between LEO satellites
-- Müller, Rothacher, Soja, Arnold, Jäggi (2026)
-- *Journal of Geodesy*
-- **Keywords:** network, satellites, cm, gnss, solution
+### Projected BIE: a new unbiased minimum variance estimator for the mixed-integer GNSS model
+- Teunissen (2026)
+- *GPS Solutions*
+- **Keywords:** integer, estimator, bie, class, minimum
 - **Abstract:** Abstract
-                  As low-Earth orbit (LEO) satellites are increasingly equipped with highly precise Global Navigation Satellite Systems (GNSS) receivers, new opportunities for GNSS-based precise orbit determination (POD) arise. The availability of GNSS observations from satellites that are ...
-- [Link](https://doi.org/10.1007/s00190-026-02059-4)
+                  Mixed-integer (MI) estimation theory is fundamental to carrier-phase GNSS, where real-valued parameters are coupled with integer ambiguities. The class of integer-equivariant (IE) estimators is the largest class that properly respects this structure. Its unbiased minimum m...
+- [Link](https://doi.org/10.1007/s10291-026-02132-7)
 
 ### TEC2Ne: a physics-informed deep learning framework for reconstructing ionospheric electron density profiles from global TEC maps
 - Li, Fang, Xiao, Duan, Lin, Huang, Ren, Wu, Zhou, Zheng, Shen, Cao (2026)
@@ -135,6 +128,13 @@ Automatically updated GNSS papers.
 - **Abstract:** We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10...
 - [Link](https://arxiv.org/abs/physics/0310092v1)
 
+### PARFAIT: GNSS-R coastal altimetry
+- M. Caparrini, L. Ruffini, G. Ruffini (2003)
+- *arXiv*
+- **Keywords:** coherent, gnss, altimetry, component, gps
+- **Abstract:** GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coheren...
+- [Link](https://arxiv.org/abs/physics/0311052v1)
+
 ### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
 - J. -F. Pascual-Sánchez (2004)
 - *arXiv*
@@ -148,13 +148,6 @@ Automatically updated GNSS papers.
 - **Keywords:** ppp, bds, corrections, service, b2b
 - **Abstract:** With the rapid development of China's BeiDou Navigation Satellite System(BDS), the application of real-time precise point positioning (RTPPP) based on BDS has become an active research area in the field of Global Navigation Satellite System (GNSS). BDS has provided the service of broadcasting RTPPP ...
 - [Link](https://arxiv.org/abs/2011.13539v1)
-
-### PARFAIT: GNSS-R coastal altimetry
-- M. Caparrini, L. Ruffini, G. Ruffini (2003)
-- *arXiv*
-- **Keywords:** coherent, gnss, altimetry, component, gps
-- **Abstract:** GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coheren...
-- [Link](https://arxiv.org/abs/physics/0311052v1)
 
 ### DEMO: RTKiller -- manipulation of GNSS RTK rovers by reference base spoofing
 - Marco Spanghero, Panos Papadimitratos (2024)
@@ -205,6 +198,13 @@ Automatically updated GNSS papers.
 - **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
 - [Link](https://arxiv.org/abs/2112.07176v1)
 
+### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
+- Junming Wang, Yi Shi (2023)
+- *arXiv*
+- **Keywords:** monitoring, gnss, data, rtk, based
+- **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
+- [Link](https://arxiv.org/abs/2301.05977v2)
+
 ### Soil Moisture Monitorization Using GNSS Reflected Signals
 - Alejandro Egido, Giulio Ruffini, Marco Caparrini, Cristina Martin, Esteve Farres, Xavier Banque (2008)
 - *arXiv*
@@ -212,10 +212,10 @@ Automatically updated GNSS papers.
 - **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
 - [Link](https://arxiv.org/abs/0805.1881v2)
 
-### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
-- Junming Wang, Yi Shi (2023)
+### Monitoring of the offset between UTC and its prediction broadcast by the GNSS
+- Pascale Defraigne, Elisa Pinat, Gérard Petit, Frédéric Meynadier (2025)
 - *arXiv*
-- **Keywords:** monitoring, gnss, data, rtk, based
-- **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
-- [Link](https://arxiv.org/abs/2301.05977v2)
+- **Keywords:** ns, utc, butc_gnss, gnss, offset
+- **Abstract:** We present a new approach to report in the Section 4 of BIPM Circular T daily values of the offset between UTC and the predictions of UTC broadcast by the GNSS, this quantity we name bUTC_GNSS. In this approach, the determination of UTC - bUTC_GNSS is based on data collected by several multi-GNSS st...
+- [Link](https://arxiv.org/abs/2503.02914v1)
 

@@ -1,39 +1,20 @@
 [
   {
-    "title": "Characterizing the systematic bias of tropospheric refraction asymmetry in spaceborne and airborne grazing GNSS-R altimetry",
-    "authors": "Song, He, Asgarimehr, Wang, Wickert",
+    "title": "Projected BIE: a new unbiased minimum variance estimator for the mixed-integer GNSS model",
+    "authors": "Teunissen",
     "year": 2026,
-    "journal": "Journal of Geodesy",
-    "url": "https://doi.org/10.1007/s00190-026-02099-w",
-    "abstract": "",
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02132-7",
+    "abstract": "Abstract\n                  Mixed-integer (MI) estimation theory is fundamental to carrier-phase GNSS, where real-valued parameters are coupled with integer ambiguities. The class of integer-equivariant (IE) estimators is the largest class that properly respects this structure. Its unbiased minimum mean-squared-error member is the best integer equivariant (BIE) estimator, whose precision is never worse than that of the BLUE and whose performance is often close to that of integer least-squares. Its practical drawback, however, is the need to evaluate an infinite sum. We introduce the projected-BIE (PBIE) estimator, a new unbiased minimum-variance IE-estimator with a finite representation. It is obtained by restricting the admissible periodic corrections in the canonical IE-representation and solving the resulting optimization problem. PBIE is valid for general observation distributions, has an exactly computable variance matrix, and is obtained from normal equations. We further show that PBIE has a dual optimality property: it is both minimum-variance in its class and the closest estimator in that class to the BIE. For normally distributed data, PBIE simplifies considerably and can be computed efficiently from the BLUE of the integer ambiguities.",
     "keywords": [
-      "airborne",
-      "altimetry",
-      "asymmetry",
-      "bias",
-      "characterizing"
+      "integer",
+      "estimator",
+      "bie",
+      "class",
+      "minimum"
     ],
     "tags": [
       "Other"
-    ]
-  },
-  {
-    "title": "Toward a GNSS network solution in space based on double-differences between LEO satellites",
-    "authors": "M\u00fcller, Rothacher, Soja, Arnold, J\u00e4ggi",
-    "year": 2026,
-    "journal": "Journal of Geodesy",
-    "url": "https://doi.org/10.1007/s00190-026-02059-4",
-    "abstract": "Abstract\n                  As low-Earth orbit (LEO) satellites are increasingly equipped with highly precise Global Navigation Satellite Systems (GNSS) receivers, new opportunities for GNSS-based precise orbit determination (POD) arise. The availability of GNSS observations from satellites that are geometrically well distributed over the entire Earth may enable the formation of an independent GNSS network in LEO, which can be processed solely on the basis of double-difference (DD) observations. This study presents a first attempt to compute a network solution of GNSS DD observations in space that combines data from eight satellites, including GRACE-FO C/D, Sentinel-3A/B, Sentinel-6A and Swarm A/B/C. Using satellite laser ranging (SLR) validation, we show that the absolute position accuracy of an ambiguity-float network solution increases from about 4\u00a0cm 1D RMS in a constellation of three satellites to about 2\u00a0cm\u20132.5\u00a0cm in a constellation of eight satellites. Similar results are obtained by comparing the baseline lengths from our DD network solution with those derived from external ambiguity-fixed zero-difference (ZD) orbits, with differences at a level of 2\u00a0cm to 3\u00a0cm RMS for a network of eight satellites. For both the SLR residuals and the baseline consistency, an improvement of up to 0.5\u00a0cm can be achieved when resolving 60\u00a0% to 70\u00a0% of the carrier-phase ambiguities of highly dynamic baselines to integer values. Overall, the geometric distribution of the satellites and high dynamics of the constellation prove to be beneficial for computing a DD network solution in space. This is particularly promising in the view of large LEO constellations currently being developed, with a much higher number of spacecraft and a uniform global coverage, where the advantages of the network approach presented in this study will become even more significant.",
-    "keywords": [
-      "network",
-      "satellites",
-      "cm",
-      "gnss",
-      "solution"
-    ],
-    "tags": [
-      "Orbit",
-      "LEO"
     ]
   },
   {
@@ -332,6 +313,24 @@
     ]
   },
   {
+    "title": "PARFAIT: GNSS-R coastal altimetry",
+    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
+    "year": "2003",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0311052v1",
+    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
+    "keywords": [
+      "coherent",
+      "gnss",
+      "altimetry",
+      "component",
+      "gps"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "Efectos relativistas en los sistemas Galileo, GPS y GLONASS",
     "authors": "J. -F. Pascual-S\u00e1nchez",
     "year": "2004",
@@ -372,24 +371,6 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "PARFAIT: GNSS-R coastal altimetry",
-    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
-    "year": "2003",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/physics/0311052v1",
-    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
-    "keywords": [
-      "coherent",
-      "gnss",
-      "altimetry",
-      "component",
-      "gps"
-    ],
-    "tags": [
-      "Ionosphere"
     ]
   },
   {
@@ -520,6 +501,25 @@
     ]
   },
   {
+    "title": "Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion",
+    "authors": "Junming Wang, Yi Shi",
+    "year": "2023",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2301.05977v2",
+    "abstract": "Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3\u03c3) was designed. The system uses Raspberry Pi as the control core, GNSS-RTK technology to complete deformation data collection, and combines NB-IoT to achieve data transmission and cloud storage. To further improve the monitoring accuracy, real-time gross error detection and high-frequency noise removal method based on the improved Raida criterion(3\u03c3) and Butterworth low-pass filtering is proposed, combined with edge computing devices to complete real-time data processing, and reduce the pressure of cloud computing. The experimental results show that the system's data transmission is reliable and efficient. After gross error elimination and noise processing, real-time deformation monitoring of 10 mm in the horizontal and vertical directions is achieved; simultaneously, the monitoring error of the GNSS combined system is smaller than that of the Single-GPS system.",
+    "keywords": [
+      "monitoring",
+      "gnss",
+      "data",
+      "rtk",
+      "based"
+    ],
+    "tags": [
+      "RTK",
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "Soil Moisture Monitorization Using GNSS Reflected Signals",
     "authors": "Alejandro Egido, Giulio Ruffini, Marco Caparrini, Cristina Martin, Esteve Farres, Xavier Banque",
     "year": "2008",
@@ -537,25 +537,6 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion",
-    "authors": "Junming Wang, Yi Shi",
-    "year": "2023",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2301.05977v2",
-    "abstract": "Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3\u03c3) was designed. The system uses Raspberry Pi as the control core, GNSS-RTK technology to complete deformation data collection, and combines NB-IoT to achieve data transmission and cloud storage. To further improve the monitoring accuracy, real-time gross error detection and high-frequency noise removal method based on the improved Raida criterion(3\u03c3) and Butterworth low-pass filtering is proposed, combined with edge computing devices to complete real-time data processing, and reduce the pressure of cloud computing. The experimental results show that the system's data transmission is reliable and efficient. After gross error elimination and noise processing, real-time deformation monitoring of 10 mm in the horizontal and vertical directions is achieved; simultaneously, the monitoring error of the GNSS combined system is smaller than that of the Single-GPS system.",
-    "keywords": [
-      "monitoring",
-      "gnss",
-      "data",
-      "rtk",
-      "based"
-    ],
-    "tags": [
-      "RTK",
-      "Ionosphere"
     ]
   },
   {
