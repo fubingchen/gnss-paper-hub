@@ -111,6 +111,24 @@
     ]
   },
   {
+    "title": "Participatory Sensing for Localization of a GNSS Jammer",
+    "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
+    "year": "2022",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2204.13974v1",
+    "abstract": "GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of participatory sensing, or crowdsensing, is that a large ensemble of voluntary contributors provides the measurements, rather than relying on dedicated sensing infrastructure. This work considers embedded GNSS receivers to provide measurements for participatory jamming detection and localization. Specifically, this work proposes a novel jamming localization algorithm, based on participatory sensing, that exploits AGC and C/N_0 estimates from commercial GNSS receivers. The proposed algorithm does not require knowledge of the jamming power nor of the channels, but automatically estimates all parameters. The algorithm is shown to outperform similar state-of-the-art localization algorithms in relevant scenarios.",
+    "keywords": [
+      "sensing",
+      "gnss",
+      "jamming",
+      "localization",
+      "participatory"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "Robust state and protection-level estimation within tightly coupled GNSS/INS navigation system",
     "authors": "Shuchen Liu, Kaizheng Wang, Dirk Abel",
     "year": "2021",
@@ -128,24 +146,6 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "Participatory Sensing for Localization of a GNSS Jammer",
-    "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
-    "year": "2022",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2204.13974v1",
-    "abstract": "GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of participatory sensing, or crowdsensing, is that a large ensemble of voluntary contributors provides the measurements, rather than relying on dedicated sensing infrastructure. This work considers embedded GNSS receivers to provide measurements for participatory jamming detection and localization. Specifically, this work proposes a novel jamming localization algorithm, based on participatory sensing, that exploits AGC and C/N_0 estimates from commercial GNSS receivers. The proposed algorithm does not require knowledge of the jamming power nor of the channels, but automatically estimates all parameters. The algorithm is shown to outperform similar state-of-the-art localization algorithms in relevant scenarios.",
-    "keywords": [
-      "sensing",
-      "gnss",
-      "jamming",
-      "localization",
-      "participatory"
-    ],
-    "tags": [
-      "Ionosphere"
     ]
   },
   {
