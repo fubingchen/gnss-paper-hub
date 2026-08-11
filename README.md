@@ -51,19 +51,19 @@ Automatically updated GNSS papers.
 - **Abstract:** At least ten emerging providers are developing satellite navigation systems for low Earth orbit (LEO). Compatibility with existing GNSS in L-band is critical to their successful deployment and for the larger ecosystem. Xona is deploying Pulsar, a near 260-satellite LEO constellation offering dual L-...
 - [Link](https://arxiv.org/abs/2509.16183v3)
 
-### Participatory Sensing for Localization of a GNSS Jammer
-- Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
-- *arXiv*
-- **Keywords:** sensing, gnss, jamming, localization, participatory
-- **Abstract:** GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of parti...
-- [Link](https://arxiv.org/abs/2204.13974v1)
-
 ### Robust state and protection-level estimation within tightly coupled GNSS/INS navigation system
 - Shuchen Liu, Kaizheng Wang, Dirk Abel (2021)
 - *arXiv*
 - **Keywords:** navigation, estimation, gnss, level, protection
 - **Abstract:** In autonomous applications for mobility and transport, a high-rate and highly accurate vehicle-state estimation is achieved by fusing measurements of global navigation satellite systems (GNSS) and inertial sensors. The state estimation and its protection-level generation often suffer from satellite-...
 - [Link](https://arxiv.org/abs/2103.10696v3)
+
+### Participatory Sensing for Localization of a GNSS Jammer
+- Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
+- *arXiv*
+- **Keywords:** sensing, gnss, jamming, localization, participatory
+- **Abstract:** GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of parti...
+- [Link](https://arxiv.org/abs/2204.13974v1)
 
 ### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
 - Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
