@@ -75,6 +75,24 @@
     ]
   },
   {
+    "title": "Participatory Sensing for Localization of a GNSS Jammer",
+    "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
+    "year": "2022",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2204.13974v1",
+    "abstract": "GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of participatory sensing, or crowdsensing, is that a large ensemble of voluntary contributors provides the measurements, rather than relying on dedicated sensing infrastructure. This work considers embedded GNSS receivers to provide measurements for participatory jamming detection and localization. Specifically, this work proposes a novel jamming localization algorithm, based on participatory sensing, that exploits AGC and C/N_0 estimates from commercial GNSS receivers. The proposed algorithm does not require knowledge of the jamming power nor of the channels, but automatically estimates all parameters. The algorithm is shown to outperform similar state-of-the-art localization algorithms in relevant scenarios.",
+    "keywords": [
+      "sensing",
+      "gnss",
+      "jamming",
+      "localization",
+      "participatory"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "Robust state and protection-level estimation within tightly coupled GNSS/INS navigation system",
     "authors": "Shuchen Liu, Kaizheng Wang, Dirk Abel",
     "year": "2021",
@@ -92,24 +110,6 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "Participatory Sensing for Localization of a GNSS Jammer",
-    "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
-    "year": "2022",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2204.13974v1",
-    "abstract": "GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of participatory sensing, or crowdsensing, is that a large ensemble of voluntary contributors provides the measurements, rather than relying on dedicated sensing infrastructure. This work considers embedded GNSS receivers to provide measurements for participatory jamming detection and localization. Specifically, this work proposes a novel jamming localization algorithm, based on participatory sensing, that exploits AGC and C/N_0 estimates from commercial GNSS receivers. The proposed algorithm does not require knowledge of the jamming power nor of the channels, but automatically estimates all parameters. The algorithm is shown to outperform similar state-of-the-art localization algorithms in relevant scenarios.",
-    "keywords": [
-      "sensing",
-      "gnss",
-      "jamming",
-      "localization",
-      "participatory"
-    ],
-    "tags": [
-      "Ionosphere"
     ]
   },
   {
@@ -223,6 +223,27 @@
     ]
   },
   {
+    "title": "Coordination of Ground-to-Space Reference Networks for High-Precision GNSS",
+    "authors": "Xue Xian Zheng, Xing Liu, Jos\u00e9 A. L\u00f3pez-Salcedo, Gonzalo Seco-Granados, Tareq Y. Al-Naffouri",
+    "year": "2026",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2608.18636v1",
+    "abstract": "High-precision Global Navigation Satellite System (GNSS) services rely on accurate orbit, clock, atmospheric, and hardware-bias corrections generated from reference observations. These products are traditionally derived from terrestrial reference networks, whose performance strongly depends on the density and geographic distribution of ground stations. Consequently, sparse or regionally concentrated networks can suffer from tracking gaps and limited global observability, reducing their ability to support globally consistent high-precision products. Low Earth Orbit (LEO) constellations equipped with onboard GNSS receivers and inter-satellite links (ISLs) can serve as a network of spaceborne reference stations, offering a promising way to extend terrestrial reference networks into space, thereby improving observability for ground networks and enabling future direct correction broadcast. However, most existing network-based GNSS correction-generation workflows assume that observations can be centrally collected and processed. This assumption fails in practical ground--to--space architectures, where dynamic satellite geometry and system constraints render communication links intermittent, asymmetric, capacity-limited, and lossy. To address these limitations, this paper proposes a decentralized processing architecture that coordinates the ground-to-space GNSS reference network. By modeling ground stations and LEO satellites as interacting subnetworks over a dynamic graph, our approach allows frequent intra-tier communication while restricting cross-tier exchanges to compact estimation summaries transmitted opportunistically under probabilistic link availability....",
+    "keywords": [
+      "ground",
+      "reference",
+      "gnss",
+      "networks",
+      "space"
+    ],
+    "tags": [
+      "Orbit",
+      "Clock",
+      "Ionosphere",
+      "LEO"
+    ]
+  },
+  {
     "title": "GPS Receiver with Enhanced User Positioning Time",
     "authors": "Seung-Hyun Yoon, Ji-Woon Jung, Su-Bong Kim, Hyun-Chang Shin, Jae-Hyang Lee, Kyu-Yun Lee, Hyo-Sun Shim",
     "year": "2015",
@@ -238,24 +259,6 @@
     ],
     "tags": [
       "Clock"
-    ]
-  },
-  {
-    "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
-    "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
-    "year": "2025",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2506.02877v1",
-    "abstract": "Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articulation angle using multiple GNSS for automatic operation of dump trucks. RTK-GNSS is commonly used for automation of construction equipment, but in mountainous areas, mobile networks often unstable, and RTK-GNSS using GNSS reference stations cannot be used. Therefore, this paper develops a state estimation method for dump trucks that does not require a GNSS reference station by using the Centimeter Level Augmentation Service (CLAS) of the Japanese Quasi-Zenith Satellite System (QZSS). Although CLAS is capable of centimeter-level position estimation, its positioning accuracy and ambiguity fix rate are lower than those of RTK-GNSS. To solve this problem, we construct a state estimation method by factor graph optimization that combines CLAS positioning and moving-base RTK-GNSS between multiple GNSS antennas. Evaluation tests under real-world environments have shown that the proposed method can estimate the state of dump trucks with the same accuracy as conventional RTK-GNSS, but does not require a GNSS reference station.",
-    "keywords": [
-      "gnss",
-      "rtk",
-      "dump",
-      "estimation",
-      "state"
-    ],
-    "tags": [
-      "RTK"
     ]
   },
   {
@@ -277,21 +280,21 @@
     ]
   },
   {
-    "title": "PARFAIT: GNSS-R coastal altimetry",
-    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
-    "year": "2003",
+    "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
+    "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
+    "year": "2025",
     "journal": "arXiv",
-    "url": "https://arxiv.org/abs/physics/0311052v1",
-    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
+    "url": "https://arxiv.org/abs/2506.02877v1",
+    "abstract": "Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articulation angle using multiple GNSS for automatic operation of dump trucks. RTK-GNSS is commonly used for automation of construction equipment, but in mountainous areas, mobile networks often unstable, and RTK-GNSS using GNSS reference stations cannot be used. Therefore, this paper develops a state estimation method for dump trucks that does not require a GNSS reference station by using the Centimeter Level Augmentation Service (CLAS) of the Japanese Quasi-Zenith Satellite System (QZSS). Although CLAS is capable of centimeter-level position estimation, its positioning accuracy and ambiguity fix rate are lower than those of RTK-GNSS. To solve this problem, we construct a state estimation method by factor graph optimization that combines CLAS positioning and moving-base RTK-GNSS between multiple GNSS antennas. Evaluation tests under real-world environments have shown that the proposed method can estimate the state of dump trucks with the same accuracy as conventional RTK-GNSS, but does not require a GNSS reference station.",
     "keywords": [
-      "coherent",
       "gnss",
-      "altimetry",
-      "component",
-      "gps"
+      "rtk",
+      "dump",
+      "estimation",
+      "state"
     ],
     "tags": [
-      "Ionosphere"
+      "RTK"
     ]
   },
   {
@@ -335,6 +338,24 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "PARFAIT: GNSS-R coastal altimetry",
+    "authors": "M. Caparrini, L. Ruffini, G. Ruffini",
+    "year": "2003",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0311052v1",
+    "abstract": "GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coherent component of L1 GPS-R signals collected during the ESTEC Bridge 2 experimental campaign using this technique. The altimetric results have been compared with a GPS-buoy calibrated tide model with a resulting precision of the order 1 cm.",
+    "keywords": [
+      "coherent",
+      "gnss",
+      "altimetry",
+      "component",
+      "gps"
+    ],
+    "tags": [
+      "Ionosphere"
     ]
   },
   {
@@ -465,6 +486,25 @@
     ]
   },
   {
+    "title": "Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion",
+    "authors": "Junming Wang, Yi Shi",
+    "year": "2023",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2301.05977v2",
+    "abstract": "Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3\u03c3) was designed. The system uses Raspberry Pi as the control core, GNSS-RTK technology to complete deformation data collection, and combines NB-IoT to achieve data transmission and cloud storage. To further improve the monitoring accuracy, real-time gross error detection and high-frequency noise removal method based on the improved Raida criterion(3\u03c3) and Butterworth low-pass filtering is proposed, combined with edge computing devices to complete real-time data processing, and reduce the pressure of cloud computing. The experimental results show that the system's data transmission is reliable and efficient. After gross error elimination and noise processing, real-time deformation monitoring of 10 mm in the horizontal and vertical directions is achieved; simultaneously, the monitoring error of the GNSS combined system is smaller than that of the Single-GPS system.",
+    "keywords": [
+      "monitoring",
+      "gnss",
+      "data",
+      "rtk",
+      "based"
+    ],
+    "tags": [
+      "RTK",
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "Soil Moisture Monitorization Using GNSS Reflected Signals",
     "authors": "Alejandro Egido, Giulio Ruffini, Marco Caparrini, Cristina Martin, Esteve Farres, Xavier Banque",
     "year": "2008",
@@ -482,25 +522,6 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion",
-    "authors": "Junming Wang, Yi Shi",
-    "year": "2023",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2301.05977v2",
-    "abstract": "Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3\u03c3) was designed. The system uses Raspberry Pi as the control core, GNSS-RTK technology to complete deformation data collection, and combines NB-IoT to achieve data transmission and cloud storage. To further improve the monitoring accuracy, real-time gross error detection and high-frequency noise removal method based on the improved Raida criterion(3\u03c3) and Butterworth low-pass filtering is proposed, combined with edge computing devices to complete real-time data processing, and reduce the pressure of cloud computing. The experimental results show that the system's data transmission is reliable and efficient. After gross error elimination and noise processing, real-time deformation monitoring of 10 mm in the horizontal and vertical directions is achieved; simultaneously, the monitoring error of the GNSS combined system is smaller than that of the Single-GPS system.",
-    "keywords": [
-      "monitoring",
-      "gnss",
-      "data",
-      "rtk",
-      "based"
-    ],
-    "tags": [
-      "RTK",
-      "Ionosphere"
     ]
   },
   {
@@ -917,24 +938,6 @@
     ],
     "tags": [
       "Ionosphere"
-    ]
-  },
-  {
-    "title": "A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments",
-    "authors": "W. Jacob Wagner, Isaac Blankenau, Maribel DeLaTorre, Amartya Purushottam, Ahmet Soylemezoglu",
-    "year": "2023",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2309.02569v1",
-    "abstract": "This work addresses the challenge of developing a localization system for an uncrewed ground vehicle (UGV) operating autonomously in unstructured outdoor Global Navigation Satellite System (GNSS)-denied environments. The goal is to enable accurate mapping and long-range navigation with practical applications in domains such as autonomous construction, military engineering missions, and exploration of non-Earth planets. The proposed system - Terrain-Referenced Assured Engineer Localization System (TRAELS) - integrates pose estimates produced by two complementary terrain referenced navigation (TRN) methods with wheel odometry and inertial measurement unit (IMU) measurements using an Extended Kalman Filter (EKF). Unlike simultaneous localization and mapping (SLAM) systems that require loop closures, the described approach maintains accuracy over long distances and one-way missions without the need to revisit previous positions. Evaluation of TRAELS is performed across a range of environments. In regions where a combination of distinctive geometric and ground surface features are present, the developed TRN methods are leveraged by TRAELS to consistently achieve an absolute trajectory error of less than 3.0 m. The approach is also shown to be capable of recovering from large accumulated drift when traversing feature-sparse areas, which is essential in ensuring robust performance of the system across a wide variety of challenging GNSS-denied environments. Overall, the effectiveness of the system in providing precise localization and mapping capabilities in challenging GNSS-denied environments is demonstrated and an analysis is performed leading to insights for improving TRN approaches for UGVs.",
-    "keywords": [
-      "environments",
-      "localization",
-      "denied",
-      "gnss",
-      "ground"
-    ],
-    "tags": [
-      "Other"
     ]
   }
 ]

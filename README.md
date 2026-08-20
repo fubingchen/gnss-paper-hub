@@ -36,19 +36,19 @@ Automatically updated GNSS papers.
 - **Abstract:** At least ten emerging providers are developing satellite navigation systems for low Earth orbit (LEO). Compatibility with existing GNSS in L-band is critical to their successful deployment and for the larger ecosystem. Xona is deploying Pulsar, a near 260-satellite LEO constellation offering dual L-...
 - [Link](https://arxiv.org/abs/2509.16183v3)
 
-### Robust state and protection-level estimation within tightly coupled GNSS/INS navigation system
-- Shuchen Liu, Kaizheng Wang, Dirk Abel (2021)
-- *arXiv*
-- **Keywords:** navigation, estimation, gnss, level, protection
-- **Abstract:** In autonomous applications for mobility and transport, a high-rate and highly accurate vehicle-state estimation is achieved by fusing measurements of global navigation satellite systems (GNSS) and inertial sensors. The state estimation and its protection-level generation often suffer from satellite-...
-- [Link](https://arxiv.org/abs/2103.10696v3)
-
 ### Participatory Sensing for Localization of a GNSS Jammer
 - Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
 - *arXiv*
 - **Keywords:** sensing, gnss, jamming, localization, participatory
 - **Abstract:** GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of parti...
 - [Link](https://arxiv.org/abs/2204.13974v1)
+
+### Robust state and protection-level estimation within tightly coupled GNSS/INS navigation system
+- Shuchen Liu, Kaizheng Wang, Dirk Abel (2021)
+- *arXiv*
+- **Keywords:** navigation, estimation, gnss, level, protection
+- **Abstract:** In autonomous applications for mobility and transport, a high-rate and highly accurate vehicle-state estimation is achieved by fusing measurements of global navigation satellite systems (GNSS) and inertial sensors. The state estimation and its protection-level generation often suffer from satellite-...
+- [Link](https://arxiv.org/abs/2103.10696v3)
 
 ### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
 - Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
@@ -92,19 +92,19 @@ Automatically updated GNSS papers.
 - **Abstract:** This paper provides an overview of operational applications of GNSS-R, and describes Oceanpal, an inexpensive, all-weather, passive instrument for remote sensing of the ocean and other water surfaces. This instrument is based on the use of reflected signals emitted from GNSS, and it holds great pote...
 - [Link](https://arxiv.org/abs/physics/0310063v2)
 
+### Coordination of Ground-to-Space Reference Networks for High-Precision GNSS
+- Xue Xian Zheng, Xing Liu, José A. López-Salcedo, Gonzalo Seco-Granados, Tareq Y. Al-Naffouri (2026)
+- *arXiv*
+- **Keywords:** ground, reference, gnss, networks, space
+- **Abstract:** High-precision Global Navigation Satellite System (GNSS) services rely on accurate orbit, clock, atmospheric, and hardware-bias corrections generated from reference observations. These products are traditionally derived from terrestrial reference networks, whose performance strongly depends on the d...
+- [Link](https://arxiv.org/abs/2608.18636v1)
+
 ### GPS Receiver with Enhanced User Positioning Time
 - Seung-Hyun Yoon, Ji-Woon Jung, Su-Bong Kim, Hyun-Chang Shin, Jae-Hyang Lee, Kyu-Yun Lee, Hyo-Sun Shim (2015)
 - *arXiv*
 - **Keywords:** gps, receiver, user, position, positioning
 - **Abstract:** This paper introduces a Global Positioning System (GPS) Receiver that locates user's position instantly. Recently, many mobile devices require location information to add user position into their contents, and some applications require quick positioning when the device is initially switched on. In o...
 - [Link](https://arxiv.org/abs/1510.03062v1)
-
-### Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers
-- Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki (2025)
-- *arXiv*
-- **Keywords:** gnss, rtk, dump, estimation, state
-- **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
-- [Link](https://arxiv.org/abs/2506.02877v1)
 
 ### The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft
 - G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira (2003)
@@ -113,12 +113,12 @@ Automatically updated GNSS papers.
 - **Abstract:** We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10...
 - [Link](https://arxiv.org/abs/physics/0310092v1)
 
-### PARFAIT: GNSS-R coastal altimetry
-- M. Caparrini, L. Ruffini, G. Ruffini (2003)
+### Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers
+- Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki (2025)
 - *arXiv*
-- **Keywords:** coherent, gnss, altimetry, component, gps
-- **Abstract:** GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coheren...
-- [Link](https://arxiv.org/abs/physics/0311052v1)
+- **Keywords:** gnss, rtk, dump, estimation, state
+- **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
+- [Link](https://arxiv.org/abs/2506.02877v1)
 
 ### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
 - J. -F. Pascual-Sánchez (2004)
@@ -133,6 +133,13 @@ Automatically updated GNSS papers.
 - **Keywords:** ppp, bds, corrections, service, b2b
 - **Abstract:** With the rapid development of China's BeiDou Navigation Satellite System(BDS), the application of real-time precise point positioning (RTPPP) based on BDS has become an active research area in the field of Global Navigation Satellite System (GNSS). BDS has provided the service of broadcasting RTPPP ...
 - [Link](https://arxiv.org/abs/2011.13539v1)
+
+### PARFAIT: GNSS-R coastal altimetry
+- M. Caparrini, L. Ruffini, G. Ruffini (2003)
+- *arXiv*
+- **Keywords:** coherent, gnss, altimetry, component, gps
+- **Abstract:** GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coheren...
+- [Link](https://arxiv.org/abs/physics/0311052v1)
 
 ### DEMO: RTKiller -- manipulation of GNSS RTK rovers by reference base spoofing
 - Marco Spanghero, Panos Papadimitratos (2024)
@@ -183,19 +190,19 @@ Automatically updated GNSS papers.
 - **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
 - [Link](https://arxiv.org/abs/2112.07176v1)
 
-### Soil Moisture Monitorization Using GNSS Reflected Signals
-- Alejandro Egido, Giulio Ruffini, Marco Caparrini, Cristina Martin, Esteve Farres, Xavier Banque (2008)
-- *arXiv*
-- **Keywords:** soil, moisture, signals, gnss, systems
-- **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
-- [Link](https://arxiv.org/abs/0805.1881v2)
-
 ### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
 - Junming Wang, Yi Shi (2023)
 - *arXiv*
 - **Keywords:** monitoring, gnss, data, rtk, based
 - **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
 - [Link](https://arxiv.org/abs/2301.05977v2)
+
+### Soil Moisture Monitorization Using GNSS Reflected Signals
+- Alejandro Egido, Giulio Ruffini, Marco Caparrini, Cristina Martin, Esteve Farres, Xavier Banque (2008)
+- *arXiv*
+- **Keywords:** soil, moisture, signals, gnss, systems
+- **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
+- [Link](https://arxiv.org/abs/0805.1881v2)
 
 ### Monitoring of the offset between UTC and its prediction broadcast by the GNSS
 - Pascale Defraigne, Elisa Pinat, Gérard Petit, Frédéric Meynadier (2025)
@@ -210,11 +217,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gnss, geolocation, satellite, jammers, multi
 - **Abstract:** Monitoring the radio-frequency (RF) spectrum from space imposes demanding requirements to satellite platforms in terms of communication bandwidth and computational resources, which are necessary for the downlink, the storage, and the processing of high-throughput I/Q samples. This paper analyzes in ...
 - [Link](https://arxiv.org/abs/2607.02190v1)
-
-### Two stage GNSS outlier detection for factor graph optimization based GNSS-RTK/INS/odometer fusion
-- Baoshan Song, Penggao Yan, Xiao Xia, Yihan Zhong, Weisong Wen, Li-Ta Hsu (2025)
-- *arXiv*
-- **Keywords:** gnss, pseudo, range, stage, odometer
-- **Abstract:** Reliable GNSS positioning in complex environments remains a critical challenge due to non-line-of-sight (NLOS) propagation, multipath effects, and frequent signal blockages. These effects can easily introduce large outliers into the raw pseudo-range measurements, which significantly degrade the perf...
-- [Link](https://arxiv.org/abs/2510.00524v1)
 
