@@ -262,24 +262,6 @@
     ]
   },
   {
-    "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
-    "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
-    "year": "2025",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2506.02877v1",
-    "abstract": "Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articulation angle using multiple GNSS for automatic operation of dump trucks. RTK-GNSS is commonly used for automation of construction equipment, but in mountainous areas, mobile networks often unstable, and RTK-GNSS using GNSS reference stations cannot be used. Therefore, this paper develops a state estimation method for dump trucks that does not require a GNSS reference station by using the Centimeter Level Augmentation Service (CLAS) of the Japanese Quasi-Zenith Satellite System (QZSS). Although CLAS is capable of centimeter-level position estimation, its positioning accuracy and ambiguity fix rate are lower than those of RTK-GNSS. To solve this problem, we construct a state estimation method by factor graph optimization that combines CLAS positioning and moving-base RTK-GNSS between multiple GNSS antennas. Evaluation tests under real-world environments have shown that the proposed method can estimate the state of dump trucks with the same accuracy as conventional RTK-GNSS, but does not require a GNSS reference station.",
-    "keywords": [
-      "gnss",
-      "rtk",
-      "dump",
-      "estimation",
-      "state"
-    ],
-    "tags": [
-      "RTK"
-    ]
-  },
-  {
     "title": "The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft",
     "authors": "G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira",
     "year": "2003",
@@ -295,6 +277,24 @@
     ],
     "tags": [
       "Other"
+    ]
+  },
+  {
+    "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
+    "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
+    "year": "2025",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2506.02877v1",
+    "abstract": "Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articulation angle using multiple GNSS for automatic operation of dump trucks. RTK-GNSS is commonly used for automation of construction equipment, but in mountainous areas, mobile networks often unstable, and RTK-GNSS using GNSS reference stations cannot be used. Therefore, this paper develops a state estimation method for dump trucks that does not require a GNSS reference station by using the Centimeter Level Augmentation Service (CLAS) of the Japanese Quasi-Zenith Satellite System (QZSS). Although CLAS is capable of centimeter-level position estimation, its positioning accuracy and ambiguity fix rate are lower than those of RTK-GNSS. To solve this problem, we construct a state estimation method by factor graph optimization that combines CLAS positioning and moving-base RTK-GNSS between multiple GNSS antennas. Evaluation tests under real-world environments have shown that the proposed method can estimate the state of dump trucks with the same accuracy as conventional RTK-GNSS, but does not require a GNSS reference station.",
+    "keywords": [
+      "gnss",
+      "rtk",
+      "dump",
+      "estimation",
+      "state"
+    ],
+    "tags": [
+      "RTK"
     ]
   },
   {
