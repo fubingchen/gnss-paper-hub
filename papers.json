@@ -95,24 +95,6 @@
     ]
   },
   {
-    "title": "Participatory Sensing for Localization of a GNSS Jammer",
-    "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
-    "year": "2022",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2204.13974v1",
-    "abstract": "GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of participatory sensing, or crowdsensing, is that a large ensemble of voluntary contributors provides the measurements, rather than relying on dedicated sensing infrastructure. This work considers embedded GNSS receivers to provide measurements for participatory jamming detection and localization. Specifically, this work proposes a novel jamming localization algorithm, based on participatory sensing, that exploits AGC and C/N_0 estimates from commercial GNSS receivers. The proposed algorithm does not require knowledge of the jamming power nor of the channels, but automatically estimates all parameters. The algorithm is shown to outperform similar state-of-the-art localization algorithms in relevant scenarios.",
-    "keywords": [
-      "sensing",
-      "gnss",
-      "jamming",
-      "localization",
-      "participatory"
-    ],
-    "tags": [
-      "Ionosphere"
-    ]
-  },
-  {
     "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
     "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
     "year": "2026",
@@ -128,6 +110,24 @@
     ],
     "tags": [
       "RTK"
+    ]
+  },
+  {
+    "title": "Participatory Sensing for Localization of a GNSS Jammer",
+    "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
+    "year": "2022",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2204.13974v1",
+    "abstract": "GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of participatory sensing, or crowdsensing, is that a large ensemble of voluntary contributors provides the measurements, rather than relying on dedicated sensing infrastructure. This work considers embedded GNSS receivers to provide measurements for participatory jamming detection and localization. Specifically, this work proposes a novel jamming localization algorithm, based on participatory sensing, that exploits AGC and C/N_0 estimates from commercial GNSS receivers. The proposed algorithm does not require knowledge of the jamming power nor of the channels, but automatically estimates all parameters. The algorithm is shown to outperform similar state-of-the-art localization algorithms in relevant scenarios.",
+    "keywords": [
+      "sensing",
+      "gnss",
+      "jamming",
+      "localization",
+      "participatory"
+    ],
+    "tags": [
+      "Ionosphere"
     ]
   },
   {
@@ -262,24 +262,6 @@
     ]
   },
   {
-    "title": "The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft",
-    "authors": "G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira",
-    "year": "2003",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/physics/0310092v1",
-    "abstract": "We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10 m/s, and significant wave heights of up to 2 m, as discussed further in a companion paper. After software tracking of the two signals through despreading of the GPS codes, a parametric waveform model containing the description of the sea surface conditions has been used to fit the waveforms (retracking) and estimate the temporal lapse between the direct GPS signals and their reflections. The estimated lapses have then been used to estimate the sea surface height (SSH) along the aircraft track using a differential geometric model. As expected, the precision of GNSS-R ranges was of 3 m after 1 second integration. More importantly, the accuracy of the GNSS-R altimetric solution with respect to Jason-1 SSH and in situ GPS buoy measurements was of 10 cm, which was the target with the used experimental setup. This new result confirms the potential of GNSS-R for mesoscale altimetric monitoring of the ocean, and provides an important milestone on the road to a space mission.",
-    "keywords": [
-      "gnss",
-      "gps",
-      "surface",
-      "aircraft",
-      "altimetric"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
     "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
     "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
     "year": "2025",
@@ -295,6 +277,24 @@
     ],
     "tags": [
       "RTK"
+    ]
+  },
+  {
+    "title": "The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft",
+    "authors": "G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira",
+    "year": "2003",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0310092v1",
+    "abstract": "We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10 m/s, and significant wave heights of up to 2 m, as discussed further in a companion paper. After software tracking of the two signals through despreading of the GPS codes, a parametric waveform model containing the description of the sea surface conditions has been used to fit the waveforms (retracking) and estimate the temporal lapse between the direct GPS signals and their reflections. The estimated lapses have then been used to estimate the sea surface height (SSH) along the aircraft track using a differential geometric model. As expected, the precision of GNSS-R ranges was of 3 m after 1 second integration. More importantly, the accuracy of the GNSS-R altimetric solution with respect to Jason-1 SSH and in situ GPS buoy measurements was of 10 cm, which was the target with the used experimental setup. This new result confirms the potential of GNSS-R for mesoscale altimetric monitoring of the ocean, and provides an important milestone on the road to a space mission.",
+    "keywords": [
+      "gnss",
+      "gps",
+      "surface",
+      "aircraft",
+      "altimetric"
+    ],
+    "tags": [
+      "Other"
     ]
   },
   {
