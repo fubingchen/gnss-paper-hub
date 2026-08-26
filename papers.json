@@ -95,24 +95,6 @@
     ]
   },
   {
-    "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
-    "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
-    "year": "2026",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2606.06358v1",
-    "abstract": "RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effects depend on the local environment and sensor configuration, nominal receiver specifications are insufficient, and deployment-specific characterization is required. This paper presents a benchmarking study of an AsteRx-i3 D Pro+ GNSS/INS receiver installed within the mobile Sensor Box developed at KU Leuven. The study combines a real-world bridge-passage case study, static benchmarking, and closed-loop path-following experiments. The static benchmarking evaluates four receiver configurations: standalone GNSS, standalone GNSS with INS integration, RTK-augmented GNSS, and RTK-augmented GNSS with INS integration. The closed-loop experiments use INS-integrated GNSS as the navigation input and compare path-following operational performance with and without RTK augmentation. Results show that correction loss during bridge passage causes reduced positioning accuracy, increased positioning uncertainty and recovery-induced state jumps exceeding 1 m. Static benchmarking and closed-loop experiments confirm that RTK augmentation substantially improves positioning precision and uncertainty consistency, while INS integration supports short-term continuity during RTK unavailability but may introduce drift, bias, or transient uncertainty variations. By characterizing the deployment-specific receiver behavior with RTK augmentation and INS integration, this study motivates higher-level state estimation as a necessary next step toward spatially continuous and uncertainty-consistent positioning on inland waterway. The experimental data are released at: https://doi.org/10.5281/zenodo.20541733.",
-    "keywords": [
-      "gnss",
-      "rtk",
-      "ins",
-      "augmentation",
-      "integration"
-    ],
-    "tags": [
-      "RTK"
-    ]
-  },
-  {
     "title": "Participatory Sensing for Localization of a GNSS Jammer",
     "authors": "Gl\u00e4dje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos",
     "year": "2022",
@@ -128,6 +110,24 @@
     ],
     "tags": [
       "Ionosphere"
+    ]
+  },
+  {
+    "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
+    "authors": "Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets",
+    "year": "2026",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2606.06358v1",
+    "abstract": "RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and correction availability, causing RTK augmentation loss, and GNSS/INS fusion transients. Since these effects depend on the local environment and sensor configuration, nominal receiver specifications are insufficient, and deployment-specific characterization is required. This paper presents a benchmarking study of an AsteRx-i3 D Pro+ GNSS/INS receiver installed within the mobile Sensor Box developed at KU Leuven. The study combines a real-world bridge-passage case study, static benchmarking, and closed-loop path-following experiments. The static benchmarking evaluates four receiver configurations: standalone GNSS, standalone GNSS with INS integration, RTK-augmented GNSS, and RTK-augmented GNSS with INS integration. The closed-loop experiments use INS-integrated GNSS as the navigation input and compare path-following operational performance with and without RTK augmentation. Results show that correction loss during bridge passage causes reduced positioning accuracy, increased positioning uncertainty and recovery-induced state jumps exceeding 1 m. Static benchmarking and closed-loop experiments confirm that RTK augmentation substantially improves positioning precision and uncertainty consistency, while INS integration supports short-term continuity during RTK unavailability but may introduce drift, bias, or transient uncertainty variations. By characterizing the deployment-specific receiver behavior with RTK augmentation and INS integration, this study motivates higher-level state estimation as a necessary next step toward spatially continuous and uncertainty-consistent positioning on inland waterway. The experimental data are released at: https://doi.org/10.5281/zenodo.20541733.",
+    "keywords": [
+      "gnss",
+      "rtk",
+      "ins",
+      "augmentation",
+      "integration"
+    ],
+    "tags": [
+      "RTK"
     ]
   },
   {
@@ -262,24 +262,6 @@
     ]
   },
   {
-    "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
-    "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
-    "year": "2025",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2506.02877v1",
-    "abstract": "Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articulation angle using multiple GNSS for automatic operation of dump trucks. RTK-GNSS is commonly used for automation of construction equipment, but in mountainous areas, mobile networks often unstable, and RTK-GNSS using GNSS reference stations cannot be used. Therefore, this paper develops a state estimation method for dump trucks that does not require a GNSS reference station by using the Centimeter Level Augmentation Service (CLAS) of the Japanese Quasi-Zenith Satellite System (QZSS). Although CLAS is capable of centimeter-level position estimation, its positioning accuracy and ambiguity fix rate are lower than those of RTK-GNSS. To solve this problem, we construct a state estimation method by factor graph optimization that combines CLAS positioning and moving-base RTK-GNSS between multiple GNSS antennas. Evaluation tests under real-world environments have shown that the proposed method can estimate the state of dump trucks with the same accuracy as conventional RTK-GNSS, but does not require a GNSS reference station.",
-    "keywords": [
-      "gnss",
-      "rtk",
-      "dump",
-      "estimation",
-      "state"
-    ],
-    "tags": [
-      "RTK"
-    ]
-  },
-  {
     "title": "The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft",
     "authors": "G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira",
     "year": "2003",
@@ -295,6 +277,24 @@
     ],
     "tags": [
       "Other"
+    ]
+  },
+  {
+    "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
+    "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
+    "year": "2025",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2506.02877v1",
+    "abstract": "Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articulation angle using multiple GNSS for automatic operation of dump trucks. RTK-GNSS is commonly used for automation of construction equipment, but in mountainous areas, mobile networks often unstable, and RTK-GNSS using GNSS reference stations cannot be used. Therefore, this paper develops a state estimation method for dump trucks that does not require a GNSS reference station by using the Centimeter Level Augmentation Service (CLAS) of the Japanese Quasi-Zenith Satellite System (QZSS). Although CLAS is capable of centimeter-level position estimation, its positioning accuracy and ambiguity fix rate are lower than those of RTK-GNSS. To solve this problem, we construct a state estimation method by factor graph optimization that combines CLAS positioning and moving-base RTK-GNSS between multiple GNSS antennas. Evaluation tests under real-world environments have shown that the proposed method can estimate the state of dump trucks with the same accuracy as conventional RTK-GNSS, but does not require a GNSS reference station.",
+    "keywords": [
+      "gnss",
+      "rtk",
+      "dump",
+      "estimation",
+      "state"
+    ],
+    "tags": [
+      "RTK"
     ]
   },
   {
