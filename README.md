@@ -8,6 +8,27 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Enhancing GNSS RTK positioning in complex scenarios: an extended robust strategy integrating random forest-based NLOS probability estimation
+- Zhan, He, Huang (2026)
+- *Journal of Geodesy*
+- **Keywords:** based, complex, enhancing, estimation, extended
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s00190-026-02103-3)
+
+### Continuity-constrained height-segmented correction of the NeQuick topside model using ISIS-2 satellite observations
+- Zhang, Quan, Yao, Song, Liu, Yao (2026)
+- *GPS Solutions*
+- **Keywords:** constrained, continuity, correction, height, isis
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02135-4)
+
+### A correlation-consistent distributed orbit determination and broadcast ephemeris generation scheme for LEO constellations
+- Sun, Chai, Wang, Zhang, Liu, Zhou, Bai (2026)
+- *GPS Solutions*
+- **Keywords:** broadcast, consistent, constellations, correlation, determination
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02136-3)
+
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
@@ -106,19 +127,19 @@ Automatically updated GNSS papers.
 - **Abstract:** This paper introduces a Global Positioning System (GPS) Receiver that locates user's position instantly. Recently, many mobile devices require location information to add user position into their contents, and some applications require quick positioning when the device is initially switched on. In o...
 - [Link](https://arxiv.org/abs/1510.03062v1)
 
-### The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft
-- G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira (2003)
-- *arXiv*
-- **Keywords:** gnss, gps, surface, aircraft, altimetric
-- **Abstract:** We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10...
-- [Link](https://arxiv.org/abs/physics/0310092v1)
-
 ### Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers
 - Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki (2025)
 - *arXiv*
 - **Keywords:** gnss, rtk, dump, estimation, state
 - **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
 - [Link](https://arxiv.org/abs/2506.02877v1)
+
+### The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft
+- G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira (2003)
+- *arXiv*
+- **Keywords:** gnss, gps, surface, aircraft, altimetric
+- **Abstract:** We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10...
+- [Link](https://arxiv.org/abs/physics/0310092v1)
 
 ### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
 - J. -F. Pascual-Sánchez (2004)
@@ -196,25 +217,4 @@ Automatically updated GNSS papers.
 - **Keywords:** monitoring, gnss, data, rtk, based
 - **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
 - [Link](https://arxiv.org/abs/2301.05977v2)
-
-### Soil Moisture Monitorization Using GNSS Reflected Signals
-- Alejandro Egido, Giulio Ruffini, Marco Caparrini, Cristina Martin, Esteve Farres, Xavier Banque (2008)
-- *arXiv*
-- **Keywords:** soil, moisture, signals, gnss, systems
-- **Abstract:** The use of GNSS signals as a source of opportunity for remote sensing applications, GNSS-R, has been a research area of interest for more than a decade. One of the possible applications of this technique is soil moisture monitoring. The retrieval of soil moisture with GNSS-R systems is based on the ...
-- [Link](https://arxiv.org/abs/0805.1881v2)
-
-### Monitoring of the offset between UTC and its prediction broadcast by the GNSS
-- Pascale Defraigne, Elisa Pinat, Gérard Petit, Frédéric Meynadier (2025)
-- *arXiv*
-- **Keywords:** ns, utc, butc_gnss, gnss, offset
-- **Abstract:** We present a new approach to report in the Section 4 of BIPM Circular T daily values of the offset between UTC and the predictions of UTC broadcast by the GNSS, this quantity we name bUTC_GNSS. In this approach, the determination of UTC - bUTC_GNSS is based on data collected by several multi-GNSS st...
-- [Link](https://arxiv.org/abs/2503.02914v1)
-
-### Complexity-Scalable Direct Geolocation and Cancellation of Terrestrial GNSS Jammers: Single-Satellite and Multi-Antenna Experiments in Low Earth Orbit
-- Giacomo Pojani, Javier Tegedor, Joaquim Fortuny-Guasch, Francesco Menzione, David Evans, Tim Oerther, Maximilian Henkel, Jonas Stene Lindbjor (2026)
-- *arXiv*
-- **Keywords:** gnss, geolocation, satellite, jammers, multi
-- **Abstract:** Monitoring the radio-frequency (RF) spectrum from space imposes demanding requirements to satellite platforms in terms of communication bandwidth and computational resources, which are necessary for the downlink, the storage, and the processing of high-throughput I/Q samples. This paper analyzes in ...
-- [Link](https://arxiv.org/abs/2607.02190v1)
 

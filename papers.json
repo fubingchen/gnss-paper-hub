@@ -1,5 +1,60 @@
 [
   {
+    "title": "Enhancing GNSS RTK positioning in complex scenarios: an extended robust strategy integrating random forest-based NLOS probability estimation",
+    "authors": "Zhan, He, Huang",
+    "year": 2026,
+    "journal": "Journal of Geodesy",
+    "url": "https://doi.org/10.1007/s00190-026-02103-3",
+    "abstract": "",
+    "keywords": [
+      "based",
+      "complex",
+      "enhancing",
+      "estimation",
+      "extended"
+    ],
+    "tags": [
+      "RTK"
+    ]
+  },
+  {
+    "title": "Continuity-constrained height-segmented correction of the NeQuick topside model using ISIS-2 satellite observations",
+    "authors": "Zhang, Quan, Yao, Song, Liu, Yao",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02135-4",
+    "abstract": "",
+    "keywords": [
+      "constrained",
+      "continuity",
+      "correction",
+      "height",
+      "isis"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "A correlation-consistent distributed orbit determination and broadcast ephemeris generation scheme for LEO constellations",
+    "authors": "Sun, Chai, Wang, Zhang, Liu, Zhou, Bai",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02136-3",
+    "abstract": "",
+    "keywords": [
+      "broadcast",
+      "consistent",
+      "constellations",
+      "correlation",
+      "determination"
+    ],
+    "tags": [
+      "Orbit",
+      "LEO"
+    ]
+  },
+  {
     "title": "Standalone and RTK GNSS on 30,000 km of North American Highways",
     "authors": "Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia",
     "year": "2019",
@@ -262,24 +317,6 @@
     ]
   },
   {
-    "title": "The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft",
-    "authors": "G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira",
-    "year": "2003",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/physics/0310092v1",
-    "abstract": "We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10 m/s, and significant wave heights of up to 2 m, as discussed further in a companion paper. After software tracking of the two signals through despreading of the GPS codes, a parametric waveform model containing the description of the sea surface conditions has been used to fit the waveforms (retracking) and estimate the temporal lapse between the direct GPS signals and their reflections. The estimated lapses have then been used to estimate the sea surface height (SSH) along the aircraft track using a differential geometric model. As expected, the precision of GNSS-R ranges was of 3 m after 1 second integration. More importantly, the accuracy of the GNSS-R altimetric solution with respect to Jason-1 SSH and in situ GPS buoy measurements was of 10 cm, which was the target with the used experimental setup. This new result confirms the potential of GNSS-R for mesoscale altimetric monitoring of the ocean, and provides an important milestone on the road to a space mission.",
-    "keywords": [
-      "gnss",
-      "gps",
-      "surface",
-      "aircraft",
-      "altimetric"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
     "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
     "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
     "year": "2025",
@@ -295,6 +332,24 @@
     ],
     "tags": [
       "RTK"
+    ]
+  },
+  {
+    "title": "The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft",
+    "authors": "G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira",
+    "year": "2003",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0310092v1",
+    "abstract": "We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10 m/s, and significant wave heights of up to 2 m, as discussed further in a companion paper. After software tracking of the two signals through despreading of the GPS codes, a parametric waveform model containing the description of the sea surface conditions has been used to fit the waveforms (retracking) and estimate the temporal lapse between the direct GPS signals and their reflections. The estimated lapses have then been used to estimate the sea surface height (SSH) along the aircraft track using a differential geometric model. As expected, the precision of GNSS-R ranges was of 3 m after 1 second integration. More importantly, the accuracy of the GNSS-R altimetric solution with respect to Jason-1 SSH and in situ GPS buoy measurements was of 10 cm, which was the target with the used experimental setup. This new result confirms the potential of GNSS-R for mesoscale altimetric monitoring of the ocean, and provides an important milestone on the road to a space mission.",
+    "keywords": [
+      "gnss",
+      "gps",
+      "surface",
+      "aircraft",
+      "altimetric"
+    ],
+    "tags": [
+      "Other"
     ]
   },
   {
@@ -638,6 +693,25 @@
     ]
   },
   {
+    "title": "The optical imager Galileo (OIG)",
+    "authors": "Bortoletto F., Benetti S., Bonanno G., Bonoli C., Cosentino R., D'Alessandro M., Fantinel D., Ghedina A., Giro E., Magazzu A., Pernechele C., Vuerli C",
+    "year": "2023",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2302.11228v1",
+    "abstract": "The present paper describes the construction, the installation and the operation of the Optical Imager Galileo (OIG), a scientific instrument dedicated to the 'imaging' in the visible. OIG was the first instrument installed on the focal plane of the Telescopio Nazionale Galileo (TNG) and it has been extensively used for the functional verification of several parts of the telescope (as an example the optical quality, the rejection of spurious light, the active optics and the tracking), in the same way also several parts of the TNG informatics system (instrument commanding, telemetry and data archiving) have been verified making extensive use of OIG. This paper provides also a frame of work for a further development of the imaging dedicated instrumentation inside TNG. OIG, coupled with the first near-IR camera (ARNICA), has been the 'workhorse instrument' during the first period of telescope experimental and scientific scheduling.",
+    "keywords": [
+      "oig",
+      "instrument",
+      "galileo",
+      "optical",
+      "tng"
+    ],
+    "tags": [
+      "LEO",
+      "Multi-GNSS"
+    ]
+  },
+  {
     "title": "Insights into Xona Pulsar LEO PNT: Constellation, Signals, and Receiver Design",
     "authors": "J\u00e9r\u00f4me Lecl\u00e8re, Thyagaraja Marathe, Tyler G. R. Reid",
     "year": "2025",
@@ -655,25 +729,6 @@
       "Orbit",
       "Ionosphere",
       "LEO"
-    ]
-  },
-  {
-    "title": "The optical imager Galileo (OIG)",
-    "authors": "Bortoletto F., Benetti S., Bonanno G., Bonoli C., Cosentino R., D'Alessandro M., Fantinel D., Ghedina A., Giro E., Magazzu A., Pernechele C., Vuerli C",
-    "year": "2023",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2302.11228v1",
-    "abstract": "The present paper describes the construction, the installation and the operation of the Optical Imager Galileo (OIG), a scientific instrument dedicated to the 'imaging' in the visible. OIG was the first instrument installed on the focal plane of the Telescopio Nazionale Galileo (TNG) and it has been extensively used for the functional verification of several parts of the telescope (as an example the optical quality, the rejection of spurious light, the active optics and the tracking), in the same way also several parts of the TNG informatics system (instrument commanding, telemetry and data archiving) have been verified making extensive use of OIG. This paper provides also a frame of work for a further development of the imaging dedicated instrumentation inside TNG. OIG, coupled with the first near-IR camera (ARNICA), has been the 'workhorse instrument' during the first period of telescope experimental and scientific scheduling.",
-    "keywords": [
-      "oig",
-      "instrument",
-      "galileo",
-      "optical",
-      "tng"
-    ],
-    "tags": [
-      "LEO",
-      "Multi-GNSS"
     ]
   },
   {
