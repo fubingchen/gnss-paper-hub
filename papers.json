@@ -317,24 +317,6 @@
     ]
   },
   {
-    "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
-    "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
-    "year": "2025",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2506.02877v1",
-    "abstract": "Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articulation angle using multiple GNSS for automatic operation of dump trucks. RTK-GNSS is commonly used for automation of construction equipment, but in mountainous areas, mobile networks often unstable, and RTK-GNSS using GNSS reference stations cannot be used. Therefore, this paper develops a state estimation method for dump trucks that does not require a GNSS reference station by using the Centimeter Level Augmentation Service (CLAS) of the Japanese Quasi-Zenith Satellite System (QZSS). Although CLAS is capable of centimeter-level position estimation, its positioning accuracy and ambiguity fix rate are lower than those of RTK-GNSS. To solve this problem, we construct a state estimation method by factor graph optimization that combines CLAS positioning and moving-base RTK-GNSS between multiple GNSS antennas. Evaluation tests under real-world environments have shown that the proposed method can estimate the state of dump trucks with the same accuracy as conventional RTK-GNSS, but does not require a GNSS reference station.",
-    "keywords": [
-      "gnss",
-      "rtk",
-      "dump",
-      "estimation",
-      "state"
-    ],
-    "tags": [
-      "RTK"
-    ]
-  },
-  {
     "title": "The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft",
     "authors": "G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira",
     "year": "2003",
@@ -350,6 +332,24 @@
     ],
     "tags": [
       "Other"
+    ]
+  },
+  {
+    "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
+    "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
+    "year": "2025",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2506.02877v1",
+    "abstract": "Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articulation angle using multiple GNSS for automatic operation of dump trucks. RTK-GNSS is commonly used for automation of construction equipment, but in mountainous areas, mobile networks often unstable, and RTK-GNSS using GNSS reference stations cannot be used. Therefore, this paper develops a state estimation method for dump trucks that does not require a GNSS reference station by using the Centimeter Level Augmentation Service (CLAS) of the Japanese Quasi-Zenith Satellite System (QZSS). Although CLAS is capable of centimeter-level position estimation, its positioning accuracy and ambiguity fix rate are lower than those of RTK-GNSS. To solve this problem, we construct a state estimation method by factor graph optimization that combines CLAS positioning and moving-base RTK-GNSS between multiple GNSS antennas. Evaluation tests under real-world environments have shown that the proposed method can estimate the state of dump trucks with the same accuracy as conventional RTK-GNSS, but does not require a GNSS reference station.",
+    "keywords": [
+      "gnss",
+      "rtk",
+      "dump",
+      "estimation",
+      "state"
+    ],
+    "tags": [
+      "RTK"
     ]
   },
   {
@@ -693,25 +693,6 @@
     ]
   },
   {
-    "title": "The optical imager Galileo (OIG)",
-    "authors": "Bortoletto F., Benetti S., Bonanno G., Bonoli C., Cosentino R., D'Alessandro M., Fantinel D., Ghedina A., Giro E., Magazzu A., Pernechele C., Vuerli C",
-    "year": "2023",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2302.11228v1",
-    "abstract": "The present paper describes the construction, the installation and the operation of the Optical Imager Galileo (OIG), a scientific instrument dedicated to the 'imaging' in the visible. OIG was the first instrument installed on the focal plane of the Telescopio Nazionale Galileo (TNG) and it has been extensively used for the functional verification of several parts of the telescope (as an example the optical quality, the rejection of spurious light, the active optics and the tracking), in the same way also several parts of the TNG informatics system (instrument commanding, telemetry and data archiving) have been verified making extensive use of OIG. This paper provides also a frame of work for a further development of the imaging dedicated instrumentation inside TNG. OIG, coupled with the first near-IR camera (ARNICA), has been the 'workhorse instrument' during the first period of telescope experimental and scientific scheduling.",
-    "keywords": [
-      "oig",
-      "instrument",
-      "galileo",
-      "optical",
-      "tng"
-    ],
-    "tags": [
-      "LEO",
-      "Multi-GNSS"
-    ]
-  },
-  {
     "title": "Insights into Xona Pulsar LEO PNT: Constellation, Signals, and Receiver Design",
     "authors": "J\u00e9r\u00f4me Lecl\u00e8re, Thyagaraja Marathe, Tyler G. R. Reid",
     "year": "2025",
@@ -729,6 +710,25 @@
       "Orbit",
       "Ionosphere",
       "LEO"
+    ]
+  },
+  {
+    "title": "The optical imager Galileo (OIG)",
+    "authors": "Bortoletto F., Benetti S., Bonanno G., Bonoli C., Cosentino R., D'Alessandro M., Fantinel D., Ghedina A., Giro E., Magazzu A., Pernechele C., Vuerli C",
+    "year": "2023",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2302.11228v1",
+    "abstract": "The present paper describes the construction, the installation and the operation of the Optical Imager Galileo (OIG), a scientific instrument dedicated to the 'imaging' in the visible. OIG was the first instrument installed on the focal plane of the Telescopio Nazionale Galileo (TNG) and it has been extensively used for the functional verification of several parts of the telescope (as an example the optical quality, the rejection of spurious light, the active optics and the tracking), in the same way also several parts of the TNG informatics system (instrument commanding, telemetry and data archiving) have been verified making extensive use of OIG. This paper provides also a frame of work for a further development of the imaging dedicated instrumentation inside TNG. OIG, coupled with the first near-IR camera (ARNICA), has been the 'workhorse instrument' during the first period of telescope experimental and scientific scheduling.",
+    "keywords": [
+      "oig",
+      "instrument",
+      "galileo",
+      "optical",
+      "tng"
+    ],
+    "tags": [
+      "LEO",
+      "Multi-GNSS"
     ]
   },
   {
