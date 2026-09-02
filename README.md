@@ -141,19 +141,19 @@ Automatically updated GNSS papers.
 - **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
 - [Link](https://arxiv.org/abs/2506.02877v1)
 
-### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
-- J. -F. Pascual-Sánchez (2004)
-- *arXiv*
-- **Keywords:** gps, galileo, glonass, project, alternative
-- **Abstract:** Nowadays, the Global Navigation Satellite Systems (GNSS), working like global positioning systems, are the GPS (NAVSTAR) and the GLONASS, which only are operative when several relativistic effects are corrected. In the next years the Galileo system will be constructed, copying the GPS System if ther...
-- [Link](https://arxiv.org/abs/gr-qc/0405100v1)
-
 ### Decoding PPP Corrections from BDS B2b Signals Using a Software-defined Receiver: an Initial Performance Evaluation
 - Xiangchen Lu, Liang Chen, Nan Shen, Lei Wang, Zhenhang Jiao, Ruizhi Chen (2020)
 - *arXiv*
 - **Keywords:** ppp, bds, corrections, service, b2b
 - **Abstract:** With the rapid development of China's BeiDou Navigation Satellite System(BDS), the application of real-time precise point positioning (RTPPP) based on BDS has become an active research area in the field of Global Navigation Satellite System (GNSS). BDS has provided the service of broadcasting RTPPP ...
 - [Link](https://arxiv.org/abs/2011.13539v1)
+
+### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
+- J. -F. Pascual-Sánchez (2004)
+- *arXiv*
+- **Keywords:** gps, galileo, glonass, project, alternative
+- **Abstract:** Nowadays, the Global Navigation Satellite Systems (GNSS), working like global positioning systems, are the GPS (NAVSTAR) and the GLONASS, which only are operative when several relativistic effects are corrected. In the next years the Galileo system will be constructed, copying the GPS System if ther...
+- [Link](https://arxiv.org/abs/gr-qc/0405100v1)
 
 ### PARFAIT: GNSS-R coastal altimetry
 - M. Caparrini, L. Ruffini, G. Ruffini (2003)

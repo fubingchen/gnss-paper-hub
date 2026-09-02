@@ -353,26 +353,6 @@
     ]
   },
   {
-    "title": "Efectos relativistas en los sistemas Galileo, GPS y GLONASS",
-    "authors": "J. -F. Pascual-S\u00e1nchez",
-    "year": "2004",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/gr-qc/0405100v1",
-    "abstract": "Nowadays, the Global Navigation Satellite Systems (GNSS), working like global positioning systems, are the GPS (NAVSTAR) and the GLONASS, which only are operative when several relativistic effects are corrected. In the next years the Galileo system will be constructed, copying the GPS System if there is no an alternative project. In this work, it will be exposed that there is one alternative to the mere copy by means of the SYPOR project, using relativistic concepts, and without utilize the Newtonian ideas that are in the basic conception, so much of the GPS as of the GLONASS. According to the SYPOR project, the Galileo system would be exact, with no need of corrections, and it would have additional technological advantages.",
-    "keywords": [
-      "gps",
-      "galileo",
-      "glonass",
-      "project",
-      "alternative"
-    ],
-    "tags": [
-      "Ionosphere",
-      "LEO",
-      "Multi-GNSS"
-    ]
-  },
-  {
     "title": "Decoding PPP Corrections from BDS B2b Signals Using a Software-defined Receiver: an Initial Performance Evaluation",
     "authors": "Xiangchen Lu, Liang Chen, Nan Shen, Lei Wang, Zhenhang Jiao, Ruizhi Chen",
     "year": "2020",
@@ -390,6 +370,26 @@
       "PPP",
       "Orbit",
       "Clock",
+      "Ionosphere",
+      "LEO",
+      "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Efectos relativistas en los sistemas Galileo, GPS y GLONASS",
+    "authors": "J. -F. Pascual-S\u00e1nchez",
+    "year": "2004",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/gr-qc/0405100v1",
+    "abstract": "Nowadays, the Global Navigation Satellite Systems (GNSS), working like global positioning systems, are the GPS (NAVSTAR) and the GLONASS, which only are operative when several relativistic effects are corrected. In the next years the Galileo system will be constructed, copying the GPS System if there is no an alternative project. In this work, it will be exposed that there is one alternative to the mere copy by means of the SYPOR project, using relativistic concepts, and without utilize the Newtonian ideas that are in the basic conception, so much of the GPS as of the GLONASS. According to the SYPOR project, the Galileo system would be exact, with no need of corrections, and it would have additional technological advantages.",
+    "keywords": [
+      "gps",
+      "galileo",
+      "glonass",
+      "project",
+      "alternative"
+    ],
+    "tags": [
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
