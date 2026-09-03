@@ -15,6 +15,13 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s00190-026-02103-3)
 
+### A modified threshold model of HMW combination for detecting cycle slips in high-latitude regions during ionospheric scintillation periods
+- Zhao, Zhang, Cui, Zhang, Li, Hancock (2026)
+- *GPS Solutions*
+- **Keywords:** combination, cycle, detecting, high, hmw
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02137-2)
+
 ### Continuity-constrained height-segmented correction of the NeQuick topside model using ISIS-2 satellite observations
 - Zhang, Quan, Yao, Song, Liu, Yao (2026)
 - *GPS Solutions*
@@ -210,11 +217,4 @@ Automatically updated GNSS papers.
 - **Keywords:** factor, gnss, graph, navigation, inertial
 - **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
 - [Link](https://arxiv.org/abs/2112.07176v1)
-
-### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
-- Junming Wang, Yi Shi (2023)
-- *arXiv*
-- **Keywords:** monitoring, gnss, data, rtk, based
-- **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
-- [Link](https://arxiv.org/abs/2301.05977v2)
 
