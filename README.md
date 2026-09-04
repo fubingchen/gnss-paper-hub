@@ -8,12 +8,21 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
-### Enhancing GNSS RTK positioning in complex scenarios: an extended robust strategy integrating random forest-based NLOS probability estimation
-- Zhan, He, Huang (2026)
-- *Journal of Geodesy*
-- **Keywords:** based, complex, enhancing, estimation, extended
+### Improved GRACE-FO orbit determination during the 2024 intense geomagnetic storms using onboard accelerometer measurements
+- She, Huang, Hernández-Pajares, Olivares-Pulido, Wang, Zhu, Lai (2026)
+- *GPS Solutions*
+- **Keywords:** 2024, accelerometer, determination, fo, geomagnetic
 - **Abstract:** ...
-- [Link](https://doi.org/10.1007/s00190-026-02103-3)
+- [Link](https://doi.org/10.1007/s10291-026-02104-x)
+
+### Characterizing ionospheric perturbations with refined gradient ionosphere indices
+- Jakowski, Hoque, Cahuasquí, Nykiel (2026)
+- *GPS Solutions*
+- **Keywords:** gixm, gradient, gix, gixv, gradients
+- **Abstract:** Abstract
+                  
+                    Precision and safety-critical Global Navigation Satellite System (GNSS) applications require high-fidelity monitoring of space weather conditions, particularly ionospheric disturbances. These systems are highly sensitive to sharp spatial gradients and ...
+- [Link](https://doi.org/10.1007/s10291-026-02143-4)
 
 ### A modified threshold model of HMW combination for detecting cycle slips in high-latitude regions during ionospheric scintillation periods
 - Zhao, Zhang, Cui, Zhang, Li, Hancock (2026)
@@ -210,11 +219,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, avs, framework, model, attacks
 - **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
 - [Link](https://arxiv.org/abs/2405.08359v2)
-
-### ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots
-- Cagri Kilic, Shounak Das, Eduardo Gutierrez, Ryan Watson, Jason Gross (2021)
-- *arXiv*
-- **Keywords:** factor, gnss, graph, navigation, inertial
-- **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
-- [Link](https://arxiv.org/abs/2112.07176v1)
 

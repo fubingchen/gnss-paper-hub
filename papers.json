@@ -1,20 +1,38 @@
 [
   {
-    "title": "Enhancing GNSS RTK positioning in complex scenarios: an extended robust strategy integrating random forest-based NLOS probability estimation",
-    "authors": "Zhan, He, Huang",
+    "title": "Improved GRACE-FO orbit determination during the 2024 intense geomagnetic storms using onboard accelerometer measurements",
+    "authors": "She, Huang, Hern\u00e1ndez-Pajares, Olivares-Pulido, Wang, Zhu, Lai",
     "year": 2026,
-    "journal": "Journal of Geodesy",
-    "url": "https://doi.org/10.1007/s00190-026-02103-3",
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02104-x",
     "abstract": "",
     "keywords": [
-      "based",
-      "complex",
-      "enhancing",
-      "estimation",
-      "extended"
+      "2024",
+      "accelerometer",
+      "determination",
+      "fo",
+      "geomagnetic"
     ],
     "tags": [
-      "RTK"
+      "Orbit"
+    ]
+  },
+  {
+    "title": "Characterizing ionospheric perturbations with refined gradient ionosphere indices",
+    "authors": "Jakowski, Hoque, Cahuasqu\u00ed, Nykiel",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02143-4",
+    "abstract": "Abstract\n                  \n                    Precision and safety-critical Global Navigation Satellite System (GNSS) applications require high-fidelity monitoring of space weather conditions, particularly ionospheric disturbances. These systems are highly sensitive to sharp spatial gradients and rapid Total Electron Content (TEC) variations. To support both operational and scientific needs, this study proposes and evaluates two variants of the Gradient Ionosphere indeX (GIX): GIXM and GIXV. Derived from absolute TEC measurements at pairs of ionospheric piercing points (IPPs), the GIX quantifies gradients by dividing the TEC difference by the distance between IPPs. The GIXM method calculates the scalar average of these gradients, while GIXV computes the resultant gradient vector over regional scales (typically\u2009\u2265\u2009500\u2009\u00d7\u2009500 km\n                    2\n                    ) to capture both magnitude and direction. Comparative analysis reveals a strong correlation between GIXM and the operational geodetic I95 index, confirming GIXM\u2019s utility for disturbance scaling and reliability assessment. Accurate estimation of the GIXV vector requires sufficient spatial coverage, typically involving 35\u201345 IPPs. Furthermore, analyzing GIX dynamics within the Magnetosphere-Ionosphere-Thermosphere (MIT) framework demonstrates potential for predictive modeling. By tracking the equatorward propagation of high-latitude gradient structures, this framework enables the forecasting of GIXM\n                    I95\n                    levels, offering a robust tool for mitigating GNSS risks.\n                  ",
+    "keywords": [
+      "gixm",
+      "gradient",
+      "gix",
+      "gixv",
+      "gradients"
+    ],
+    "tags": [
+      "Ionosphere"
     ]
   },
   {
