@@ -54,43 +54,6 @@
     ]
   },
   {
-    "title": "Continuity-constrained height-segmented correction of the NeQuick topside model using ISIS-2 satellite observations",
-    "authors": "Zhang, Quan, Yao, Song, Liu, Yao",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02135-4",
-    "abstract": "",
-    "keywords": [
-      "constrained",
-      "continuity",
-      "correction",
-      "height",
-      "isis"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "A correlation-consistent distributed orbit determination and broadcast ephemeris generation scheme for LEO constellations",
-    "authors": "Sun, Chai, Wang, Zhang, Liu, Zhou, Bai",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02136-3",
-    "abstract": "",
-    "keywords": [
-      "broadcast",
-      "consistent",
-      "constellations",
-      "correlation",
-      "determination"
-    ],
-    "tags": [
-      "Orbit",
-      "LEO"
-    ]
-  },
-  {
     "title": "Standalone and RTK GNSS on 30,000 km of North American Highways",
     "authors": "Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia",
     "year": "2019",

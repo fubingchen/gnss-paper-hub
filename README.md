@@ -31,20 +31,6 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02137-2)
 
-### Continuity-constrained height-segmented correction of the NeQuick topside model using ISIS-2 satellite observations
-- Zhang, Quan, Yao, Song, Liu, Yao (2026)
-- *GPS Solutions*
-- **Keywords:** constrained, continuity, correction, height, isis
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02135-4)
-
-### A correlation-consistent distributed orbit determination and broadcast ephemeris generation scheme for LEO constellations
-- Sun, Chai, Wang, Zhang, Liu, Zhou, Bai (2026)
-- *GPS Solutions*
-- **Keywords:** broadcast, consistent, constellations, correlation, determination
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02136-3)
-
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
@@ -219,4 +205,18 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, avs, framework, model, attacks
 - **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
 - [Link](https://arxiv.org/abs/2405.08359v2)
+
+### ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots
+- Cagri Kilic, Shounak Das, Eduardo Gutierrez, Ryan Watson, Jason Gross (2021)
+- *arXiv*
+- **Keywords:** factor, gnss, graph, navigation, inertial
+- **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
+- [Link](https://arxiv.org/abs/2112.07176v1)
+
+### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
+- Junming Wang, Yi Shi (2023)
+- *arXiv*
+- **Keywords:** monitoring, gnss, data, rtk, based
+- **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
+- [Link](https://arxiv.org/abs/2301.05977v2)
 
