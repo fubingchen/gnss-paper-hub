@@ -8,6 +8,21 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Nottingham smartphone GNSS Raw to RINEX (NSGRX) Converter: a new smartphone data converter: principles, methodology and experimental evaluation
+- Khigani, Psimoulis, Blunt, Xue, Hancock (2026)
+- *GPS Solutions*
+- **Keywords:** rinex, gnss, nsgrx, files, smartphone
+- **Abstract:** Abstract
+                  With the widespread availability of Android’s raw GNSS API, there is a growing demand for reliable tools that convert smartphone GNSS logs into standard RINEX files for post processing. Existing solutions often omit observables, mislabel frequencies, or provide unstable ou...
+- [Link](https://doi.org/10.1007/s10291-026-02141-6)
+
+### Decision tree model-aided LEO real-time ambiguity-fixed precise orbit determination with hierarchical integer constraint
+- Zhao, Zhang, Li, Li (2026)
+- *GPS Solutions*
+- **Keywords:** aided, ambiguity, constraint, decision, determination
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02140-7)
+
 ### Improved GRACE-FO orbit determination during the 2024 intense geomagnetic storms using onboard accelerometer measurements
 - She, Huang, Hernández-Pajares, Olivares-Pulido, Wang, Zhu, Lai (2026)
 - *GPS Solutions*
@@ -129,13 +144,6 @@ Automatically updated GNSS papers.
 - **Abstract:** This paper introduces a Global Positioning System (GPS) Receiver that locates user's position instantly. Recently, many mobile devices require location information to add user position into their contents, and some applications require quick positioning when the device is initially switched on. In o...
 - [Link](https://arxiv.org/abs/1510.03062v1)
 
-### The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft
-- G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira (2003)
-- *arXiv*
-- **Keywords:** gnss, gps, surface, aircraft, altimetric
-- **Abstract:** We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10...
-- [Link](https://arxiv.org/abs/physics/0310092v1)
-
 ### Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers
 - Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki (2025)
 - *arXiv*
@@ -143,12 +151,12 @@ Automatically updated GNSS papers.
 - **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
 - [Link](https://arxiv.org/abs/2506.02877v1)
 
-### Decoding PPP Corrections from BDS B2b Signals Using a Software-defined Receiver: an Initial Performance Evaluation
-- Xiangchen Lu, Liang Chen, Nan Shen, Lei Wang, Zhenhang Jiao, Ruizhi Chen (2020)
+### The GNSS-R Eddy Experiment I: Altimetry from Low Altitude Aircraft
+- G. Ruffini, F. Soulat, M. Caparrini, O. Germain, M. Martin-Neira (2003)
 - *arXiv*
-- **Keywords:** ppp, bds, corrections, service, b2b
-- **Abstract:** With the rapid development of China's BeiDou Navigation Satellite System(BDS), the application of real-time precise point positioning (RTPPP) based on BDS has become an active research area in the field of Global Navigation Satellite System (GNSS). BDS has provided the service of broadcasting RTPPP ...
-- [Link](https://arxiv.org/abs/2011.13539v1)
+- **Keywords:** gnss, gps, surface, aircraft, altimetric
+- **Abstract:** We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10...
+- [Link](https://arxiv.org/abs/physics/0310092v1)
 
 ### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
 - J. -F. Pascual-Sánchez (2004)
@@ -156,6 +164,13 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, galileo, glonass, project, alternative
 - **Abstract:** Nowadays, the Global Navigation Satellite Systems (GNSS), working like global positioning systems, are the GPS (NAVSTAR) and the GLONASS, which only are operative when several relativistic effects are corrected. In the next years the Galileo system will be constructed, copying the GPS System if ther...
 - [Link](https://arxiv.org/abs/gr-qc/0405100v1)
+
+### Decoding PPP Corrections from BDS B2b Signals Using a Software-defined Receiver: an Initial Performance Evaluation
+- Xiangchen Lu, Liang Chen, Nan Shen, Lei Wang, Zhenhang Jiao, Ruizhi Chen (2020)
+- *arXiv*
+- **Keywords:** ppp, bds, corrections, service, b2b
+- **Abstract:** With the rapid development of China's BeiDou Navigation Satellite System(BDS), the application of real-time precise point positioning (RTPPP) based on BDS has become an active research area in the field of Global Navigation Satellite System (GNSS). BDS has provided the service of broadcasting RTPPP ...
+- [Link](https://arxiv.org/abs/2011.13539v1)
 
 ### PARFAIT: GNSS-R coastal altimetry
 - M. Caparrini, L. Ruffini, G. Ruffini (2003)
@@ -205,18 +220,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, avs, framework, model, attacks
 - **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
 - [Link](https://arxiv.org/abs/2405.08359v2)
-
-### ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots
-- Cagri Kilic, Shounak Das, Eduardo Gutierrez, Ryan Watson, Jason Gross (2021)
-- *arXiv*
-- **Keywords:** factor, gnss, graph, navigation, inertial
-- **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
-- [Link](https://arxiv.org/abs/2112.07176v1)
-
-### Design of GNSS-RTK Landslide Monitoring System Based on Improved Raida Criterion
-- Junming Wang, Yi Shi (2023)
-- *arXiv*
-- **Keywords:** monitoring, gnss, data, rtk, based
-- **Abstract:** Aiming at the problem that GNSS-RTK technology cannot effectively monitor landslides due to gross errors and high-frequency noise during landslide monitoring, a GNSS-RTK landslide monitoring system based on the improved Raida criterion(3σ) was designed. The system uses Raspberry Pi as the control co...
-- [Link](https://arxiv.org/abs/2301.05977v2)
 
