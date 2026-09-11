@@ -8,6 +8,28 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Explainable machine learning empowers Tianmu-1 spaceborne GNSS-R soil moisture inversion: mechanism analysis and accuracy improvement from orbital-point assessment to multi-system weighted grid construction
+- Zheng, Xu, Xin, Yang (2026)
+- *Journal of Geodesy*
+- **Keywords:** accuracy, analysis, assessment, construction, empowers
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s00190-026-02109-x)
+
+### High-precision ionospheric TEC model over China based on ensemble trees
+- Chen, Yao, Peng, Zhang (2026)
+- *GPS Solutions*
+- **Keywords:** based, china, ensemble, high, ionospheric
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02142-5)
+
+### A generalized, outage period-aware CNN-BiLSTM architecture for real-world INS/GPS deployment under extended GNSS denials
+- Nasr, Mostafa, Maher, Kamel (2026)
+- *GPS Solutions*
+- **Keywords:** gps, real, signal, world, bilstm
+- **Abstract:** Abstract
+                  GPS signal outages present a fundamental challenge for low-cost integrated navigation systems, leading to unbounded error growth in the Inertial Navigation System (INS). Although the traditional filtering techniques provide a substantial Performance enhancement in GPS-INS ...
+- [Link](https://doi.org/10.1007/s10291-026-02139-0)
+
 ### Nottingham smartphone GNSS Raw to RINEX (NSGRX) Converter: a new smartphone data converter: principles, methodology and experimental evaluation
 - Khigani, Psimoulis, Blunt, Xue, Hancock (2026)
 - *GPS Solutions*
@@ -22,29 +44,6 @@ Automatically updated GNSS papers.
 - **Keywords:** aided, ambiguity, constraint, decision, determination
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02140-7)
-
-### Improved GRACE-FO orbit determination during the 2024 intense geomagnetic storms using onboard accelerometer measurements
-- She, Huang, Hernández-Pajares, Olivares-Pulido, Wang, Zhu, Lai (2026)
-- *GPS Solutions*
-- **Keywords:** 2024, accelerometer, determination, fo, geomagnetic
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02104-x)
-
-### Characterizing ionospheric perturbations with refined gradient ionosphere indices
-- Jakowski, Hoque, Cahuasquí, Nykiel (2026)
-- *GPS Solutions*
-- **Keywords:** gixm, gradient, gix, gixv, gradients
-- **Abstract:** Abstract
-                  
-                    Precision and safety-critical Global Navigation Satellite System (GNSS) applications require high-fidelity monitoring of space weather conditions, particularly ionospheric disturbances. These systems are highly sensitive to sharp spatial gradients and ...
-- [Link](https://doi.org/10.1007/s10291-026-02143-4)
-
-### A modified threshold model of HMW combination for detecting cycle slips in high-latitude regions during ionospheric scintillation periods
-- Zhao, Zhang, Cui, Zhang, Li, Hancock (2026)
-- *GPS Solutions*
-- **Keywords:** combination, cycle, detecting, high, hmw
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02137-2)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -74,19 +73,19 @@ Automatically updated GNSS papers.
 - **Abstract:** At least ten emerging providers are developing satellite navigation systems for low Earth orbit (LEO). Compatibility with existing GNSS in L-band is critical to their successful deployment and for the larger ecosystem. Xona is deploying Pulsar, a near 260-satellite LEO constellation offering dual L-...
 - [Link](https://arxiv.org/abs/2509.16183v3)
 
-### Robust state and protection-level estimation within tightly coupled GNSS/INS navigation system
-- Shuchen Liu, Kaizheng Wang, Dirk Abel (2021)
-- *arXiv*
-- **Keywords:** navigation, estimation, gnss, level, protection
-- **Abstract:** In autonomous applications for mobility and transport, a high-rate and highly accurate vehicle-state estimation is achieved by fusing measurements of global navigation satellite systems (GNSS) and inertial sensors. The state estimation and its protection-level generation often suffer from satellite-...
-- [Link](https://arxiv.org/abs/2103.10696v3)
-
 ### Participatory Sensing for Localization of a GNSS Jammer
 - Glädje Karl Olsson, Erik Axell, Erik G. Larsson, Panos Papadimitratos (2022)
 - *arXiv*
 - **Keywords:** sensing, gnss, jamming, localization, participatory
 - **Abstract:** GNSS receivers are vulnerable to jamming and spoofing attacks, and numerous such incidents have been reported worldwide in the last decade. It is important to detect attacks fast and localize attackers, which can be hard if not impossible without dedicated sensing infrastructure. The notion of parti...
 - [Link](https://arxiv.org/abs/2204.13974v1)
+
+### Robust state and protection-level estimation within tightly coupled GNSS/INS navigation system
+- Shuchen Liu, Kaizheng Wang, Dirk Abel (2021)
+- *arXiv*
+- **Keywords:** navigation, estimation, gnss, level, protection
+- **Abstract:** In autonomous applications for mobility and transport, a high-rate and highly accurate vehicle-state estimation is achieved by fusing measurements of global navigation satellite systems (GNSS) and inertial sensors. The state estimation and its protection-level generation often suffer from satellite-...
+- [Link](https://arxiv.org/abs/2103.10696v3)
 
 ### Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways
 - Yan-Yun Zhang, Jef Billet, Jan Swevers, Peter Slaets (2026)
