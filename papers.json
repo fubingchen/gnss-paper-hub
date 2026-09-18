@@ -1,23 +1,5 @@
 [
   {
-    "title": "Explainable machine learning empowers Tianmu-1 spaceborne GNSS-R soil moisture inversion: mechanism analysis and accuracy improvement from orbital-point assessment to multi-system weighted grid construction",
-    "authors": "Zheng, Xu, Xin, Yang",
-    "year": 2026,
-    "journal": "Journal of Geodesy",
-    "url": "https://doi.org/10.1007/s00190-026-02109-x",
-    "abstract": "",
-    "keywords": [
-      "accuracy",
-      "analysis",
-      "assessment",
-      "construction",
-      "empowers"
-    ],
-    "tags": [
-      "Orbit"
-    ]
-  },
-  {
     "title": "Multi-location study on the scintillation under alignment of GNSS signals with EPB and its effects on positioning in low latitudes",
     "authors": "Gong, Wang, Guo, de Oliveira Moraes, Galera Monico",
     "year": 2026,
@@ -33,24 +15,6 @@
     ],
     "tags": [
       "Other"
-    ]
-  },
-  {
-    "title": "High-precision ionospheric TEC model over China based on ensemble trees",
-    "authors": "Chen, Yao, Peng, Zhang",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02142-5",
-    "abstract": "",
-    "keywords": [
-      "based",
-      "china",
-      "ensemble",
-      "high",
-      "ionospheric"
-    ],
-    "tags": [
-      "Ionosphere"
     ]
   }
 ]
