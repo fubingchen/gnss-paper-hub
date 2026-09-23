@@ -1,5 +1,23 @@
 [
   {
+    "title": "Correction: Projected BIE: a new unbiased minimum variance estimator for the mixed-integer GNSS model",
+    "authors": "Teunissen",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02134-5",
+    "abstract": "",
+    "keywords": [
+      "bie",
+      "correction",
+      "estimator",
+      "gnss",
+      "integer"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
     "title": "Multi-location study on the scintillation under alignment of GNSS signals with EPB and its effects on positioning in low latitudes",
     "authors": "Gong, Wang, Guo, de Oliveira Moraes, Galera Monico",
     "year": 2026,
