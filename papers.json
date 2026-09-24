@@ -1,5 +1,62 @@
 [
   {
+    "title": "Residual unwrapping and stacking for mitigating large-magnitude GNSS phase multipath and diffraction errors",
+    "authors": "Tian, Zhang, Dai, Sun, Wen",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02149-y",
+    "abstract": "",
+    "keywords": [
+      "diffraction",
+      "errors",
+      "gnss",
+      "large",
+      "magnitude"
+    ],
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "Analysis of Tonga eruption-induced disturbances in the upper thermosphere based on atmospheric drag accelerations from LEO satellites",
+    "authors": "She, Hern\u00e1ndez-Pajares, Olivares-Pulido, Huang, Wang, Zhu, Lai",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02150-5",
+    "abstract": "Abstract\n                  \n                    The violent eruption of the Tonga volcano on 15 January 2022 triggered significant disturbances in the atmosphere and ionosphere. However, limited observational capabilities have persistently hindered the characterization of eruption-induced neutral density disturbances in the upper thermosphere. In this study, the atmospheric drag accelerations of five low Earth orbit (LEO) satellites operating at altitudes at ~\u00a0430\u00a0km and ~\u00a0500\u00a0km, including SWARM-A/B/C and GRACE-C/D, are derived from reduced-dynamic precise orbit determination. Based on these data, possible anomalous perturbations associated with the Tonga eruption are identified, and their propagation characteristics are further analyzed. Following the eruption, between 08:00 and 16:00 UT, a large-scale density depletion centered around Tonga with a radius of approximately 10,000\u00a0km is observed, nearly covering the regions of Australia and the Pacific Ocean. In addition, a significant density enhancement is detected to the west of the antipode. Analysis results indicate that these large-scale disturbances in atmospheric drag (AD) acceleration are more likely caused by the propagation of gravity waves (GWs), with vertical speeds\n                    \n                      $$\\:{c}_{V}\\cong\\:$$\n                    \n                    40.3\u201367.6\u00a0m/s, horizontal speeds\n                    \n                      $$\\:{c}_{H}\\cong\\:$$\n                    \n                    613.9\u2013677.1\u00a0m/s at ~\u00a0500\u00a0km height and\n                    \n                      $$\\:{c}_{H}\\cong\\:$$\n                    \n                    568.0\u2013593.9\u00a0m/s at ~\u00a0430\u00a0km height. Moreover, a comparison of AD acceleration variations from SWARM-A and SWARM-B suggests that neutral density disturbances caused by GWs may take longer to dissipate at higher altitudes. However, a definitive explanation for this phenomenon remains unclear at present. This study demonstrates the feasibility of using LEO satellites as mobile \u201ccameras\u201d to detect natural hazards-induced neutral density disturbances at their orbital altitudes. Additionally, the dynamic orbits and limited availability of LEO satellites make it difficult to capture large-scale, simultaneous observations of neutral density. Nevertheless, with the ongoing development of LEO satellite constellations, such capability is promising and highly anticipated.\n                  ",
+    "keywords": [
+      "density",
+      "disturbances",
+      "eruption",
+      "km",
+      "leo"
+    ],
+    "tags": [
+      "Orbit",
+      "Ionosphere",
+      "LEO"
+    ]
+  },
+  {
+    "title": "Impact of piece-wise linear receiver clock modeling on sub-daily PPP coordinates for highly stable IGS H-maser stations",
+    "authors": "Widczisk, M\u00e4nnel, Wickert",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02147-0",
+    "abstract": "Abstract\n                  Modeling highly stable GNSS receiver clocks helps to increase the stability of correlated parameters, especially the station height. The use of a piece-wise linear receiver clock model, which is a common method for clock parametrization in Very Long Baseline Interferometry, has not yet been extensively investigated for GNSS. In this work, we examine piece-wise linear receiver clock modeling for GNSS. Based on a one-month series of kinematic Precise Point Positioning analyses for 56 highly stable hydrogen maser stations, the effects of piece-wise linear clock modeling are demonstrated. For the stochastic part of the model, the process for determining the optimal relative constraint weight is explained in detail, whereas the deterministic component consists of piece-wise linear segments with interval lengths of 8, 4, and 2\u00a0h to represent the clocks of highly stable hydrogen maser stations. Compared to the epoch-wise clock estimation, there are no significant differences for the tropospheric zenith delay. However, applying a piece-wise linear model leads to more stable height estimates for properly functioning hydrogen maser clocks. The larger the modeling interval, the more stable the sub-daily height estimates get: the median standard deviation decreases by \u22121.6\u00a0mm (\u221210%) for 2-h and \u2212\u20093.0\u00a0mm (\u221220%) for 8-h intervals. Stations with a higher error of unit weight and a smaller number of observations tend to show larger improvements in height stability (up to 45%). When observations are limited by satellite system exclusion or high elevation cutoff angles, piece-wise linear clock models become especially advantageous in terms of height stability.",
+    "keywords": [
+      "wise",
+      "clock",
+      "linear",
+      "piece",
+      "stable"
+    ],
+    "tags": [
+      "PPP",
+      "Clock"
+    ]
+  },
+  {
     "title": "Correction: Projected BIE: a new unbiased minimum variance estimator for the mixed-integer GNSS model",
     "authors": "Teunissen",
     "year": 2026,
@@ -12,24 +69,6 @@
       "estimator",
       "gnss",
       "integer"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Multi-location study on the scintillation under alignment of GNSS signals with EPB and its effects on positioning in low latitudes",
-    "authors": "Gong, Wang, Guo, de Oliveira Moraes, Galera Monico",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02144-3",
-    "abstract": "",
-    "keywords": [
-      "alignment",
-      "effects",
-      "epb",
-      "gnss",
-      "latitudes"
     ],
     "tags": [
       "Other"
