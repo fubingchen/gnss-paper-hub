@@ -1,5 +1,23 @@
 [
   {
+    "title": "Deriving sub-daily polar motion from BeiDou: assessment and analysis with emphasis on the impact of constellation configurations",
+    "authors": "Li, Yao, Yuan, Zheng, Zhou",
+    "year": 2026,
+    "journal": "Journal of Geodesy",
+    "url": "https://doi.org/10.1007/s00190-026-02113-1",
+    "abstract": "",
+    "keywords": [
+      "analysis",
+      "assessment",
+      "beidou",
+      "configurations",
+      "constellation"
+    ],
+    "tags": [
+      "Multi-GNSS"
+    ]
+  },
+  {
     "title": "Residual unwrapping and stacking for mitigating large-magnitude GNSS phase multipath and diffraction errors",
     "authors": "Tian, Zhang, Dai, Sun, Wen",
     "year": 2026,

@@ -8,6 +8,13 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Deriving sub-daily polar motion from BeiDou: assessment and analysis with emphasis on the impact of constellation configurations
+- Li, Yao, Yuan, Zheng, Zhou (2026)
+- *Journal of Geodesy*
+- **Keywords:** analysis, assessment, beidou, configurations, constellation
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s00190-026-02113-1)
+
 ### Residual unwrapping and stacking for mitigating large-magnitude GNSS phase multipath and diffraction errors
 - Tian, Zhang, Dai, Sun, Wen (2026)
 - *GPS Solutions*
