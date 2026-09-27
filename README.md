@@ -8,12 +8,27 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Multi-facility GNSS antenna calibration
+- Kersten, Kröger, Schön, Bilich, Sutyagin, Schmitz, Dreier, Kuhlmann, Caizzone, Soja, Brown, Möller, Hu, Hu, Villiger (2026)
+- *Journal of Geodesy*
+- **Keywords:** gnss, antenna, calibration, facilities, igs
+- **Abstract:** Abstract
+                  Accurate antenna calibrations are a cornerstone of high-quality global navigation satellite systems (GNSS) positioning, time and frequency transfer, precise orbits, and troposphere estimates. The international GNSS service (IGS) antenna committee maintains antenna phase ce...
+- [Link](https://doi.org/10.1007/s00190-026-02111-3)
+
 ### Deriving sub-daily polar motion from BeiDou: assessment and analysis with emphasis on the impact of constellation configurations
 - Li, Yao, Yuan, Zheng, Zhou (2026)
 - *Journal of Geodesy*
 - **Keywords:** analysis, assessment, beidou, configurations, constellation
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s00190-026-02113-1)
+
+### An all-GNSS PPP-RTK model with consideration of ambiguity-like code biases
+- Che, Hou, Ye, Zheng, Zhang (2026)
+- *GPS Solutions*
+- **Keywords:** ambiguity, biases, code, consideration, gnss
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02146-1)
 
 ### Residual unwrapping and stacking for mitigating large-magnitude GNSS phase multipath and diffraction errors
 - Tian, Zhang, Dai, Sun, Wen (2026)
