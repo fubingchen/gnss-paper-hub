@@ -23,6 +23,13 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s00190-026-02113-1)
 
+### EnvPosNet: a deep neural network to calibrate smartphone GNSS chipset positioning bias with environmental and locational information
+- Li, Feng, Geng, Wang, Paziewski, Sieradzki, Fang, Long, Xu, Cao, He, Wen (2026)
+- *GPS Solutions*
+- **Keywords:** bias, calibrate, chipset, deep, environmental
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02155-0)
+
 ### A graph attention-based GNSS time-series prediction model for large-scale ground deformation monitoring: a case study of the Sichuan–Yunnan Region
 - Zhou, He, Zhang, Li, Zhang, Ge, Lin (2026)
 - *GPS Solutions*
@@ -51,37 +58,6 @@ Automatically updated GNSS papers.
 - **Keywords:** ambiguity, biases, code, consideration, gnss
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02146-1)
-
-### Residual unwrapping and stacking for mitigating large-magnitude GNSS phase multipath and diffraction errors
-- Tian, Zhang, Dai, Sun, Wen (2026)
-- *GPS Solutions*
-- **Keywords:** diffraction, errors, gnss, large, magnitude
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02149-y)
-
-### Analysis of Tonga eruption-induced disturbances in the upper thermosphere based on atmospheric drag accelerations from LEO satellites
-- She, Hernández-Pajares, Olivares-Pulido, Huang, Wang, Zhu, Lai (2026)
-- *GPS Solutions*
-- **Keywords:** density, disturbances, eruption, km, leo
-- **Abstract:** Abstract
-                  
-                    The violent eruption of the Tonga volcano on 15 January 2022 triggered significant disturbances in the atmosphere and ionosphere. However, limited observational capabilities have persistently hindered the characterization of eruption-induced neutral de...
-- [Link](https://doi.org/10.1007/s10291-026-02150-5)
-
-### Impact of piece-wise linear receiver clock modeling on sub-daily PPP coordinates for highly stable IGS H-maser stations
-- Widczisk, Männel, Wickert (2026)
-- *GPS Solutions*
-- **Keywords:** wise, clock, linear, piece, stable
-- **Abstract:** Abstract
-                  Modeling highly stable GNSS receiver clocks helps to increase the stability of correlated parameters, especially the station height. The use of a piece-wise linear receiver clock model, which is a common method for clock parametrization in Very Long Baseline Interferometry...
-- [Link](https://doi.org/10.1007/s10291-026-02147-0)
-
-### Correction: Projected BIE: a new unbiased minimum variance estimator for the mixed-integer GNSS model
-- Teunissen (2026)
-- *GPS Solutions*
-- **Keywords:** bie, correction, estimator, gnss, integer
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02134-5)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -195,6 +171,13 @@ Automatically updated GNSS papers.
 - **Abstract:** We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10...
 - [Link](https://arxiv.org/abs/physics/0310092v1)
 
+### Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers
+- Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki (2025)
+- *arXiv*
+- **Keywords:** gnss, rtk, dump, estimation, state
+- **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
+- [Link](https://arxiv.org/abs/2506.02877v1)
+
 ### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
 - J. -F. Pascual-Sánchez (2004)
 - *arXiv*
@@ -209,17 +192,31 @@ Automatically updated GNSS papers.
 - **Abstract:** With the rapid development of China's BeiDou Navigation Satellite System(BDS), the application of real-time precise point positioning (RTPPP) based on BDS has become an active research area in the field of Global Navigation Satellite System (GNSS). BDS has provided the service of broadcasting RTPPP ...
 - [Link](https://arxiv.org/abs/2011.13539v1)
 
-### Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers
-- Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki (2025)
-- *arXiv*
-- **Keywords:** gnss, rtk, dump, estimation, state
-- **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
-- [Link](https://arxiv.org/abs/2506.02877v1)
-
 ### PARFAIT: GNSS-R coastal altimetry
 - M. Caparrini, L. Ruffini, G. Ruffini (2003)
 - *arXiv*
 - **Keywords:** coherent, gnss, altimetry, component, gps
 - **Abstract:** GNSS-R signals contain a coherent and an incoherent component. A new algorithm for coherent phase altimetry over rough ocean surfaces, called PARFAIT, has been developed and implemented in Starlab's STARLIGHT GNSS-R software package. In this paper we report our extraction and analysis of the coheren...
 - [Link](https://arxiv.org/abs/physics/0311052v1)
+
+### DEMO: RTKiller -- manipulation of GNSS RTK rovers by reference base spoofing
+- Marco Spanghero, Panos Papadimitratos (2024)
+- *arXiv*
+- **Keywords:** reference, gnss, receivers, rovers, accuracy
+- **Abstract:** Global Navigation Satellite Systems (GNSS) provide global positioning and timing. Multiple receivers with known reference positions (stations) can assist mobile receivers (rovers) in obtaining GNSS corrections and achieve centimeter-level accuracy on consumer devices. However, GNSS spoofing and jamm...
+- [Link](https://arxiv.org/abs/2406.07565v1)
+
+### 5G-Aided RTK Positioning in GNSS-Deprived Environments
+- Pinjun Zheng, Xing Liu, Tarig Ballal, Tareq Y. Al-Naffouri (2023)
+- *arXiv*
+- **Keywords:** 5g, gnss, aided, ambiguity, based
+- **Abstract:** This paper considers the localization problem in a 5G-aided global navigation satellite system (GNSS) based on real-time kinematic (RTK) technique. Specifically, the user's position is estimated based on the hybrid measurements, including GNSS pseudo-ranges, GNSS carrier phases, 5G angle-of-departur...
+- [Link](https://arxiv.org/abs/2303.13067v1)
+
+### GNSS Positioning using Cost Function Regulated Multilateration and Graph Neural Networks
+- Amir Jalalirad, Davide Belli, Bence Major, Songwon Jee, Himanshu Shah, Will Morrison (2024)
+- *arXiv*
+- **Keywords:** gnss, error, errors, localization, multilateration
+- **Abstract:** In urban environments, where line-of-sight signals from GNSS satellites are frequently blocked by high-rise objects, GNSS receivers are subject to large errors in measuring satellite ranges. Heuristic methods are commonly used to estimate these errors and reduce the impact of noisy measurements on l...
+- [Link](https://arxiv.org/abs/2402.18630v1)
 
