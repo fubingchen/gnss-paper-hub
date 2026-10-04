@@ -8,21 +8,6 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
-### Multi-facility GNSS antenna calibration
-- Kersten, Kröger, Schön, Bilich, Sutyagin, Schmitz, Dreier, Kuhlmann, Caizzone, Soja, Brown, Möller, Hu, Hu, Villiger (2026)
-- *Journal of Geodesy*
-- **Keywords:** gnss, antenna, calibration, facilities, igs
-- **Abstract:** Abstract
-                  Accurate antenna calibrations are a cornerstone of high-quality global navigation satellite systems (GNSS) positioning, time and frequency transfer, precise orbits, and troposphere estimates. The international GNSS service (IGS) antenna committee maintains antenna phase ce...
-- [Link](https://doi.org/10.1007/s00190-026-02111-3)
-
-### Deriving sub-daily polar motion from BeiDou: assessment and analysis with emphasis on the impact of constellation configurations
-- Li, Yao, Yuan, Zheng, Zhou (2026)
-- *Journal of Geodesy*
-- **Keywords:** analysis, assessment, beidou, configurations, constellation
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s00190-026-02113-1)
-
 ### EnvPosNet: a deep neural network to calibrate smartphone GNSS chipset positioning bias with environmental and locational information
 - Li, Feng, Geng, Wang, Paziewski, Sieradzki, Fang, Long, Xu, Cao, He, Wen (2026)
 - *GPS Solutions*
@@ -51,13 +36,6 @@ Automatically updated GNSS papers.
 - **Keywords:** ambiguity, ar, error, positioning, ppp
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02153-2)
-
-### An all-GNSS PPP-RTK model with consideration of ambiguity-like code biases
-- Che, Hou, Ye, Zheng, Zhang (2026)
-- *GPS Solutions*
-- **Keywords:** ambiguity, biases, code, consideration, gnss
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02146-1)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -171,19 +149,19 @@ Automatically updated GNSS papers.
 - **Abstract:** We report results from the Eddy Experiment, where a synchronous GPS receiver pair was flown on an aircraft to collect sampled L1 signals and their reflections from the sea surface to investigate the altimetric accuracy of GNSS-R. During the experiment, surface wind speed (U10) was of the order of 10...
 - [Link](https://arxiv.org/abs/physics/0310092v1)
 
-### Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers
-- Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki (2025)
-- *arXiv*
-- **Keywords:** gnss, rtk, dump, estimation, state
-- **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
-- [Link](https://arxiv.org/abs/2506.02877v1)
-
 ### Efectos relativistas en los sistemas Galileo, GPS y GLONASS
 - J. -F. Pascual-Sánchez (2004)
 - *arXiv*
 - **Keywords:** gps, galileo, glonass, project, alternative
 - **Abstract:** Nowadays, the Global Navigation Satellite Systems (GNSS), working like global positioning systems, are the GPS (NAVSTAR) and the GLONASS, which only are operative when several relativistic effects are corrected. In the next years the Galileo system will be constructed, copying the GPS System if ther...
 - [Link](https://arxiv.org/abs/gr-qc/0405100v1)
+
+### Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers
+- Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki (2025)
+- *arXiv*
+- **Keywords:** gnss, rtk, dump, estimation, state
+- **Abstract:** Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articu...
+- [Link](https://arxiv.org/abs/2506.02877v1)
 
 ### Decoding PPP Corrections from BDS B2b Signals Using a Software-defined Receiver: an Initial Performance Evaluation
 - Xiangchen Lu, Liang Chen, Nan Shen, Lei Wang, Zhenhang Jiao, Ruizhi Chen (2020)
@@ -219,4 +197,25 @@ Automatically updated GNSS papers.
 - **Keywords:** gnss, error, errors, localization, multilateration
 - **Abstract:** In urban environments, where line-of-sight signals from GNSS satellites are frequently blocked by high-rise objects, GNSS receivers are subject to large errors in measuring satellite ranges. Heuristic methods are commonly used to estimate these errors and reduce the impact of noisy measurements on l...
 - [Link](https://arxiv.org/abs/2402.18630v1)
+
+### GPS as a Control Signal for Image Generation
+- Chao Feng, Ziyang Chen, Aleksander Holynski, Alexei A. Efros, Andrew Owens (2025)
+- *arXiv*
+- **Keywords:** gps, image, images, models, 3d
+- **Abstract:** We show that the GPS tags contained in photo metadata provide a useful control signal for image generation. We train GPS-to-image models and use them for tasks that require a fine-grained understanding of how images vary within a city. In particular, we train a diffusion model to generate images con...
+- [Link](https://arxiv.org/abs/2501.12390v2)
+
+### Robust Navigation In GNSS Degraded Environment Using Graph Optimization
+- Ryan M. Watson, Jason N. Gross (2018)
+- *arXiv*
+- **Keywords:** gnss, data, robust, navigation, graph
+- **Abstract:** Robust navigation in urban environments has received a considerable amount of both academic and commercial interest over recent years. This is primarily due to large commercial organizations such as Google and Uber stepping into the autonomous navigation market. Most of this research has shied away ...
+- [Link](https://arxiv.org/abs/1806.08899v1)
+
+### GPS-IDS: An Anomaly-based GPS Spoofing Attack Detection Framework for Autonomous Vehicles
+- Murad Mehrab Abrar, Amal Youssef, Raian Islam, Shalaka Satam, Banafsheh Saber Latibari, Salim Hariri, Sicong Shao, Soheil Salehi, Pratik Satam (2024)
+- *arXiv*
+- **Keywords:** gps, avs, framework, model, attacks
+- **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
+- [Link](https://arxiv.org/abs/2405.08359v2)
 

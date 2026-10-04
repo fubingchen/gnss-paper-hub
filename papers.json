@@ -1,43 +1,5 @@
 [
   {
-    "title": "Multi-facility GNSS antenna calibration",
-    "authors": "Kersten, Kr\u00f6ger, Sch\u00f6n, Bilich, Sutyagin, Schmitz, Dreier, Kuhlmann, Caizzone, Soja, Brown, M\u00f6ller, Hu, Hu, Villiger",
-    "year": 2026,
-    "journal": "Journal of Geodesy",
-    "url": "https://doi.org/10.1007/s00190-026-02111-3",
-    "abstract": "Abstract\n                  Accurate antenna calibrations are a cornerstone of high-quality global navigation satellite systems (GNSS) positioning, time and frequency transfer, precise orbits, and troposphere estimates. The international GNSS service (IGS) antenna committee maintains antenna phase center corrections in the ANTEX file relying on five calibration facilities. Since new calibration facilities have been set up and user demands have grown along with hardware and software updates of GNSS, we organized an international inter-comparison across nine facilities, using both anechoic chambers and field robots. Six antennas with different designs were calibrated by each facility and compared with the Geo++ robot solution (GPP4), a proxy for the IGS ANTEX. Where available, we also considered the IGS type means. We examined differences between the antenna patterns and subsequent differences in station coordinates. To this end, we used a standardized forward simulation as well as multi-GNSS PPP solutions using the GNSS toolbox developed at Leibniz University Hannover, Institut f\u00fcr Erdmessung (IfE). Our study yields several important results. We found that multi-GNSS antenna calibrations exhibit frequency- and elevation-dependent variations, with deviations of up to 3 mm to 4 mm at low elevations. We show that organizations like Topcon (TPS), national geodetic survey (NGS), and Wuhan GNSS Research Center (WHU) yield calibration results that are in very good agreement with those of IGS accepted facilities such as GPP, IfE, and to some extent geoscience Australia (GA). These differences result in position deviations of a few millimeters, with the Up component being the dominant contributor.",
-    "keywords": [
-      "gnss",
-      "antenna",
-      "calibration",
-      "facilities",
-      "igs"
-    ],
-    "tags": [
-      "PPP",
-      "Orbit",
-      "Troposphere"
-    ]
-  },
-  {
-    "title": "Deriving sub-daily polar motion from BeiDou: assessment and analysis with emphasis on the impact of constellation configurations",
-    "authors": "Li, Yao, Yuan, Zheng, Zhou",
-    "year": 2026,
-    "journal": "Journal of Geodesy",
-    "url": "https://doi.org/10.1007/s00190-026-02113-1",
-    "abstract": "",
-    "keywords": [
-      "analysis",
-      "assessment",
-      "beidou",
-      "configurations",
-      "constellation"
-    ],
-    "tags": [
-      "Multi-GNSS"
-    ]
-  },
-  {
     "title": "EnvPosNet: a deep neural network to calibrate smartphone GNSS chipset positioning bias with environmental and locational information",
     "authors": "Li, Feng, Geng, Wang, Paziewski, Sieradzki, Fang, Long, Xu, Cao, He, Wen",
     "year": 2026,
@@ -111,25 +73,6 @@
     ],
     "tags": [
       "PPP"
-    ]
-  },
-  {
-    "title": "An all-GNSS PPP-RTK model with consideration of ambiguity-like code biases",
-    "authors": "Che, Hou, Ye, Zheng, Zhang",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02146-1",
-    "abstract": "",
-    "keywords": [
-      "ambiguity",
-      "biases",
-      "code",
-      "consideration",
-      "gnss"
-    ],
-    "tags": [
-      "PPP",
-      "RTK"
     ]
   },
   {
@@ -433,24 +376,6 @@
     ]
   },
   {
-    "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
-    "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
-    "year": "2025",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2506.02877v1",
-    "abstract": "Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articulation angle using multiple GNSS for automatic operation of dump trucks. RTK-GNSS is commonly used for automation of construction equipment, but in mountainous areas, mobile networks often unstable, and RTK-GNSS using GNSS reference stations cannot be used. Therefore, this paper develops a state estimation method for dump trucks that does not require a GNSS reference station by using the Centimeter Level Augmentation Service (CLAS) of the Japanese Quasi-Zenith Satellite System (QZSS). Although CLAS is capable of centimeter-level position estimation, its positioning accuracy and ambiguity fix rate are lower than those of RTK-GNSS. To solve this problem, we construct a state estimation method by factor graph optimization that combines CLAS positioning and moving-base RTK-GNSS between multiple GNSS antennas. Evaluation tests under real-world environments have shown that the proposed method can estimate the state of dump trucks with the same accuracy as conventional RTK-GNSS, but does not require a GNSS reference station.",
-    "keywords": [
-      "gnss",
-      "rtk",
-      "dump",
-      "estimation",
-      "state"
-    ],
-    "tags": [
-      "RTK"
-    ]
-  },
-  {
     "title": "Efectos relativistas en los sistemas Galileo, GPS y GLONASS",
     "authors": "J. -F. Pascual-S\u00e1nchez",
     "year": "2004",
@@ -468,6 +393,24 @@
       "Ionosphere",
       "LEO",
       "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "Automatic Operation of an Articulated Dump Truck: State Estimation by Combined QZSS CLAS and Moving-Base RTK Using Multiple GNSS Receivers",
+    "authors": "Taro Suzuki, Shotaro Kojima, Kazunori Ohno, Naoto Miyamoto, Takahiro Suzuki, Kimitaka Asano, Tomohiro Komatsu, Hiroto Kakizaki",
+    "year": "2025",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2506.02877v1",
+    "abstract": "Labor shortage due to the declining birth rate has become a serious problem in the construction industry, and automation of construction work is attracting attention as a solution to this problem. This paper proposes a method to realize state estimation of dump truck position, orientation and articulation angle using multiple GNSS for automatic operation of dump trucks. RTK-GNSS is commonly used for automation of construction equipment, but in mountainous areas, mobile networks often unstable, and RTK-GNSS using GNSS reference stations cannot be used. Therefore, this paper develops a state estimation method for dump trucks that does not require a GNSS reference station by using the Centimeter Level Augmentation Service (CLAS) of the Japanese Quasi-Zenith Satellite System (QZSS). Although CLAS is capable of centimeter-level position estimation, its positioning accuracy and ambiguity fix rate are lower than those of RTK-GNSS. To solve this problem, we construct a state estimation method by factor graph optimization that combines CLAS positioning and moving-base RTK-GNSS between multiple GNSS antennas. Evaluation tests under real-world environments have shown that the proposed method can estimate the state of dump trucks with the same accuracy as conventional RTK-GNSS, but does not require a GNSS reference station.",
+    "keywords": [
+      "gnss",
+      "rtk",
+      "dump",
+      "estimation",
+      "state"
+    ],
+    "tags": [
+      "RTK"
     ]
   },
   {
