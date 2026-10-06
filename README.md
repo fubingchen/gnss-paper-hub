@@ -8,6 +8,21 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
+### Assessing Galileo ionosphere-free combinations: impacts of contrasting equatorial ionospheric conditions
+- Zaupa, Alves, Monico, Silva, Setti (2026)
+- *GPS Solutions*
+- **Keywords:** e1, combinations, ionospheric, positioning, 00
+- **Abstract:** Abstract
+                  This study investigates the impact of Galileo ionosphere-free (IF) dual-frequency combinations on the performance of Precise Point Positioning (PPP). Four IF combinations were analyzed: E1–E5a, E1–E6, E1–E5b, and E1–E5 (AltBOC). The analysis was conducted using 60 days of ...
+- [Link](https://doi.org/10.1007/s10291-026-02156-z)
+
+### An efficient GPS flex power detection method based on the light gradient boosting machine (LightGBM) model
+- Yang, Zhang, Tang, Liu, Wang, Zeng, Li, Cheng (2026)
+- *GPS Solutions*
+- **Keywords:** based, boosting, detection, efficient, flex
+- **Abstract:** ...
+- [Link](https://doi.org/10.1007/s10291-026-02151-4)
+
 ### EnvPosNet: a deep neural network to calibrate smartphone GNSS chipset positioning bias with environmental and locational information
 - Li, Feng, Geng, Wang, Paziewski, Sieradzki, Fang, Long, Xu, Cao, He, Wen (2026)
 - *GPS Solutions*
@@ -15,34 +30,19 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02155-0)
 
-### A graph attention-based GNSS time-series prediction model for large-scale ground deformation monitoring: a case study of the Sichuan–Yunnan Region
-- Zhou, He, Zhang, Li, Zhang, Ge, Lin (2026)
-- *GPS Solutions*
-- **Keywords:** attention, based, case, deformation, gnss
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02152-3)
-
-### Multi-GNSS clock combination for PPP with an epoch-wise clock alignment and variance component estimation
-- Białas, Zajdel, Mikoś, Brack, Mansur, Sakic, Sośnica (2026)
-- *GPS Solutions*
-- **Keywords:** gnss, acs, clock, combination, ac
-- **Abstract:** Abstract
-                  Applications of Global Navigation Satellite Systems (GNSS) for positioning, navigation, and timing rely on precise orbit and satellite clock corrections provided by multiple Analysis Centers (ACs) of the International GNSS Service (IGS). To address modeling errors and data...
-- [Link](https://doi.org/10.1007/s10291-026-02148-z)
-
-### Positioning-error-supervised temporal ambiguity validation for real-time PPP-AR
-- Zhong, Wang, Li, Wang, Li, Wang, Yu, Xian (2026)
-- *GPS Solutions*
-- **Keywords:** ambiguity, ar, error, positioning, ppp
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02153-2)
-
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
 - **Keywords:** gnss, determination, rtk, lane, road
 - **Abstract:** There is a growing need for vehicle positioning information to support Advanced Driver Assistance Systems (ADAS), Connectivity (V2X), and Automated Driving (AD) features. These range from a need for road determination (<5 meters), lane determination (<1.5 meters), and determining where the vehicle i...
 - [Link](https://arxiv.org/abs/1906.08180v3)
+
+### Pulsar Constellation Evolution and PPP Convergence using LEO GNSS
+- Claire Mah, Thyagaraja Marathe, Ananya Vishwanath, Matteo Gala, Tyler G. R. Reid, Qamar Bader (2026)
+- *arXiv*
+- **Keywords:** leo, gnss, pulsar, constellation, paper
+- **Abstract:** The objective of this paper is to demonstrate the future impact of a dedicated low-earth-orbit (LEO) Global Navigation Satellite System (GNSS) on positioning, navigation, and timing (PNT), in addition to a reflective discussion on how common GNSS evaluation methods can best reflect LEO satellite dyn...
+- [Link](https://arxiv.org/abs/2610.06759v1)
 
 ### GNSS Radio Occultation on Aerial Platforms with Commercial Off-The-Shelf Receivers
 - Bryan C. Chan, Ashish Goel, Jonathan Kosh, Tyler G. R. Reid, Corey R. Snyder, Paul M. Tarantino, Saraswati Soedarmadji, Widyadewi Soedarmadji, Kevin Nelson, Feiqin Xie, Michael Vergalla (2021)

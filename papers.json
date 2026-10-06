@@ -1,5 +1,44 @@
 [
   {
+    "title": "Assessing Galileo ionosphere-free combinations: impacts of contrasting equatorial ionospheric conditions",
+    "authors": "Zaupa, Alves, Monico, Silva, Setti",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02156-z",
+    "abstract": "Abstract\n                  This study investigates the impact of Galileo ionosphere-free (IF) dual-frequency combinations on the performance of Precise Point Positioning (PPP). Four IF combinations were analyzed: E1\u2013E5a, E1\u2013E6, E1\u2013E5b, and E1\u2013E5 (AltBOC). The analysis was conducted using 60\u00a0days of GNSS data from seven Brazilian stations located between latitudes 15\u00b0\u202fS and 30\u00b0\u202fS, covering two distinct ionospheric conditions: the equinox month of March and the solstice month of June 2024. Positioning accuracy, convergence time, and observation residuals were evaluated during the first 3\u00a0h of each day (00:00\u201303:00\u202fUTC), a period marked by strong ionospheric variability at low latitudes. Among the tested combinations, E1\u2013E5a and E1\u2013E5b achieved higher accuracy and robustness, maintaining centimeter-level positioning even under disturbed ionospheric conditions. The E1\u2013E5 combination also performed well, exhibiting low noise in carrier-phase observations despite moderate dispersion in the code measurements. In contrast, the E1\u2013E6 combination showed the weakest performance, particularly during March, with increased positioning errors and larger residual variability. These findings underscore the importance of frequency pair selection in multi-frequency PPP strategies and highlight the sensitivity of specific Galileo signal combinations to equatorial ionospheric effects.",
+    "keywords": [
+      "e1",
+      "combinations",
+      "ionospheric",
+      "positioning",
+      "00"
+    ],
+    "tags": [
+      "PPP",
+      "Ionosphere",
+      "LEO",
+      "Multi-GNSS"
+    ]
+  },
+  {
+    "title": "An efficient GPS flex power detection method based on the light gradient boosting machine (LightGBM) model",
+    "authors": "Yang, Zhang, Tang, Liu, Wang, Zeng, Li, Cheng",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02151-4",
+    "abstract": "",
+    "keywords": [
+      "based",
+      "boosting",
+      "detection",
+      "efficient",
+      "flex"
+    ],
+    "tags": [
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "EnvPosNet: a deep neural network to calibrate smartphone GNSS chipset positioning bias with environmental and locational information",
     "authors": "Li, Feng, Geng, Wang, Paziewski, Sieradzki, Fang, Long, Xu, Cao, He, Wen",
     "year": 2026,
@@ -15,64 +54,6 @@
     ],
     "tags": [
       "Other"
-    ]
-  },
-  {
-    "title": "A graph attention-based GNSS time-series prediction model for large-scale ground deformation monitoring: a case study of the Sichuan\u2013Yunnan Region",
-    "authors": "Zhou, He, Zhang, Li, Zhang, Ge, Lin",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02152-3",
-    "abstract": "",
-    "keywords": [
-      "attention",
-      "based",
-      "case",
-      "deformation",
-      "gnss"
-    ],
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Multi-GNSS clock combination for PPP with an epoch-wise clock alignment and variance component estimation",
-    "authors": "Bia\u0142as, Zajdel, Miko\u015b, Brack, Mansur, Sakic, So\u015bnica",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02148-z",
-    "abstract": "Abstract\n                  Applications of Global Navigation Satellite Systems (GNSS) for positioning, navigation, and timing rely on precise orbit and satellite clock corrections provided by multiple Analysis Centers (ACs) of the International GNSS Service (IGS). To address modeling errors and data gaps inherent to individual ACs, the GNSS community develops and refines procedures for receiving a single, robust combined product. While the IGS has recently extended its combination products with demonstrational multi-GNSS solutions for GPS, Galileo, and GLONASS, these are not yet final operational products and do not include BeiDou. This study introduces an integrated operational framework for multi-GNSS clock combination, covering GPS, Galileo, GLONASS, and BeiDou, and implemented in open-access, open-source software using an epoch-wise alignment strategy and variance component estimation. The quality of the combined clocks is assessed through pairwise AC comparisons, frequency stability analysis, and Precise Point Positioning (PPP) results for IGS stations. The epoch-wise alignment strategy successfully removes the issue arising from the non-linear behavior of the ACs\u2019 clock products and reduces inter-AC dispersion to around 0.05\u00a0ns. This approach also yields more stable AC weights over time and achieves a higher agreement with the AC products for the GPS and Galileo blocks by 30\u201370% than the linear-fit alignment strategy. PPP solutions based on the epoch-wise combination deliver coordinate estimates that match or surpass those obtained from individual ACs. Finally, the combination strategy improves reference frame stability, improving the parameter repeatability by up to 40% compared to individual ACs.",
-    "keywords": [
-      "gnss",
-      "acs",
-      "clock",
-      "combination",
-      "ac"
-    ],
-    "tags": [
-      "PPP",
-      "Orbit",
-      "Clock",
-      "LEO",
-      "Multi-GNSS"
-    ]
-  },
-  {
-    "title": "Positioning-error-supervised temporal ambiguity validation for real-time PPP-AR",
-    "authors": "Zhong, Wang, Li, Wang, Li, Wang, Yu, Xian",
-    "year": 2026,
-    "journal": "GPS Solutions",
-    "url": "https://doi.org/10.1007/s10291-026-02153-2",
-    "abstract": "",
-    "keywords": [
-      "ambiguity",
-      "ar",
-      "error",
-      "positioning",
-      "ppp"
-    ],
-    "tags": [
-      "PPP"
     ]
   },
   {
@@ -92,6 +73,26 @@
     "tags": [
       "RTK",
       "Ionosphere"
+    ]
+  },
+  {
+    "title": "Pulsar Constellation Evolution and PPP Convergence using LEO GNSS",
+    "authors": "Claire Mah, Thyagaraja Marathe, Ananya Vishwanath, Matteo Gala, Tyler G. R. Reid, Qamar Bader",
+    "year": "2026",
+    "journal": "arXiv",
+    "url": "https://arxiv.org/abs/2610.06759v1",
+    "abstract": "The objective of this paper is to demonstrate the future impact of a dedicated low-earth-orbit (LEO) Global Navigation Satellite System (GNSS) on positioning, navigation, and timing (PNT), in addition to a reflective discussion on how common GNSS evaluation methods can best reflect LEO satellite dynamics. This paper will feature Xona's LEO constellation, Pulsar, at various stages of deployment in a case study comparing GPS, LEO-augmented GPS, and standalone LEO. Results include visibility and dilution of precision (DOP) analysis for Pulsar at four stages of constellation deployment, as well as two cases exploring how precise point positioning (PPP) convergence is affected by Pulsar's LEO satellite dynamics.\n  Pulsar is highlighted in this paper for its purposeful design that allows for both GNSS augmentation through compatible signals and GNSS independence (Gala et al., 2026). As dedicated LEO satellite-based positioning becomes more prominent in the PNT industry, it is important to consider which methods are used to evaluate constellation geometry and positioning performance. By evaluating the constellation through a variety of different methods in this paper, a discussion on the future evolution of LEO navigation constellations is offered. Pulsar is compared to MEO GNSS, both as an augmentation and a standalone service, through availability, dilution of precision, and PPP convergence.",
+    "keywords": [
+      "leo",
+      "gnss",
+      "pulsar",
+      "constellation",
+      "paper"
+    ],
+    "tags": [
+      "PPP",
+      "Orbit",
+      "LEO"
     ]
   },
   {
@@ -996,26 +997,6 @@
     ],
     "tags": [
       "Ionosphere"
-    ]
-  },
-  {
-    "title": "BeiDou-3 orbit and clock quality of the IGS Multi-GNSS Pilot Project",
-    "authors": "Peter Steigenberger, Zhiguo Deng, Jing Guo, Lars Prange, Shuli Song, Oliver Montenbruck",
-    "year": "2022",
-    "journal": "arXiv",
-    "url": "https://arxiv.org/abs/2208.07210v2",
-    "abstract": "Within the Multi-GNSS Pilot Project (MGEX) of the International GNSS Service (IGS), precise orbit and clock products for the BeiDou-3 global navigation satellite system (BDS-3) are routinely generated by a total of five analysis centers. The processing standards and specific properties of the individual products are reviewed and the BDS-3 orbit and clock product performance is assessed through direct inter-comparison, satellite laser ranging (SLR) residuals, clock stability analysis, and precise point positioning solutions. The orbit consistency evaluated by the signal-in-space range error is on the level of 4-8 cm for the medium Earth orbit satellites whereas SLR residuals have RMS values between 3 and 9 cm. The clock analysis reveals sytematic effects related to the elevation of the Sun above the orbital plane for all ACs pointing to deficiencies in solar radiation pressure modeling. Nevertheless, precise point positioning with the BDS-3 MGEX orbit and clock products results in 3D RMS values between 7 and 8 mm.",
-    "keywords": [
-      "clock",
-      "orbit",
-      "analysis",
-      "bds",
-      "gnss"
-    ],
-    "tags": [
-      "Orbit",
-      "Clock",
-      "Multi-GNSS"
     ]
   }
 ]
