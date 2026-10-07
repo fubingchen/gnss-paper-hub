@@ -16,6 +16,14 @@ Automatically updated GNSS papers.
                   This study investigates the impact of Galileo ionosphere-free (IF) dual-frequency combinations on the performance of Precise Point Positioning (PPP). Four IF combinations were analyzed: E1–E5a, E1–E6, E1–E5b, and E1–E5 (AltBOC). The analysis was conducted using 60 days of ...
 - [Link](https://doi.org/10.1007/s10291-026-02156-z)
 
+### Experimental characterization of GNSS carrier phase diffraction errors in a controlled environment
+- Dutta, Johansson, Haas, Bergstrand, Rieck (2026)
+- *GPS Solutions*
+- **Keywords:** diffraction, analysis, data, environment, field
+- **Abstract:** Abstract
+                  This study presents a rigorous analysis of signal diffraction, a pervasive yet often overlooked error source in high-precision GNSS positioning. The research uses a controlled environment and an extensive data set. Using a movable wall of constant height, we demonstrate th...
+- [Link](https://doi.org/10.1007/s10291-026-02138-1)
+
 ### An efficient GPS flex power detection method based on the light gradient boosting machine (LightGBM) model
 - Yang, Zhang, Tang, Liu, Wang, Zeng, Li, Cheng (2026)
 - *GPS Solutions*
@@ -211,11 +219,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gnss, data, robust, navigation, graph
 - **Abstract:** Robust navigation in urban environments has received a considerable amount of both academic and commercial interest over recent years. This is primarily due to large commercial organizations such as Google and Uber stepping into the autonomous navigation market. Most of this research has shied away ...
 - [Link](https://arxiv.org/abs/1806.08899v1)
-
-### GPS-IDS: An Anomaly-based GPS Spoofing Attack Detection Framework for Autonomous Vehicles
-- Murad Mehrab Abrar, Amal Youssef, Raian Islam, Shalaka Satam, Banafsheh Saber Latibari, Salim Hariri, Sicong Shao, Soheil Salehi, Pratik Satam (2024)
-- *arXiv*
-- **Keywords:** gps, avs, framework, model, attacks
-- **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
-- [Link](https://arxiv.org/abs/2405.08359v2)
 

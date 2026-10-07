@@ -21,6 +21,25 @@
     ]
   },
   {
+    "title": "Experimental characterization of GNSS carrier phase diffraction errors in a controlled environment",
+    "authors": "Dutta, Johansson, Haas, Bergstrand, Rieck",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02138-1",
+    "abstract": "Abstract\n                  This study presents a rigorous analysis of signal diffraction, a pervasive yet often overlooked error source in high-precision GNSS positioning. The research uses a controlled environment and an extensive data set. Using a movable wall of constant height, we demonstrate that diffraction impact is inversely proportional to the obstacle distance, with errors at 1\u00a0m distance far exceeding those at 3\u00a0m. Position estimates from Precise Point Positioning (PPP) analysis and residuals from double difference analysis were used to show the effect on geodetic results. The study further validates the physical diffraction mechanism through signal-to-noise ratio (SNR) data using a Knife-edge diffraction (KED) model. It is seen that, while the KED model works well for horizontal distances of 2\u00a0m, in the near field of the antenna, the model requires improvement to explain observed SNR anomalies. Further, we show that signal disturbance commences when an obstacle intrudes upon the first Fresnel zone, even while it remains below the direct line-of-sight. The results conclusively demonstrate that low-elevation satellites suffer the most severe diffraction effects due to their longer propagation paths through the diffracted field. Consequently, based on our extensive data processing and analysis, we propose practical guidelines for field operations. It is recommended (subject to constraints) to ensure that the obstructive environment does not subtend an angle greater than 11\u00b0 on the antenna. This would help preserve data quality in demanding applications like PPP and Real Time Kinematic (RTK).",
+    "keywords": [
+      "diffraction",
+      "analysis",
+      "data",
+      "environment",
+      "field"
+    ],
+    "tags": [
+      "PPP",
+      "RTK"
+    ]
+  },
+  {
     "title": "An efficient GPS flex power detection method based on the light gradient boosting machine (LightGBM) model",
     "authors": "Yang, Zhang, Tang, Liu, Wang, Zeng, Li, Cheng",
     "year": 2026,
