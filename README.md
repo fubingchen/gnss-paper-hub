@@ -31,13 +31,6 @@ Automatically updated GNSS papers.
 - **Abstract:** ...
 - [Link](https://doi.org/10.1007/s10291-026-02151-4)
 
-### EnvPosNet: a deep neural network to calibrate smartphone GNSS chipset positioning bias with environmental and locational information
-- Li, Feng, Geng, Wang, Paziewski, Sieradzki, Fang, Long, Xu, Cao, He, Wen (2026)
-- *GPS Solutions*
-- **Keywords:** bias, calibrate, chipset, deep, environmental
-- **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02155-0)
-
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
 - *arXiv*
@@ -219,4 +212,11 @@ Automatically updated GNSS papers.
 - **Keywords:** gnss, data, robust, navigation, graph
 - **Abstract:** Robust navigation in urban environments has received a considerable amount of both academic and commercial interest over recent years. This is primarily due to large commercial organizations such as Google and Uber stepping into the autonomous navigation market. Most of this research has shied away ...
 - [Link](https://arxiv.org/abs/1806.08899v1)
+
+### GPS-IDS: An Anomaly-based GPS Spoofing Attack Detection Framework for Autonomous Vehicles
+- Murad Mehrab Abrar, Amal Youssef, Raian Islam, Shalaka Satam, Banafsheh Saber Latibari, Salim Hariri, Sicong Shao, Soheil Salehi, Pratik Satam (2024)
+- *arXiv*
+- **Keywords:** gps, avs, framework, model, attacks
+- **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
+- [Link](https://arxiv.org/abs/2405.08359v2)
 
