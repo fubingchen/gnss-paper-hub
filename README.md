@@ -8,28 +8,20 @@ Automatically updated GNSS papers.
 
 ## 📚 Latest Papers
 
-### Assessing Galileo ionosphere-free combinations: impacts of contrasting equatorial ionospheric conditions
-- Zaupa, Alves, Monico, Silva, Setti (2026)
-- *GPS Solutions*
-- **Keywords:** e1, combinations, ionospheric, positioning, 00
+### Comprehensive VLBI observations of Galileo satellites with the AuScope array
+- Schunck, McCallum, McCallum, McCarthy (2026)
+- *Journal of Geodesy*
+- **Keywords:** vlbi, observations, satellites, satellite, galileo
 - **Abstract:** Abstract
-                  This study investigates the impact of Galileo ionosphere-free (IF) dual-frequency combinations on the performance of Precise Point Positioning (PPP). Four IF combinations were analyzed: E1–E5a, E1–E6, E1–E5b, and E1–E5 (AltBOC). The analysis was conducted using 60 days of ...
-- [Link](https://doi.org/10.1007/s10291-026-02156-z)
+                  Interest in the topic of geodetic co-location in space and space ties has recently intensified within the geodetic community, particularly following the approval of the European Space Agency’s Genesis mission. From the perspective of very long baseline interferometry (VLBI...
+- [Link](https://doi.org/10.1007/s00190-026-02124-y)
 
-### Experimental characterization of GNSS carrier phase diffraction errors in a controlled environment
-- Dutta, Johansson, Haas, Bergstrand, Rieck (2026)
+### CEEMD-UNet: feature-preserving deep-denoising method for high-rate GNSS coseismic displacement
+- Li, Wang, Jiang, Tu, Liu (2026)
 - *GPS Solutions*
-- **Keywords:** diffraction, analysis, data, environment, field
-- **Abstract:** Abstract
-                  This study presents a rigorous analysis of signal diffraction, a pervasive yet often overlooked error source in high-precision GNSS positioning. The research uses a controlled environment and an extensive data set. Using a movable wall of constant height, we demonstrate th...
-- [Link](https://doi.org/10.1007/s10291-026-02138-1)
-
-### An efficient GPS flex power detection method based on the light gradient boosting machine (LightGBM) model
-- Yang, Zhang, Tang, Liu, Wang, Zeng, Li, Cheng (2026)
-- *GPS Solutions*
-- **Keywords:** based, boosting, detection, efficient, flex
+- **Keywords:** ceemd, coseismic, deep, denoising, displacement
 - **Abstract:** ...
-- [Link](https://doi.org/10.1007/s10291-026-02151-4)
+- [Link](https://doi.org/10.1007/s10291-026-02157-y)
 
 ### Standalone and RTK GNSS on 30,000 km of North American Highways
 - Tyler G. R. Reid, Nahid Pervez, Umair Ibrahim, Sarah E. Houts, Gaurav Pandey, Naveen K. R. Alla, Andy Hsia (2019)
@@ -219,4 +211,11 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, avs, framework, model, attacks
 - **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
 - [Link](https://arxiv.org/abs/2405.08359v2)
+
+### ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots
+- Cagri Kilic, Shounak Das, Eduardo Gutierrez, Ryan Watson, Jason Gross (2021)
+- *arXiv*
+- **Keywords:** factor, gnss, graph, navigation, inertial
+- **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
+- [Link](https://arxiv.org/abs/2112.07176v1)
 
