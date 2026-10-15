@@ -16,6 +16,14 @@ Automatically updated GNSS papers.
                   Interest in the topic of geodetic co-location in space and space ties has recently intensified within the geodetic community, particularly following the approval of the European Space Agency’s Genesis mission. From the perspective of very long baseline interferometry (VLBI...
 - [Link](https://doi.org/10.1007/s00190-026-02124-y)
 
+### Feasibility of recapturing millimeter-level vibrations by fusing mass-market GNSS and MEMS accelerometer
+- Paziewski, Wang, Sieradzki, Szczepanik, Fu, Geng, Li (2026)
+- *GPS Solutions*
+- **Keywords:** gnss, solution, amplitudes, coupled, low
+- **Abstract:** Abstract
+                  We investigate the feasibility of recapturing millimeter-level vibrations associated, e.g., with structural monitoring using selected low-cost GNSS and IMU sensors, namely u-blox ZED-F9P, and Septentrio Mosaic-X5 GNSS receivers, coupled with RedShift Labs UM7 MEMS unit. Fi...
+- [Link](https://doi.org/10.1007/s10291-026-02161-2)
+
 ### CEEMD-UNet: feature-preserving deep-denoising method for high-rate GNSS coseismic displacement
 - Li, Wang, Jiang, Tu, Liu (2026)
 - *GPS Solutions*
@@ -211,11 +219,4 @@ Automatically updated GNSS papers.
 - **Keywords:** gps, avs, framework, model, attacks
 - **Abstract:** Autonomous Vehicles (AVs) heavily rely on sensors and communication networks like Global Positioning System (GPS) to navigate autonomously. Prior research has indicated that networks like GPS are vulnerable to cyber-attacks such as spoofing and jamming, thus posing serious risks like navigation erro...
 - [Link](https://arxiv.org/abs/2405.08359v2)
-
-### ZUPT Aided GNSS Factor Graph with Inertial Navigation Integration for Wheeled Robots
-- Cagri Kilic, Shounak Das, Eduardo Gutierrez, Ryan Watson, Jason Gross (2021)
-- *arXiv*
-- **Keywords:** factor, gnss, graph, navigation, inertial
-- **Abstract:** In this work, we demonstrate the importance of zero velocity information for global navigation satellite system (GNSS) based navigation. The effectiveness of using the zero velocity information with zero velocity update (ZUPT) for inertial navigation applications have been shown in the literature. H...
-- [Link](https://arxiv.org/abs/2112.07176v1)
 

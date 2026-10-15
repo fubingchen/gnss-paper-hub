@@ -21,6 +21,25 @@
     ]
   },
   {
+    "title": "Feasibility of recapturing millimeter-level vibrations by fusing mass-market GNSS and MEMS accelerometer",
+    "authors": "Paziewski, Wang, Sieradzki, Szczepanik, Fu, Geng, Li",
+    "year": 2026,
+    "journal": "GPS Solutions",
+    "url": "https://doi.org/10.1007/s10291-026-02161-2",
+    "abstract": "Abstract\n                  We investigate the feasibility of recapturing millimeter-level vibrations associated, e.g., with structural monitoring using selected low-cost GNSS and IMU sensors, namely u-blox ZED-F9P, and Septentrio Mosaic-X5 GNSS receivers, coupled with RedShift Labs UM7 MEMS unit. First, the observation assessment reveals that the noise of the low-cost GNSS receiver carrier-phase data is comparable to that of the Trimble Alloy. Subsequently, the performance of vibration retrieval was assessed by recapturing artificially induced motions. We employ a high-rate kinematic PPP GNSS solution based on an uncombined model and couple it with accelerometer records. We find that the GNSS solutions exhibit varying degrees of overshooting in vibration amplitudes. The Trimble GNSS-only solution exhibits the highest overestimation of vibration amplitudes, which we attribute to dynamic stress errors resulting from the narrow bandwidths of the receiver phase-locked loop. The u-blox GNSS-only solution, in turn, exhibits no noticeable overshooting for amplitudes exceeding 5\u00a0mm but becomes too noisy to detect 1-mm-level vibrations. Such deteriorations are not the case for the Septentrio\u2019s solution, predestining this receiver for demanding applications. To precisely retrieve displacement with low-cost sensors, we augment GNSS with a MEMS accelerometer, resulting in a meaningful reduction of the displacement error. Consequently, we demonstrate the feasibility of detecting vibrations with amplitudes as low as 1\u00a0mm and below, with an error of 0.1\u20130.2\u00a0mm, using a coupled mass-market sensor solution. The time-frequency analyses show that while both coupled and single-sensor solutions can precisely detect vibration frequencies, the coupled solution outperforms the single-sensor solution.",
+    "keywords": [
+      "gnss",
+      "solution",
+      "amplitudes",
+      "coupled",
+      "low"
+    ],
+    "tags": [
+      "PPP",
+      "Ionosphere"
+    ]
+  },
+  {
     "title": "CEEMD-UNet: feature-preserving deep-denoising method for high-rate GNSS coseismic displacement",
     "authors": "Li, Wang, Jiang, Tu, Liu",
     "year": 2026,
